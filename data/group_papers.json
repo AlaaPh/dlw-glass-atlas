@@ -9,7 +9,11 @@
   "url": "https://doi.org/10.1364/OPEX.13.010552",
   "experiment": "First observation of discrete spatial solitons in fs-laser-written waveguide arrays in fused silica; the writing process sets the linear and nonlinear guiding properties.",
   "laser_summary": null,
-  "verified_from": "abstract (via web-search excerpt); DOI matched to citation strings in citing papers; author list varies between sources (some include T. Schreiber, T. Pertsch)"
+  "verified_from": "abstract (via web-search excerpt); DOI matched to citation strings in citing papers; author list varies between sources (some include T. Schreiber, T. Pertsch)",
+  "doi_url": "https://doi.org/10.1364/OPEX.13.010552",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Discrete%20nonlinear%20localization%20in%20femtosecond%20laser%20written%20waveguides%20in%20fused%20silica%22",
+  "link_main": "https://doi.org/10.1364/OPEX.13.010552"
  },
  {
   "gp_id": "szameit--rechtsman2013floquet",
@@ -21,7 +25,11 @@
   "url": "https://www.nature.com/articles/nature12066",
   "experiment": "Helical waveguides in a honeycomb lattice act as a periodically driven (Floquet) system; topologically protected one-way edge states were observed.",
   "laser_summary": null,
-  "verified_from": "full text (web-search excerpts of the Technion PDF and arXiv 1212.3146)"
+  "verified_from": "full text (web-search excerpts of the Technion PDF and arXiv 1212.3146)",
+  "doi_url": "https://doi.org/10.1038/nature12066",
+  "copy_url": "https://www.nature.com/articles/nature12066",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Photonic%20Floquet%20topological%20insulators%22",
+  "link_main": "https://doi.org/10.1038/nature12066"
  },
  {
   "gp_id": "szameit--heinrich2014supersymmetric",
@@ -33,7 +41,11 @@
   "url": "https://www.nature.com/articles/ncomms4698",
   "experiment": "Supersymmetric partner lattices (an optical SUSY ladder with N = 6 layers) remove the fundamental mode of a multimode structure while keeping the other modes phase-matched, as a route to mode-division multiplexing.",
   "laser_summary": null,
-  "verified_from": "abstract (web-search excerpt of nature.com page)"
+  "verified_from": "abstract (web-search excerpt of nature.com page)",
+  "doi_url": "https://doi.org/10.1038/ncomms4698",
+  "copy_url": "https://www.nature.com/articles/ncomms4698",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Supersymmetric%20mode%20converters%22",
+  "link_main": "https://doi.org/10.1038/ncomms4698"
  },
  {
   "gp_id": "szameit--maczewsky2017anomalous",
@@ -45,7 +57,11 @@
   "url": "https://www.nature.com/articles/ncomms13756",
   "experiment": "Periodically driven waveguide lattice showing chiral, scatter-free edge transport although every band has Chern number zero.",
   "laser_summary": "Coherent RegA 9000 regenerative amplifier seeded by Mira Ti:sapphire oscillator · 800 nm · 150 fs · 100 kHz · 450 nJ · 1.67 mm/s",
-  "verified_from": "full text (arXiv 1605.03877 methods quoted in web-search excerpts)"
+  "verified_from": "full text (arXiv 1605.03877 methods quoted in web-search excerpts)",
+  "doi_url": "https://doi.org/10.1038/ncomms13756",
+  "copy_url": "https://www.nature.com/articles/ncomms13756",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Observation%20of%20photonic%20anomalous%20Floquet%20topological%20insulators%22",
+  "link_main": "https://doi.org/10.1038/ncomms13756"
  },
  {
   "gp_id": "szameit--kremer2019ptcrystal",
@@ -57,7 +73,11 @@
   "url": "https://www.nature.com/articles/s41467-018-08104-x",
   "experiment": "2D waveguide lattice with designed index landscape and alternating loss; observed a non-Hermitian 2D topological phase transition with mid-gap edge states.",
   "laser_summary": "Ti:sapphire regenerative amplifier seeded by Mira 900 · 100 kHz · 450 nJ · NA 0.35",
-  "verified_from": "full text (arXiv 1809.00041 methods via web-search excerpt); DOI confirmed on nature.com and PMC6347626"
+  "verified_from": "full text (arXiv 1809.00041 methods via web-search excerpt); DOI confirmed on nature.com and PMC6347626",
+  "doi_url": "https://doi.org/10.1038/s41467-018-08104-x",
+  "copy_url": "https://www.nature.com/articles/s41467-018-08104-x",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Demonstration%20of%20a%20two-dimensional%20PT-symmetric%20crystal%22",
+  "link_main": "https://doi.org/10.1038/s41467-018-08104-x"
  },
  {
   "gp_id": "rechtsman--rechtsman2013floquet",
@@ -69,7 +89,11 @@
   "url": "https://www.nature.com/articles/nature12066",
   "experiment": "Helical waveguides in a honeycomb lattice realise a Floquet topological insulator with protected one-way edge states.",
   "laser_summary": null,
-  "verified_from": "full text (web-search excerpts of the Technion PDF and arXiv 1212.3146)"
+  "verified_from": "full text (web-search excerpts of the Technion PDF and arXiv 1212.3146)",
+  "doi_url": "https://doi.org/10.1038/nature12066",
+  "copy_url": "https://www.nature.com/articles/nature12066",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Photonic%20Floquet%20topological%20insulators%22",
+  "link_main": "https://doi.org/10.1038/nature12066"
  },
  {
   "gp_id": "rechtsman--rechtsmangroup2018midgap",
@@ -81,7 +105,11 @@
   "url": "https://science.psu.edu/physics/people/mikael-richtsman",
   "experiment": "Topologically protected mid-gap defect modes in a photonic waveguide lattice. Only the title was confirmed; details not read.",
   "laser_summary": null,
-  "verified_from": "secondary: title/journal/year listed on Rechtsman's Penn State profile (web-search excerpt); authors and DOI not retrieved"
+  "verified_from": "secondary: title/journal/year listed on Rechtsman's Penn State profile (web-search excerpt); authors and DOI not retrieved",
+  "doi_url": null,
+  "copy_url": "https://science.psu.edu/physics/people/mikael-richtsman",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Topological%20protection%20of%20photonic%20mid-gap%20defect%20modes%22",
+  "link_main": "https://science.psu.edu/physics/people/mikael-richtsman"
  },
  {
   "gp_id": "joerg--joergcoauthor2023fractionalpumping",
@@ -93,7 +121,11 @@
   "url": null,
   "experiment": "Fractionally quantized pumping of optical solitons in a nonlinear waveguide array. Only the title, journal and year were confirmed.",
   "laser_summary": null,
-  "verified_from": "secondary: title/journal/year from web-search summary of Jörg's profile pages; authors and DOI not retrieved"
+  "verified_from": "secondary: title/journal/year from web-search summary of Jörg's profile pages; authors and DOI not retrieved",
+  "doi_url": null,
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Quantized%20fractional%20Thouless%20pumping%20of%20solitons%22",
+  "link_main": "https://scholar.google.com/scholar?q=%22Quantized%20fractional%20Thouless%20pumping%20of%20solitons%22"
  },
  {
   "gp_id": "kar--kar2006bismuth",
@@ -105,7 +137,11 @@
   "url": "https://researchportal.hw.ac.uk/en/publications/femtosecond-laser-inscription-of-optical-waveguides-in-bismuth-io/",
   "experiment": "Embedded channel waveguides inscribed in Bi-ion-doped glass (candidate broadband NIR gain medium).",
   "laser_summary": null,
-  "verified_from": "abstract (web-search excerpt of HW research-portal record); DOI not retrieved"
+  "verified_from": "abstract (web-search excerpt of HW research-portal record); DOI not retrieved",
+  "doi_url": null,
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/femtosecond-laser-inscription-of-optical-waveguides-in-bismuth-io/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20inscription%20of%20optical%20waveguides%20in%20Bismuth%20ion%20doped%20glass%22",
+  "link_main": "https://researchportal.hw.ac.uk/en/publications/femtosecond-laser-inscription-of-optical-waveguides-in-bismuth-io/"
  },
  {
   "gp_id": "kar--choudhury2014uli",
@@ -117,7 +153,11 @@
   "url": "https://researchportal.hw.ac.uk/en/publications/ultrafast-laser-inscription-perspectives-on-future-integrated-app/",
   "experiment": "Review of ULI applications, including compact mode-locked waveguide sources and selective etching for lab-on-chip devices.",
   "laser_summary": null,
-  "verified_from": "abstract (web-search excerpt of HW research portal); DOI not retrieved"
+  "verified_from": "abstract (web-search excerpt of HW research portal); DOI not retrieved",
+  "doi_url": null,
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/ultrafast-laser-inscription-perspectives-on-future-integrated-app/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Ultrafast%20laser%20inscription%3A%20perspectives%20on%20future%20integrated%20applications%22",
+  "link_main": "https://researchportal.hw.ac.uk/en/publications/ultrafast-laser-inscription-perspectives-on-future-integrated-app/"
  },
  {
   "gp_id": "osellame--memeo2026birefringence",
@@ -129,7 +169,11 @@
   "url": "https://arxiv.org/abs/2603.25142",
   "experiment": "Engineering the birefringence of multi-scan fs-laser-written waveguides in glass. Title and authors only; content not read.",
   "laser_summary": null,
-  "verified_from": "secondary: arXiv listing (title, authors, affiliations) via web search; preprint without DOI"
+  "verified_from": "secondary: arXiv listing (title, authors, affiliations) via web search; preprint without DOI",
+  "doi_url": null,
+  "copy_url": "https://arxiv.org/abs/2603.25142",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Tailoring%20the%20birefringence%20of%20femtosecond-laser-written%20multi-scan%20waveguides%20in%20glass%22",
+  "link_main": "https://arxiv.org/abs/2603.25142"
  },
  {
   "gp_id": "withford-gross--rossadams2024composite",
@@ -141,7 +185,11 @@
   "url": "https://arxiv.org/abs/2401.03382",
   "experiment": "Composite-morphology ULI waveguides with high index contrast and low bend loss for compact PICs. Title only; content not read.",
   "laser_summary": null,
-  "verified_from": "secondary: title from arXiv listing and Fernandez's Adelaide profile (web-search excerpt); DOI not retrieved"
+  "verified_from": "secondary: title from arXiv listing and Fernandez's Adelaide profile (web-search excerpt); DOI not retrieved",
+  "doi_url": null,
+  "copy_url": "https://arxiv.org/abs/2401.03382",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Low%20Bend%20Loss%2C%20High%20Index%2C%20Composite%20Morphology%20Ultra-fast%20Laser%20Written%20Waveguides%20for%20Photonic%20Integrated%20Circuits%22",
+  "link_main": "https://arxiv.org/abs/2401.03382"
  },
  {
   "gp_id": "solis-fernandez--fernandez2015dualregimes",
@@ -153,7 +201,11 @@
   "url": "https://arxiv.org/abs/1412.5783",
   "experiment": "Proposed that regime I of waveguide formation is driven mainly by migration of light elements and regime II mainly by heavy elements.",
   "laser_summary": null,
-  "verified_from": "abstract (web-search excerpt; also UCM repository https://eprints.ucm.es/30739/); DOI not retrieved"
+  "verified_from": "abstract (web-search excerpt; also UCM repository https://eprints.ucm.es/30739/); DOI not retrieved",
+  "doi_url": null,
+  "copy_url": "https://arxiv.org/abs/1412.5783",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Dual%20regimes%20of%20ion%20migration%20in%20high%20repetition%20rate%20femtosecond%20laser%20inscribed%20waveguides%22",
+  "link_main": "https://arxiv.org/abs/1412.5783"
  },
  {
   "gp_id": "nolte--maczewsky2017anomalous",
@@ -165,6 +217,10 @@
   "url": "https://www.nature.com/articles/ncomms13756",
   "experiment": "Driven waveguide lattice with chiral edge modes despite zero Chern numbers.",
   "laser_summary": "Coherent RegA 9000 regenerative amplifier seeded by Mira Ti:sapphire oscillator · 800 nm · 150 fs · 100 kHz · 450 nJ · 1.67 mm/s",
-  "verified_from": "full text (arXiv 1605.03877 methods quoted in web-search excerpts)"
+  "verified_from": "full text (arXiv 1605.03877 methods quoted in web-search excerpts)",
+  "doi_url": "https://doi.org/10.1038/ncomms13756",
+  "copy_url": "https://www.nature.com/articles/ncomms13756",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Observation%20of%20photonic%20anomalous%20Floquet%20topological%20insulators%22",
+  "link_main": "https://doi.org/10.1038/ncomms13756"
  }
 ]

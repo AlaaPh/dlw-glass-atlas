@@ -35,7 +35,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": "0.01–0.035",
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.21.001729",
+  "copy_url": "https://opg.optica.org/ol/abstract.cfm?uri=ol-21-21-1729",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Writing%20waveguides%20in%20glass%20with%20a%20femtosecond%20laser%22",
+  "link_main": "https://doi.org/10.1364/OL.21.001729"
  },
  {
   "paper_uid": "fused-silica--will2002optical",
@@ -73,7 +77,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/AO.41.004360",
+  "copy_url": "https://opg.optica.org/ao/abstract.cfm?uri=ao-41-21-4360",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Optical%20properties%20of%20waveguides%20fabricated%20in%20fused%20silica%20by%20femtosecond%20laser%20pulses%22",
+  "link_main": "https://doi.org/10.1364/AO.41.004360"
  },
  {
   "paper_uid": "fused-silica--shah2005waveguide",
@@ -111,7 +119,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OPEX.13.001999",
+  "copy_url": "https://opg.optica.org/oe/fulltext.cfm?uri=oe-13-6-1999&id=83002",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Waveguide%20writing%20in%20fused%20silica%20with%20a%20femtosecond%20fiber%20laser%20at%20522%20nm%20and%201%20MHz%20repetition%20rate%22",
+  "link_main": "https://doi.org/10.1364/OPEX.13.001999"
  },
  {
   "paper_uid": "fused-silica--little2008polarization",
@@ -149,7 +161,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.16.020029",
+  "copy_url": "https://opg.optica.org/oe/fulltext.cfm?uri=oe-16-24-20029&id=174900",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20modification%20of%20fused%20silica%3A%20the%20effect%20of%20writing%20polarization%20on%20Si-O%20ring%20structure%22",
+  "link_main": "https://doi.org/10.1364/OE.16.020029"
  },
  {
   "paper_uid": "fused-silica--szameit2005discrete",
@@ -187,7 +203,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OPEX.13.010552",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Discrete%20nonlinear%20localization%20in%20femtosecond%20laser%20written%20waveguides%20in%20fused%20silica%22",
+  "link_main": "https://doi.org/10.1364/OPEX.13.010552"
  },
  {
   "paper_uid": "fused-silica--blomer2006nonlinear",
@@ -225,7 +245,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.14.002151",
+  "copy_url": "https://opg.optica.org/oe/abstract.cfm?uri=OE-14-6-2151",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Nonlinear%20refractive%20index%20of%20fs-laser-written%20waveguides%20in%20fused%20silica%22",
+  "link_main": "https://doi.org/10.1364/OE.14.002151"
  },
  {
   "paper_uid": "fused-silica--szameit2010discrete",
@@ -263,7 +287,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1088/0953-4075/43/16/163001",
+  "copy_url": "https://iopscience.iop.org/article/10.1088/0953-4075/43/16/163001",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Discrete%20optics%20in%20femtosecond-laser-written%20photonic%20structures%22",
+  "link_main": "https://doi.org/10.1088/0953-4075/43/16/163001"
  },
  {
   "paper_uid": "fused-silica--rechtsman2013floquet",
@@ -301,7 +329,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": "7×10⁻⁴",
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/nature12066",
+  "copy_url": "https://www.nature.com/articles/nature12066",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Photonic%20Floquet%20topological%20insulators%22",
+  "link_main": "https://doi.org/10.1038/nature12066"
  },
  {
   "paper_uid": "fused-silica--kremer2019pt",
@@ -339,7 +371,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.2"
+  "loss_short": "0.2",
+  "doi_url": "https://doi.org/10.1038/s41467-018-08104-x",
+  "copy_url": "https://www.nature.com/articles/s41467-018-08104-x",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Demonstration%20of%20a%20two-dimensional%20PT-symmetric%20crystal%22",
+  "link_main": "https://doi.org/10.1038/s41467-018-08104-x"
  },
  {
   "paper_uid": "fused-silica--skryabin2024multiscan",
@@ -380,7 +416,11 @@
   "loss_short": "7×10⁻²",
   "energy_nJ_text": "14–70",
   "speed_mm_s_text": "1–6",
-  "depth_um_text": "100–1000"
+  "depth_um_text": "100–1000",
+  "doi_url": "https://doi.org/10.1103/PhysRevApplied.22.064079",
+  "copy_url": "https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.064079",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond-laser-written%20low-loss%20multiscan%20waveguides%20in%20fused%20silica%22",
+  "link_main": "https://doi.org/10.1103/PhysRevApplied.22.064079"
  },
  {
   "paper_uid": "fused-silica--maczewsky2017anomalous",
@@ -419,7 +459,11 @@
   "glass_flag": null,
   "delta_n_short": null,
   "loss_short": "0.2",
-  "depth_um_text": "671–883"
+  "depth_um_text": "671–883",
+  "doi_url": "https://doi.org/10.1038/ncomms13756",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5216121/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Observation%20of%20photonic%20anomalous%20Floquet%20topological%20insulators%22",
+  "link_main": "https://doi.org/10.1038/ncomms13756"
  },
  {
   "paper_uid": "fused-silica--queralto2020susy",
@@ -458,7 +502,11 @@
   "glass_flag": null,
   "delta_n_short": "7×10⁻⁴",
   "loss_short": null,
-  "speed_mm_s_text": "1.52–1.72"
+  "speed_mm_s_text": "1.52–1.72",
+  "doi_url": null,
+  "copy_url": "https://arxiv.org/abs/1911.01160",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Topological%20state%20engineering%20via%20supersymmetric%20transformations%22",
+  "link_main": "https://arxiv.org/abs/1911.01160"
  },
  {
   "paper_uid": "fused-silica--poulios2014quantum",
@@ -496,7 +544,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1103/PhysRevLett.112.143604",
+  "copy_url": "https://ar5iv.arxiv.org/html/1308.2554",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Quantum%20walks%20of%20correlated%20photon%20pairs%20in%20two-dimensional%20waveguide%20arrays%22",
+  "link_main": "https://doi.org/10.1103/PhysRevLett.112.143604"
  },
  {
   "paper_uid": "fused-silica--weimann2013fano",
@@ -534,7 +586,11 @@
   "checked": "Abstract",
   "glass_flag": "Glass not confirmed",
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://arxiv.org/abs/1304.4699",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Compact%20surface%20Fano%20states%20embedded%20in%20the%20continuum%20of%20waveguide%20arrays%22",
+  "link_main": "https://arxiv.org/abs/1304.4699"
  },
  {
   "paper_uid": "fused-silica--weimann2017pt",
@@ -572,7 +628,11 @@
   "checked": "Abstract",
   "glass_flag": "Glass not confirmed",
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/nmat4811",
+  "copy_url": "https://www.nature.com/articles/nmat4811",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Topologically%20protected%20bound%20states%20in%20photonic%20parity%E2%80%93time-symmetric%20crystals%22",
+  "link_main": "https://doi.org/10.1038/nmat4811"
  },
  {
   "paper_uid": "fused-silica--biesenthal2022fractal",
@@ -610,7 +670,11 @@
   "checked": "Abstract",
   "glass_flag": "Glass not confirmed",
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1126/science.abm2842",
+  "copy_url": "https://phsites.technion.ac.il/publications/msegev/science.abm2842.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Fractal%20photonic%20topological%20insulators%22",
+  "link_main": "https://doi.org/10.1126/science.abm2842"
  },
  {
   "paper_uid": "fused-silica--imai2017yb1030",
@@ -648,7 +712,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.2"
+  "loss_short": "0.2",
+  "doi_url": "https://doi.org/10.1117/12.2251083",
+  "copy_url": "https://ebooks.spiedigitallibrary.org/conference-proceedings-of-spie/10094/1009412/Fabrication-of-low-loss-waveguide-using-fundamental-light-of-Yb/10.1117/12.2251083.full",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Fabrication%20of%20low-loss%20waveguide%20using%20fundamental%20light%20of%20Yb%20%E2%80%A6%20%28title%20ending%20not%20seen%20in%20the%20result%3B%20SPIE%20URL%20slug%20%27Fabrication-of-low-loss-waveguide-using-fundamental-light-of-Yb%27%29%22",
+  "link_main": "https://doi.org/10.1117/12.2251083"
  },
  {
   "paper_uid": "fused-silica--hernandezrueda2018wavelength",
@@ -686,7 +754,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.48550/arXiv.1805.02191",
+  "copy_url": "https://arxiv.org/abs/1805.02191",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22The%20influence%20of%20femtosecond%20laser%20wavelength%20on%20waveguide%20fabrication%20inside%20fused%20silica%22",
+  "link_main": "https://doi.org/10.48550/arXiv.1805.02191"
  },
  {
   "paper_uid": "eagle-xg--eaton2008transition",
@@ -724,7 +796,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://opg.optica.org/oe/abstract.cfm?uri=OE-16-13-9443",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Transition%20from%20thermal%20diffusion%20to%20heat%20accumulation%20in%20high%20repetition%20rate%20femtosecond%20laser%20writing%20of%20buried%20optical%20waveguides%22",
+  "link_main": "https://opg.optica.org/oe/abstract.cfm?uri=OE-16-13-9443"
  },
  {
   "paper_uid": "eagle-xg--eaton2005heat",
@@ -762,7 +838,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.2"
+  "loss_short": "0.2",
+  "doi_url": null,
+  "copy_url": "https://opg.optica.org/oe/abstract.cfm?uri=OE-13-12-4708",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Heat%20accumulation%20effects%20in%20femtosecond%20laser-written%20waveguides%20with%20variable%20repetition%20rate%22",
+  "link_main": "https://opg.optica.org/oe/abstract.cfm?uri=OE-13-12-4708"
  },
  {
   "paper_uid": "eagle-xg--noh2018topological",
@@ -800,7 +880,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/s41566-018-0179-3",
+  "copy_url": "https://www.nature.com/articles/s41566-018-0179-3",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Topological%20protection%20of%20photonic%20mid-gap%20defect%20modes%22",
+  "link_main": "https://doi.org/10.1038/s41566-018-0179-3"
  },
  {
   "paper_uid": "eagle-xg--arxiv2006-13242pumping",
@@ -838,7 +922,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.48550/arXiv.2006.13242",
+  "copy_url": "https://arxiv.org/abs/2006.13242",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Higher-order%20topological%20pumping%20and%20its%20observation%20in%20photonic%20lattices%22",
+  "link_main": "https://doi.org/10.48550/arXiv.2006.13242"
  },
  {
   "paper_uid": "eagle-xg--arxiv2006-06524bic",
@@ -876,7 +964,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.48550/arXiv.2006.06524",
+  "copy_url": "https://arxiv.org/abs/2006.06524",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Observation%20of%20a%20higher-order%20topological%20bound%20state%20in%20the%20continuum%22",
+  "link_main": "https://doi.org/10.48550/arXiv.2006.06524"
  },
  {
   "paper_uid": "eagle-xg--jurgensen2023fractional",
@@ -914,7 +1006,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/s41567-022-01871-x",
+  "copy_url": "https://www.nature.com/articles/s41567-022-01871-x",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Quantized%20fractional%20Thouless%20pumping%20of%20solitons%22",
+  "link_main": "https://doi.org/10.1038/s41567-022-01871-x"
  },
  {
   "paper_uid": "eagle-xg--jorg2025optical",
@@ -952,7 +1048,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1515/nanoph-2024-0401",
+  "copy_url": "https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0401/html",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Optical%20control%20of%20topological%20end%20states%20via%20soliton%20formation%20in%20a%201D%20lattice%22",
+  "link_main": "https://doi.org/10.1515/nanoph-2024-0401"
  },
  {
   "paper_uid": "eagle-xg--prr2022sshstub",
@@ -990,7 +1090,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1103/PhysRevResearch.4.013185",
+  "copy_url": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013185",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Experimental%20observation%20of%20edge%20states%20in%20SSH-Stub%20photonic%20lattices%22",
+  "link_main": "https://doi.org/10.1103/PhysRevResearch.4.013185"
  },
  {
   "paper_uid": "eagle-xg--bentivegna2015scattershot",
@@ -1028,7 +1132,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1126/sciadv.1400255",
+  "copy_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4640628",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Experimental%20scattershot%20boson%20sampling%22",
+  "link_main": "https://doi.org/10.1126/sciadv.1400255"
  },
  {
   "paper_uid": "eagle-xg--pitsios2017geometric",
@@ -1066,7 +1174,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/s41598-017-09462-0",
+  "copy_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5596026/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Geometrically-controlled%20polarisation%20processing%20in%20femtosecond-laser-written%20photonic%20circuits%22",
+  "link_main": "https://doi.org/10.1038/s41598-017-09462-0"
  },
  {
   "paper_uid": "eagle-xg--mukherjee2017anomalous",
@@ -1104,7 +1216,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/ncomms13918",
+  "copy_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5216118/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Experimental%20observation%20of%20anomalous%20topological%20edge%20modes%20in%20a%20slowly%20driven%20photonic%20lattice%22",
+  "link_main": "https://doi.org/10.1038/ncomms13918"
  },
  {
   "paper_uid": "eagle-xg--arxiv2109-01756interorbital",
@@ -1142,7 +1258,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.48550/arXiv.2109.01756",
+  "copy_url": "https://arxiv.org/abs/2109.01756",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Experimental%20observation%20of%20inter-orbital%20coupling%22",
+  "link_main": "https://doi.org/10.48550/arXiv.2109.01756"
  },
  {
   "paper_uid": "eagle-xg--corrielli2014rotated",
@@ -1180,7 +1300,11 @@
   "checked": "Full text",
   "glass_flag": "Glass not confirmed",
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/ncomms5249",
+  "copy_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4083439/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Rotated%20waveplates%20in%20integrated%20waveguide%20optics%22",
+  "link_main": "https://doi.org/10.1038/ncomms5249"
  },
  {
   "paper_uid": "eagle-xg--sansoni2010polarization",
@@ -1218,7 +1342,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.48550/arXiv.1009.2426",
+  "copy_url": "https://arxiv.org/abs/1009.2426",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Polarization%20entangled%20state%20measurement%20on%20a%20chip%22",
+  "link_main": "https://doi.org/10.48550/arXiv.1009.2426"
  },
  {
   "paper_uid": "eagle-xg--arriola2013lowbend",
@@ -1256,7 +1384,11 @@
   "checked": "Abstract",
   "glass_flag": "Glass not confirmed",
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.48550/arXiv.1302.2658",
+  "copy_url": "https://arxiv.org/abs/1302.2658",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Low%20bend%20loss%20waveguides%20enable%20compact%2C%20efficient%203D%20photonic%20chips%22",
+  "link_main": "https://doi.org/10.48550/arXiv.1302.2658"
  },
  {
   "paper_uid": "eagle-xg--piacentini2020space",
@@ -1294,7 +1426,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.48550/arXiv.2004.09427",
+  "copy_url": "https://arxiv.org/abs/2004.09427",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Space%20qualification%20of%20ultrafast%20laser%20written%20integrated%20waveguide%20optics%22",
+  "link_main": "https://doi.org/10.48550/arXiv.2004.09427"
  },
  {
   "paper_uid": "schott-af45--eaton2005heat",
@@ -1332,7 +1468,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.2"
+  "loss_short": "0.2",
+  "doi_url": null,
+  "copy_url": "https://opg.optica.org/oe/abstract.cfm?uri=OE-13-12-4708",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Heat%20accumulation%20effects%20in%20femtosecond%20laser-written%20waveguides%20with%20variable%20repetition%20rate%22",
+  "link_main": "https://opg.optica.org/oe/abstract.cfm?uri=OE-13-12-4708"
  },
  {
   "paper_uid": "schott-n-bk7--ao2008bk7",
@@ -1370,7 +1510,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.3"
+  "loss_short": "0.3",
+  "doi_url": null,
+  "copy_url": "https://opg.optica.org/ao/abstract.cfm?uri=ao-47-12-2098",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Low-loss%20waveguides%20fabricated%20in%20BK7%20glass%20by%20high%20repetition%20rate%20femtosecond%20fiber%20laser%22",
+  "link_main": "https://opg.optica.org/ao/abstract.cfm?uri=ao-47-12-2098"
  },
  {
   "paper_uid": "schott-n-bk7--dharmadhikari2011bk7",
@@ -1408,7 +1552,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "3×10⁻⁴",
-  "loss_short": "0.5"
+  "loss_short": "0.5",
+  "doi_url": "https://doi.org/10.1016/j.optcom.2010.09.055",
+  "copy_url": "https://repository.ias.ac.in/77625",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Writing%20low-loss%20waveguides%20in%20borosilicate%20%28BK7%29%20glass%20with%20a%20low-repetition-rate%20femtosecond%20laser%22",
+  "link_main": "https://doi.org/10.1016/j.optcom.2010.09.055"
  },
  {
   "paper_uid": "schott-n-bk7--allsop2010bk7",
@@ -1446,7 +1594,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "5×10⁻³ to 1×10⁻² (phase microscopy)",
-  "loss_short": "0.2"
+  "loss_short": "0.2",
+  "doi_url": null,
+  "copy_url": "https://publications.aston.ac.uk/id/eprint/15555",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Inscription%20and%20characterization%20of%20waveguides%20written%20into%20borosilicate%20glass%20by%20a%20high-repetition-rate%20femtosecond%20laser%20at%20800%20nm%22",
+  "link_main": "https://publications.aston.ac.uk/id/eprint/15555"
  },
  {
   "paper_uid": "schott-n-bk7--chen2018bk7microstructured",
@@ -1484,7 +1636,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "6.2×10⁻²"
+  "loss_short": "6.2×10⁻²",
+  "doi_url": "https://doi.org/10.1038/s41598-018-28631-3",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6039443/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond-laser-written%20Microstructured%20Waveguides%20in%20BK7%20Glass%22",
+  "link_main": "https://doi.org/10.1038/s41598-018-28631-3"
  },
  {
   "paper_uid": "schott-n-bk7--mittholiya2017bk7splitters",
@@ -1522,7 +1678,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.65"
+  "loss_short": "0.65",
+  "doi_url": "https://doi.org/10.1007/s12596-016-0375-9",
+  "copy_url": "https://link.springer.com/article/10.1007/s12596-016-0375-9",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Inscription%20of%20waveguides%20and%20power%20splitters%20in%20borosilicate%20glass%20%E2%80%A6%20%28title%20ending%20not%20seen%3B%20records%20truncated%20after%20%27borosilicate%20glass%27%29%22",
+  "link_main": "https://doi.org/10.1007/s12596-016-0375-9"
  },
  {
   "paper_uid": "tellurite-tzn--nandi2006tellurite",
@@ -1560,7 +1720,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.14.012145",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20written%20channel%20waveguides%20in%20tellurite%20glass%22",
+  "link_main": "https://doi.org/10.1364/OE.14.012145"
  },
  {
   "paper_uid": "tellurite-tzn--fernandez2014ionmigration",
@@ -1598,7 +1762,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.22.015298",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Role%20of%20ion%20migrations%20in%20ultrafast%20laser%20written%20tellurite%20glass%20waveguides%22",
+  "link_main": "https://doi.org/10.1364/OE.22.015298"
  },
  {
   "paper_uid": "tellurite-tzn--dasilva2018doubleline",
@@ -1636,7 +1804,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": "~1×10⁻⁴",
-  "loss_short": "<2.0 (internal loss)"
+  "loss_short": "<2.0 (internal loss)",
+  "doi_url": "https://doi.org/10.1016/j.optmat.2017.10.033",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Production%20and%20characterization%20of%20femtosecond%20laser-written%20double%20line%20waveguides%20in%20heavy%20metal%20oxide%20glasses%22",
+  "link_main": "https://doi.org/10.1016/j.optmat.2017.10.033"
  },
  {
   "paper_uid": "tellurite-tzn--clabelhuaman2025lanthanum",
@@ -1674,7 +1846,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1021/acsomega.5c02610",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12163806/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Enhancing%20Waveguide%20Performance%20in%20La3%2B-Doped%20Tellurite%20Glasses%3A%20Energy-Induced%20Structural%20Tuning%20for%20Reduced%20Propagation%20Loss%22",
+  "link_main": "https://doi.org/10.1021/acsomega.5c02610"
  },
  {
   "paper_uid": "tellurite-tzn--fernandez2008phosphotellurite",
@@ -1712,7 +1888,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.16.015198",
+  "copy_url": "https://iris.cnr.it/handle/20.500.14243/432041",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Active%20waveguides%20written%20by%20femtosecond%20laser%20irradiation%20in%20an%20erbium-doped%20phospho-tellurite%20glass%22",
+  "link_main": "https://doi.org/10.1364/OE.16.015198"
  },
  {
   "paper_uid": "tungsten-tellurite-twb--okhrimchuk2018nonlinear",
@@ -1750,7 +1930,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://istina.msu.ru/download/151273840/1meSxH:pB3r-ob7jdtRAvX5kwwAmlTdDQA/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Nonlinear%20properties%20of%20the%20depressed%20cladding%20single%20mode%20TeO2-WO3-Bi2O3%20channel%20waveguide%20fabricated%20by%20direct%20laser%20writing%22",
+  "link_main": "https://istina.msu.ru/download/151273840/1meSxH:pB3r-ob7jdtRAvX5kwwAmlTdDQA/"
  },
  {
   "paper_uid": "tungsten-tellurite-twb--okhrimchuk2020supercontinuum",
@@ -1788,7 +1972,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1109/JLT.2019.2954862",
+  "copy_url": "https://ieeexplore.ieee.org/document/8908781/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Direct%20Laser%20Written%20Waveguide%20in%20Tellurite%20Glass%20for%20Supercontinuum%20Generation%20in%202%20%CE%BCm%20Spectral%20Range%22",
+  "link_main": "https://doi.org/10.1109/JLT.2019.2954862"
  },
  {
   "paper_uid": "lead-germanate--khalid2021leadgermanate",
@@ -1827,7 +2015,11 @@
   "glass_flag": null,
   "delta_n_short": "~1×10⁻⁴ (100 kHz) to ~5×10⁻⁴ (5 MHz)",
   "loss_short": "0.2",
-  "rep_kHz_text": "100 / 1000 / 5000"
+  "rep_kHz_text": "100 / 1000 / 5000",
+  "doi_url": "https://doi.org/10.1038/s41598-021-90249-9",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144420/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20induced%20low%20propagation%20loss%20waveguides%20in%20a%20lead-germanate%20glass%20for%20efficient%20lasing%20in%20near%20to%20mid-IR%22",
+  "link_main": "https://doi.org/10.1038/s41598-021-90249-9"
  },
  {
   "paper_uid": "lead-germanate--dasilva2018doubleline",
@@ -1865,7 +2057,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": "~1×10⁻⁴",
-  "loss_short": "<2.0 (internal loss)"
+  "loss_short": "<2.0 (internal loss)",
+  "doi_url": "https://doi.org/10.1016/j.optmat.2017.10.033",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Production%20and%20characterization%20of%20femtosecond%20laser-written%20double%20line%20waveguides%20in%20heavy%20metal%20oxide%20glasses%22",
+  "link_main": "https://doi.org/10.1016/j.optmat.2017.10.033"
  },
  {
   "paper_uid": "corning-9754-germanate--tryoen2026germanate",
@@ -1903,7 +2099,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": "(1.2 ± 0.07)×10⁻² peak, at 600 nm",
-  "loss_short": "0.5 ± 0.1"
+  "loss_short": "0.5 ± 0.1",
+  "doi_url": "https://doi.org/10.1364/OL.582361",
+  "copy_url": "https://opg.optica.org/ol/abstract.cfm?uri=ol-51-1-69",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser-written%20mid-infrared%20waveguides%20in%20a%20heavy%20oxide%20germanate%20glass%22",
+  "link_main": "https://doi.org/10.1364/OL.582361"
  },
  {
   "paper_uid": "sodium-germanate--lotarev2023sodiumgermanate",
@@ -1943,7 +2143,11 @@
   "delta_n_short": null,
   "loss_short": null,
   "rep_kHz_text": "67–1000",
-  "energy_nJ_text": "120 and 210 (measured at the sample surface)"
+  "energy_nJ_text": "120 and 210 (measured at the sample surface)",
+  "doi_url": "https://doi.org/10.3390/nano13071208",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10097084/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Effect%20of%20Pulse%20Repetition%20Rate%20on%20Ultrafast%20Laser-Induced%20Modification%20of%20Sodium%20Germanate%20Glass%22",
+  "link_main": "https://doi.org/10.3390/nano13071208"
  },
  {
   "paper_uid": "bgg-barium-gallo-germanate--berube2017bgg",
@@ -1983,7 +2187,11 @@
   "delta_n_short": "max 8×10⁻³ (0.3 µJ, 5 mm/s)",
   "loss_short": null,
   "energy_nJ_text": "from min. measurable up to max. (1.5 W mean at 250 kHz); best Δn at 300",
-  "speed_mm_s_text": "0.05–50 (best Δn at 5)"
+  "speed_mm_s_text": "0.05–50 (best Δn at 5)",
+  "doi_url": null,
+  "copy_url": "https://opg.optica.org/ome/fulltext.cfm?uri=ome-7-9-3124&id=370448",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20direct%20inscription%20of%20mid-IR%20transmitting%20waveguides%20in%20BGG%20glasses%22",
+  "link_main": "https://opg.optica.org/ome/fulltext.cfm?uri=ome-7-9-3124&id=370448"
  },
  {
   "paper_uid": "bgg-barium-gallo-germanate--lecamus2021couplers",
@@ -2021,7 +2229,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.409527",
+  "copy_url": "https://pubmed.ncbi.nlm.nih.gov/33820299/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Direct-laser-written%20integrated%20mid-IR%20directional%20couplers%20in%20a%20BGG%20glass%22",
+  "link_main": "https://doi.org/10.1364/OE.409527"
  },
  {
   "paper_uid": "schott-n-sf8--sotillo2017nsf8",
@@ -2061,7 +2273,11 @@
   "delta_n_short": "negative near focus",
   "loss_short": "0.7",
   "power_mW_text": "50–400",
-  "speed_mm_s_text": "2–50"
+  "speed_mm_s_text": "2–50",
+  "doi_url": "https://doi.org/10.1016/j.optmat.2017.07.002",
+  "copy_url": "https://eprints.soton.ac.uk/413314/1/Optical_Materials_Accepted_manuscript.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Raman%20spectroscopy%20of%20femtosecond%20laser%20written%20low%20propagation%20loss%20optical%20waveguides%20in%20Schott%20N-SF8%20glass%22",
+  "link_main": "https://doi.org/10.1016/j.optmat.2017.07.002"
  },
  {
   "paper_uid": "la-k-phosphate--fernandez2015dualregimes",
@@ -2100,7 +2316,11 @@
   "glass_flag": null,
   "delta_n_short": null,
   "loss_short": null,
-  "energy_nJ_text": "<600 (regime I); 610–730 (regime II)"
+  "energy_nJ_text": "<600 (regime I); 610–730 (regime II)",
+  "doi_url": "https://doi.org/10.1109/LPT.2015.2407378",
+  "copy_url": "https://arxiv.org/pdf/1412.5783",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Dual%20Regimes%20of%20Ion%20Migration%20in%20High%20Repetition%20Rate%20Femtosecond%20Laser%20Inscribed%20Waveguides%22",
+  "link_main": "https://doi.org/10.1109/LPT.2015.2407378"
  },
  {
   "paper_uid": "la-k-phosphate--fernandez2013strongmigration",
@@ -2138,7 +2358,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://produccioncientifica.ucm.es/documentos/5da701bc2999527d16bb9675?lang=en",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Strong%20ion%20migration%20in%20high%20refractive%20index%20contrast%20waveguides%20formed%20by%20femtosecond%20laser%20pulses%20in%20phosphate%20glass%22",
+  "link_main": "https://produccioncientifica.ucm.es/documentos/5da701bc2999527d16bb9675?lang=en"
  },
  {
   "paper_uid": "er-yb-phosphate--osellame2003astigmatic",
@@ -2176,7 +2400,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.25"
+  "loss_short": "0.25",
+  "doi_url": "https://doi.org/10.1364/JOSAB.20.001559",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20writing%20of%20active%20optical%20waveguides%20with%20astigmatically%20shaped%20beams%22",
+  "link_main": "https://doi.org/10.1364/JOSAB.20.001559"
  },
  {
   "paper_uid": "er-yb-phosphate--osellame2004oscillator",
@@ -2214,7 +2442,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.29.001900",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Optical%20waveguide%20writing%20with%20a%20diode-pumped%20femtosecond%20oscillator%22",
+  "link_main": "https://doi.org/10.1364/OL.29.001900"
  },
  {
   "paper_uid": "er-yb-phosphate--taccheo2004laser",
@@ -2252,7 +2484,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.29.002626",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Er%3AYb-doped%20waveguide%20laser%20fabricated%20by%20femtosecond%20laser%20pulses%22",
+  "link_main": "https://doi.org/10.1364/OL.29.002626"
  },
  {
   "paper_uid": "er-yb-phosphate--osellame2006jstqe",
@@ -2290,7 +2526,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "<0.4"
+  "loss_short": "<0.4",
+  "doi_url": "https://doi.org/10.1109/JSTQE.2006.872731",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Waveguide%20lasers%20in%20the%20C-band%20fabricated%20by%20laser%20inscription%20with%20a%20compact%20femtosecond%20oscillator%22",
+  "link_main": "https://doi.org/10.1109/JSTQE.2006.872731"
  },
  {
   "paper_uid": "er-yb-phosphate--dellavalle2006nanotube",
@@ -2329,7 +2569,11 @@
   "glass_flag": null,
   "delta_n_short": null,
   "loss_short": null,
-  "speed_mm_s_text": "0.05–0.1"
+  "speed_mm_s_text": "0.05–0.1",
+  "doi_url": null,
+  "copy_url": "https://www.graphene.cam.ac.uk/research/publications/publication-2006",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Passive%20mode%20locking%20by%20carbon%20nanotubes%20in%20a%20femtosecond%20laser%20written%20waveguide%20laser%22",
+  "link_main": "https://www.graphene.cam.ac.uk/research/publications/publication-2006"
  },
  {
   "paper_uid": "er-yb-phosphate--marshall2008dfb",
@@ -2367,7 +2611,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.33.000956",
+  "copy_url": "https://arxiv.org/abs/0802.1127",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22A%20Directly-Written%20Monolithic%20Waveguide-Laser%20Incorporating%20a%20DFB%20Waveguide-Bragg%20Grating%20%28arXiv%20title%3B%20the%20Optics%20Letters%20title%20may%20differ%20slightly%29%22",
+  "link_main": "https://doi.org/10.1364/OL.33.000956"
  },
  {
   "paper_uid": "er-yb-phosphate--dellavalle2005cband",
@@ -2405,7 +2653,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://re.public.polimi.it/handle/11311/662357",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22C-band%20waveguide%20amplifier%20produced%20by%20femtosecond%20laser%20writing%22",
+  "link_main": "https://re.public.polimi.it/handle/11311/662357"
  },
  {
   "paper_uid": "yb-phosphate--ams2009yb100mw",
@@ -2443,7 +2695,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.34.000247",
+  "copy_url": "https://arxiv.org/abs/0809.4550",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Monolithic%20100%20mW%20Yb%20waveguide%20laser%20fabricated%20using%20the%20femtosecond-laser%20direct-write%20technique%22",
+  "link_main": "https://doi.org/10.1364/OL.34.000247"
  },
  {
   "paper_uid": "yb-phosphate--ams2012dualwavelength",
@@ -2481,7 +2737,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.37.000993",
+  "copy_url": "https://opg.optica.org/ol/abstract.cfm?uri=ol-37-6-993",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Ultrafast%20laser-written%20dual-wavelength%20waveguide%20laser%22",
+  "link_main": "https://doi.org/10.1364/OL.37.000993"
  },
  {
   "paper_uid": "nd-phosphate--long2013ndphosphate",
@@ -2519,7 +2779,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "1.2"
+  "loss_short": "1.2",
+  "doi_url": null,
+  "copy_url": "https://www.researching.cn/articles/OJfe31f1a39a9efe25",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Buried%20waveguide%20in%20neodymium-doped%20phosphate%20glass%20obtained%20by%20femtosecond%20laser%20writing%20using%20a%20double%20line%20approach%22",
+  "link_main": "https://www.researching.cn/articles/OJfe31f1a39a9efe25"
  },
  {
   "paper_uid": "nd-phosphate--dong2013ndphosphate",
@@ -2557,7 +2821,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1117/12.2020361",
+  "copy_url": "https://spiedigitallibrary.org/conference-proceedings-of-spie/8786/878621/Stress-induced-waveguides-written-by-femtosecond-laser-in-phosphate-glass/10.1117/12.2020361.full",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Stress-induced%20waveguides%20written%20by%20femtosecond%20laser%20in%20phosphate%20glass%22",
+  "link_main": "https://doi.org/10.1117/12.2020361"
  },
  {
   "paper_uid": "er-yb-bismuthate--thomson2010erbismuthate",
@@ -2595,7 +2863,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.18.013212",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Ultrafast%20laser%20inscription%20of%20a%20high-gain%20Er-doped%20bismuthate%20glass%20waveguide%20amplifier%22",
+  "link_main": "https://doi.org/10.1364/OE.18.013212"
  },
  {
   "paper_uid": "er-yb-bismuthate--beecher2010nanotube",
@@ -2633,7 +2905,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1063/1.3486177",
+  "copy_url": "https://pubs.aip.org/aip/apl/article-abstract/97/11/111114/339058/320-fs-pulse-generation-from-an-ultrafast-laser",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22320%20fs%20pulse%20generation%20from%20an%20ultrafast%20laser%20inscribed%20waveguide%20laser%20mode-locked%20by%20a%20nanotube%20saturable%20absorber%22",
+  "link_main": "https://doi.org/10.1063/1.3486177"
  },
  {
   "paper_uid": "er-yb-bismuthate--mary2012ybbismuthate",
@@ -2671,7 +2947,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.37.001691",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Compact%2C%20highly%20efficient%20ytterbium%20doped%20bismuthate%20glass%20waveguide%20laser%22",
+  "link_main": "https://doi.org/10.1364/OL.37.001691"
  },
  {
   "paper_uid": "er-yb-bismuthate--mary2013graphene",
@@ -2709,7 +2989,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.21.007943",
+  "copy_url": "https://arxiv.org/abs/1212.3401",
+  "scholar_url": "https://scholar.google.com/scholar?q=%221.5%20GHz%20picosecond%20pulse%20generation%20from%20a%20monolithic%20waveguide%20laser%20with%20a%20graphene-film%20saturable%20output%20coupler%22",
+  "link_main": "https://doi.org/10.1364/OE.21.007943"
  },
  {
   "paper_uid": "zblan--gross2012zblanbragg",
@@ -2747,7 +3031,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.37.003999",
+  "copy_url": "https://opg.optica.org/ol/abstract.cfm?uri=ol-37-19-3999",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20direct-write%20%C3%BCberstructure%20waveguide%20Bragg%20gratings%20in%20ZBLAN%22",
+  "link_main": "https://doi.org/10.1364/OL.37.003999"
  },
  {
   "paper_uid": "zblan--gross2013fluorozirconate",
@@ -2785,7 +3073,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OME.3.000574",
+  "copy_url": "https://opg.optica.org/ome/fulltext.cfm?uri=ome-3-5-574",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20induced%20structural%20changes%20in%20fluorozirconate%20glass%22",
+  "link_main": "https://doi.org/10.1364/OME.3.000574"
  },
  {
   "paper_uid": "zblan--gross2015zblanmidir",
@@ -2823,7 +3115,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.29"
+  "loss_short": "0.29",
+  "doi_url": "https://doi.org/10.1364/OE.23.007946",
+  "copy_url": "https://opg.optica.org/oe/fulltext.cfm?uri=oe-23-6-7946",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Low%20loss%20mid-infrared%20ZBLAN%20waveguides%20for%20future%20astronomical%20applications%22",
+  "link_main": "https://doi.org/10.1364/OE.23.007946"
  },
  {
   "paper_uid": "zblan--tepper2017zblancombiner",
@@ -2861,7 +3157,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.25.020642",
+  "copy_url": "https://pubmed.ncbi.nlm.nih.gov/29041743/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Ultrafast%20laser%20inscription%20in%20ZBLAN%20integrated%20optics%20chips%20for%20mid-IR%20beam%20combination%20in%20astronomical%20interferometry%22",
+  "link_main": "https://doi.org/10.1364/OE.25.020642"
  },
  {
   "paper_uid": "zblan--arriola2017midirmaterials",
@@ -2899,7 +3199,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OME.7.000698",
+  "copy_url": "https://opg.optica.org/ome/fulltext.cfm?uri=ome-7-3-698&id=359458",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Mid-infrared%20astrophotonics%3A%20study%20of%20ultrafast%20laser%20induced%20index%20change%20in%20compatible%20materials%22",
+  "link_main": "https://doi.org/10.1364/OME.7.000698"
  },
  {
   "paper_uid": "rare-earth-doped-zblan--lancaster2011tmzblan",
@@ -2937,7 +3241,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.36.001587",
+  "copy_url": "https://pubmed.ncbi.nlm.nih.gov/21540936/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Fifty%20percent%20internal%20slope%20efficiency%20femtosecond%20direct-written%20Tm3%2B%3AZBLAN%20waveguide%20laser%22",
+  "link_main": "https://doi.org/10.1364/OL.36.001587"
  },
  {
   "paper_uid": "rare-earth-doped-zblan--lancaster2012hotmzblan",
@@ -2975,7 +3283,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.37.000996",
+  "copy_url": "https://eres.library.adelaide.edu.au/dspace/handle/2440/69709",
+  "scholar_url": "https://scholar.google.com/scholar?q=%222.1%20%C2%B5m%20waveguide%20laser%20fabricated%20by%20femtosecond%20laser%20direct-writing%20in%20Ho3%2B%2C%20Tm3%2B%3AZBLAN%20glass%22",
+  "link_main": "https://doi.org/10.1364/OL.37.000996"
  },
  {
   "paper_uid": "rare-earth-doped-zblan--lancaster2012lmatmzblan",
@@ -3013,7 +3325,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.20.027503",
+  "copy_url": "https://digital.library.adelaide.edu.au/dspace/handle/2440/75022",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Versatile%20large-mode-area%20femtosecond%20laser-written%20Tm%3AZBLAN%20glass%20chip%20lasers%22",
+  "link_main": "https://doi.org/10.1364/OE.20.027503"
  },
  {
   "paper_uid": "rare-earth-doped-zblan--palmer2013ybzblan",
@@ -3051,7 +3367,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.21.017413",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22High%20slope%20efficiency%20and%20high%20refractive%20index%20change%20in%20direct-written%20Yb-doped%20waveguide%20lasers%20with%20depressed%20claddings%22",
+  "link_main": "https://doi.org/10.1364/OE.21.017413"
  },
  {
   "paper_uid": "rare-earth-doped-zblan--lancaster2013ho29um",
@@ -3089,7 +3409,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.38.002588",
+  "copy_url": "https://eres.library.adelaide.edu.au/dspace/handle/2440/79896",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Efficient%202.9%20%C2%B5m%20fluorozirconate%20glass%20waveguide%20chip%20laser%22",
+  "link_main": "https://doi.org/10.1364/OL.38.002588"
  },
  {
   "paper_uid": "rare-earth-doped-zblan--lancaster2014tunable",
@@ -3127,7 +3451,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.22.025286",
+  "copy_url": "https://digital.library.adelaide.edu.au/dspace/handle/2440/92642",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Widely%20tunable%20short-infrared%20thulium%20and%20holmium%20doped%20fluorozirconate%20waveguide%20chip%20lasers%22",
+  "link_main": "https://doi.org/10.1364/OE.22.025286"
  },
  {
   "paper_uid": "rare-earth-doped-zblan--lancaster2015ho1w",
@@ -3165,7 +3493,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.23.032664",
+  "copy_url": "https://digital.library.adelaide.edu.au/items/d4c05998-14b6-4bf2-ae19-a09d8c75ee11",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Holmium-doped%202.1%20%C2%B5m%20waveguide%20chip%20laser%20with%20an%20output%20power%20%3E%201%20W%22",
+  "link_main": "https://doi.org/10.1364/OE.23.032664"
  },
  {
   "paper_uid": "rare-earth-doped-zblan--lancaster2016eryb",
@@ -3203,7 +3535,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1109/LPT.2016.2592514",
+  "copy_url": "https://digital.library.adelaide.edu.au/items/d65e9945-7250-4013-882e-97039eafce80",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Er3%2B%20active%20Yb3%2BCe3%2B%20co-doped%20fluorozirconate%20guided-wave%20chip%20lasers%22",
+  "link_main": "https://doi.org/10.1109/LPT.2016.2592514"
  },
  {
   "paper_uid": "modified-fluorozirconate--fernandez2022tailoredfluoride",
@@ -3241,7 +3577,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "1×10⁻²",
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/s41598-022-18701-y",
+  "copy_url": "https://www.nature.com/articles/s41598-022-18701-y",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Ultrafast%20laser%20inscribed%20waveguides%20in%20tailored%20fluoride%20glasses%3A%20an%20enabling%20technology%20for%20mid-infrared%20integrated%20photonics%20devices%22",
+  "link_main": "https://doi.org/10.1038/s41598-022-18701-y"
  },
  {
   "paper_uid": "modified-fluorozirconate--fernandez2024highdnfluoride",
@@ -3279,7 +3619,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": "2×10⁻²",
-  "loss_short": "0.21"
+  "loss_short": "0.21",
+  "doi_url": "https://doi.org/10.1364/OE.541446",
+  "copy_url": "https://arxiv.org/abs/2409.07674",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Ultrafast%20laser-fabricated%20fluoride%20glass%20waveguides%20with%20exceptionally%20high%20positive%20refractive%20index%20change%20for%20mid-infrared%20integrated%20optics%22",
+  "link_main": "https://doi.org/10.1364/OE.541446"
  },
  {
   "paper_uid": "modified-fluorozirconate--an2025fibrewaveguidering",
@@ -3317,7 +3661,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://arxiv.org/abs/2509.03965",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Optical%20Fiber-Waveguide%20Hybrid%20Architecture%20for%20Mid-Infrared%20Ring%20Lasers%22",
+  "link_main": "https://arxiv.org/abs/2509.03965"
  },
  {
   "paper_uid": "gls--hughes2007gls",
@@ -3355,7 +3703,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "1.47"
+  "loss_short": "1.47",
+  "doi_url": "https://doi.org/10.1063/1.2718486",
+  "copy_url": "https://arxiv.org/abs/2110.10471",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Fabrication%20and%20characterization%20of%20femtosecond%20laser%20written%20waveguides%20in%20chalcogenide%20glass%22",
+  "link_main": "https://doi.org/10.1063/1.2718486"
  },
  {
   "paper_uid": "gls--hughes2009glsbroadening",
@@ -3393,7 +3745,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/JOSAB.26.001370",
+  "copy_url": "https://eprints.soton.ac.uk/163423",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Spectral%20broadening%20in%20femtosecond%20laser%20written%20waveguides%20in%20chalcogenide%20glass%22",
+  "link_main": "https://doi.org/10.1364/JOSAB.26.001370"
  },
  {
   "paper_uid": "gls--rodenas2012midir3d",
@@ -3431,7 +3787,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.37.000392",
+  "copy_url": "https://arxiv.org/abs/1112.2546",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Three-dimensional%20mid-infrared%20photonic%20circuits%20in%20chalcogenide%20glass%22",
+  "link_main": "https://doi.org/10.1364/OL.37.000392"
  },
  {
   "paper_uid": "gls--mccarthy2012glsbroadening",
@@ -3469,7 +3829,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.20.001545",
+  "copy_url": "https://pubmed.ncbi.nlm.nih.gov/22274497/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Mid-infrared%20spectral%20broadening%20in%20an%20ultrafast%20laser%20inscribed%20gallium%20lanthanum%20sulphide%20waveguide%22",
+  "link_main": "https://doi.org/10.1364/OE.20.001545"
  },
  {
   "paper_uid": "gls--arriola2014glscouplers",
@@ -3507,7 +3871,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.8"
+  "loss_short": "0.8",
+  "doi_url": "https://doi.org/10.1364/OL.39.004820",
+  "copy_url": "https://arxiv.org/abs/1408.5953",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Ultrafast%20laser%20inscription%20of%20mid-IR%20directional%20couplers%20for%20stellar%20interferometry%22",
+  "link_main": "https://doi.org/10.1364/OL.39.004820"
  },
  {
   "paper_uid": "gls--demetriou2016glsdispersion",
@@ -3545,7 +3913,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.24.006350",
+  "copy_url": "https://opg.optica.org/oe/fulltext.cfm?uri=oe-24-6-6350",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Refractive%20index%20and%20dispersion%20control%20of%20ultrafast%20laser%20inscribed%20waveguides%20in%20gallium%20lanthanum%20sulphide%20for%20near%20and%20mid-infrared%20applications%22",
+  "link_main": "https://doi.org/10.1364/OE.24.006350"
  },
  {
   "paper_uid": "gls--diener2017glscombiner",
@@ -3583,7 +3955,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.25.019262",
+  "copy_url": "https://kups.ub.uni-koeln.de/22193",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Towards%203D-photonic%2C%20multi-telescope%20beam%20combiners%20for%20mid-infrared%20astrointerferometry%22",
+  "link_main": "https://doi.org/10.1364/OE.25.019262"
  },
  {
   "paper_uid": "gls--vazquez2019glsnonlinear",
@@ -3621,7 +3997,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1088/2515-7647/aade60",
+  "copy_url": "https://arxiv.org/abs/1806.06138",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20inscription%20of%20nonlinear%20photonic%20circuits%20in%20Gallium%20Lanthanum%20Sulphide%20glass%22",
+  "link_main": "https://doi.org/10.1088/2515-7647/aade60"
  },
  {
   "paper_uid": "gls--mackenzie2019glssc",
@@ -3659,7 +4039,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OME.9.000643",
+  "copy_url": "https://opg.optica.org/ome/fulltext.cfm?uri=ome-9-2-643&id=404100",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22GLS%20and%20GLSSe%20ultrafast%20laser%20inscribed%20waveguides%20for%20mid-IR%20supercontinuum%20generation%22",
+  "link_main": "https://doi.org/10.1364/OME.9.000643"
  },
  {
   "paper_uid": "gls--gretzinger2019glsnulling",
@@ -3697,7 +4081,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.22"
+  "loss_short": "0.22",
+  "doi_url": "https://doi.org/10.1364/OE.27.008626",
+  "copy_url": "https://pubmed.ncbi.nlm.nih.gov/31052677/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Towards%20a%20photonic%20mid-infrared%20nulling%20interferometer%20in%20chalcogenide%20glass%22",
+  "link_main": "https://doi.org/10.1364/OE.27.008626"
  },
  {
   "paper_uid": "as2s3--arriola2017midirmaterials",
@@ -3735,7 +4123,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OME.7.000698",
+  "copy_url": "https://opg.optica.org/ome/fulltext.cfm?uri=ome-7-3-698&id=359458",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Mid-infrared%20astrophotonics%3A%20study%20of%20ultrafast%20laser%20induced%20index%20change%20in%20compatible%20materials%22",
+  "link_main": "https://doi.org/10.1364/OME.7.000698"
  },
  {
   "paper_uid": "as2s3--zoubir2004as2s3films",
@@ -3773,7 +4165,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.29.000748",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Direct%20femtosecond%20laser%20writing%20of%20waveguides%20in%20As2S3%20thin%20films%22",
+  "link_main": "https://doi.org/10.1364/OL.29.000748"
  },
  {
   "paper_uid": "as2s3--efimov2001as2s3bulk",
@@ -3811,7 +4207,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1016/S0925-3467(01)00062-3",
+  "copy_url": "https://stars.library.ucf.edu/scopus2000/266",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Waveguides%20in%20chalcogenide%20glasses%20produced%20by%20a%20train%20of%20femtosecond%20laser%20pulses%22",
+  "link_main": "https://doi.org/10.1016/S0925-3467(01)00062-3"
  },
  {
   "paper_uid": "ge-as-se-chalcogenide--morris2018gasir1",
@@ -3849,7 +4249,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OME.8.001001",
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/gesub22subassub20subsesub58sub-glass-ultrafast-laser-inscribed-wa/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Ge22As20Se58%20glass%20ultrafast%20laser%20inscribed%20waveguides%20for%20mid-IR%20integrated%20optics%22",
+  "link_main": "https://doi.org/10.1364/OME.8.001001"
  },
  {
   "paper_uid": "ge-as-se-chalcogenide--butcher2018ig2",
@@ -3887,7 +4291,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.26.010930",
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/demonstration-and-characterization-of-ultrafast-laser-inscribed-m/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Demonstration%20and%20characterization%20of%20ultrafast%20laser-inscribed%20mid-infrared%20waveguides%20in%20chalcogenide%20glass%20IG2%22",
+  "link_main": "https://doi.org/10.1364/OE.26.010930"
  },
  {
   "paper_uid": "borofloat-33--wahl2026iontrap",
@@ -3925,7 +4333,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.48550/arXiv.2608.13207",
+  "copy_url": "https://arxiv.org/abs/2608.13207",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Ion%20trap%20on%20borosilicate%20substrate%20with%20integrated%20femtosecond-laser-written%20waveguide%22",
+  "link_main": "https://doi.org/10.48550/arXiv.2608.13207"
  },
  {
   "paper_uid": "borofloat-33--thiel2015bgwbundles",
@@ -3963,7 +4375,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.40.001266",
+  "copy_url": "https://publica.fraunhofer.de/entities/publication/29a50214-33a7-4b3c-9c35-98608e13185f",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20writing%20of%20Bragg%20grating%20waveguide%20bundles%20in%20bulk%20glass%22",
+  "link_main": "https://doi.org/10.1364/OL.40.001266"
  },
  {
   "paper_uid": "borofloat-33--aip2026commissioning",
@@ -4001,7 +4417,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.48550/arXiv.2609.16419",
+  "copy_url": "https://arxiv.org/abs/2609.16419",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Commissioning%20the%20AIP%27s%20ultrafast%20laser%20Inscription%20facility%3A%20defining%20the%20parameter%20space%20for%20type-I%20waveguide%20fabrication%22",
+  "link_main": "https://doi.org/10.48550/arXiv.2609.16419"
  },
  {
   "paper_uid": "af32-eco--thiel2015bgwbundles",
@@ -4039,7 +4459,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.40.001266",
+  "copy_url": "https://publica.fraunhofer.de/entities/publication/29a50214-33a7-4b3c-9c35-98608e13185f",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20writing%20of%20Bragg%20grating%20waveguide%20bundles%20in%20bulk%20glass%22",
+  "link_main": "https://doi.org/10.1364/OL.40.001266"
  },
  {
   "paper_uid": "soda-lime--dyakonov2016sodalime",
@@ -4077,7 +4501,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.86"
+  "loss_short": "0.86",
+  "doi_url": "https://doi.org/10.1007/s00340-016-6520-y",
+  "copy_url": "https://arxiv.org/abs/1606.07020",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Low-loss%20single-mode%20integrated%20waveguides%20in%20soda-lime%20glass%22",
+  "link_main": "https://doi.org/10.1007/s00340-016-6520-y"
  },
  {
   "paper_uid": "lead-silicate--csic-leadoxide-silicate-mechanisms",
@@ -4115,7 +4543,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1063/1.1994927",
+  "copy_url": "https://digital.csic.es/handle/10261/21099",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Mechanisms%20of%20refractive%20index%20modification%20during%20femtosecond%20laser%20writing%20of%20waveguides%20in%20alkaline%20lead-oxide%20silicate%20glass%22",
+  "link_main": "https://doi.org/10.1063/1.1994927"
  },
  {
   "paper_uid": "lead-silicate--fuerbach2010sf57",
@@ -4153,7 +4585,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://researchers.mq.edu.au/en/publications/fabrication-of-type-i-waveguides-in-highly-nonlinear-sio2-pbo-gla/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Fabrication%20of%20type%20I%20waveguides%20in%20highly%20nonlinear%20SiO2-PbO%20glasses%20using%20fs%20laser%20pulses%20at%20MHz%20repetition%20rates%22",
+  "link_main": "https://researchers.mq.edu.au/en/publications/fabrication-of-type-i-waveguides-in-highly-nonlinear-sio2-pbo-gla/"
  },
  {
   "paper_uid": "gorilla--lapointe2014smartphones",
@@ -4191,7 +4627,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.22.015473",
+  "copy_url": "https://publications.polymtl.ca/12042",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Making%20smart%20phones%20smarter%20with%20photonics%22",
+  "link_main": "https://doi.org/10.1364/OE.22.015473"
  },
  {
   "paper_uid": "gorilla--almeida2018gorilla",
@@ -4229,7 +4669,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1088/1555-6611/aa8ac2",
+  "copy_url": "https://collaborate.princeton.edu/en/publications/third-order-optical-nonlinearities-in-bulk-and-fs-laser-inscribed/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Third-order%20optical%20nonlinearities%20in%20bulk%20and%20fs-laser%20inscribed%20waveguides%20in%20strengthened%20alkali%20aluminosilcate%20glass%22",
+  "link_main": "https://doi.org/10.1088/1555-6611/aa8ac2"
  },
  {
   "paper_uid": "gorilla--lv2020gorilla",
@@ -4267,7 +4711,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://pure.nwpu.edu.cn/en/publications/3d-waveguide-element-fabrication-in-gorilla-glass-by-an-ultrafast/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%223D%20waveguide%20element%20fabrication%20in%20Gorilla%20glass%20by%20an%20ultrafast%20laser%22",
+  "link_main": "https://pure.nwpu.edu.cn/en/publications/3d-waveguide-element-fabrication-in-gorilla-glass-by-an-ultrafast/"
  },
  {
   "paper_uid": "ag-phosphate--bourhis2010silverzincphosphate",
@@ -4305,7 +4753,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1016/j.jnoncrysol.2010.03.033",
+  "copy_url": "https://hal.archives-ouvertes.fr/hal-00609433",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20structuring%20and%20optical%20properties%20of%20a%20silver%20and%20zinc%20phosphate%20glass%22",
+  "link_main": "https://doi.org/10.1016/j.jnoncrysol.2010.03.033"
  },
  {
   "paper_uid": "ag-phosphate--aboukhalil2017typea",
@@ -4343,7 +4795,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/s41598-017-11550-0",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5593842/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Direct%20laser%20writing%20of%20a%20new%20type%20of%20waveguides%20in%20silver%20containing%20glasses%22",
+  "link_main": "https://doi.org/10.1038/s41598-017-11550-0"
  },
  {
   "paper_uid": "ag-phosphate--aboukhalil2018typeavsi",
@@ -4381,7 +4837,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1117/12.2290046",
+  "copy_url": "https://nanolithography.spiedigitallibrary.org/conference-proceedings-of-spie/10522/105220R/Comparative-study-between-the-novel-Type-A-and-the-standard/10.1117/12.2290046.full",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Comparative%20study%20between%20the%20novel%20Type%20A%20and%20the%20standard%20Type%20I%20waveguides%20in%20silver%20containing%20zinc%20phosphate%20glasses%20%28title%20reconstructed%20from%20the%20SPIE%20URL%20slug%20and%20abstract%3B%20may%20be%20truncated%29%22",
+  "link_main": "https://doi.org/10.1117/12.2290046"
  },
  {
   "paper_uid": "ag-phosphate--aboukhalil2019nearsurface",
@@ -4419,7 +4879,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://hal.archives-ouvertes.fr/hal-02316871",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20writing%20of%20near-surface%20waveguides%20for%20refractive-index%20sensing%22",
+  "link_main": "https://hal.archives-ouvertes.fr/hal-02316871"
  },
  {
   "paper_uid": "ag-phosphate--unesp2017agfluorophosphate",
@@ -4457,7 +4921,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1039/c7ra11792b",
+  "copy_url": "https://pubs.rsc.org/en/content/articlehtml/2017/ra/c7ra11792b",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Highly%20luminescent%20silver%20nanocluster-doped%20fluorophosphate%20glasses%20for%20microfabrication%20of%203D%20waveguides%22",
+  "link_main": "https://doi.org/10.1039/c7ra11792b"
  },
  {
   "paper_uid": "ag-phosphate--data2020agzinctracks",
@@ -4495,7 +4963,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7786011/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Data%20on%20the%20femtosecond%20laser-induced%20formation%20of%20tracks%20in%20silver-containing%20zinc%20phosphate%20glass%22",
+  "link_main": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7786011/"
  },
  {
   "paper_uid": "foturan--cheng2003gratings",
@@ -4533,7 +5005,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.11.001809",
+  "copy_url": "https://pure.ecnu.edu.cn/en/publications/optical-gratings-embedded-in-photosensitive-glass-by-photochemica/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Optical%20gratings%20embedded%20in%20photosensitive%20glass%20by%20photochemical%20reaction%20using%20a%20femtosecond%20laser%22",
+  "link_main": "https://doi.org/10.1364/OE.11.001809"
  },
  {
   "paper_uid": "foturan--li2006foturanwaveguides",
@@ -4571,7 +5047,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://www.lia.org/store/laser-application-resources/journal-of-laser-applications-jla-papers?page=22",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Fabrication%20of%20waveguides%20in%20Foturan%20by%20femtosecond%20laser%22",
+  "link_main": "https://www.lia.org/store/laser-application-resources/journal-of-laser-applications-jla-papers?page=22"
  },
  {
   "paper_uid": "foturan--bhardwaj2005multicomponent",
@@ -4609,7 +5089,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1063/1.1876578",
+  "copy_url": "https://katalog.lib.cas.cz/KNAV/EdsRecord/edb,16868323",
+  "scholar_url": "https://scholar.google.com/scholar?q=Bhardwaj%2C%20Simova%2C%20Corkum%2C%20Rayner%20et%20al.%20J.%20Appl.%20Phys.%2097%2C%20083102%20%282005%29",
+  "link_main": "https://doi.org/10.1063/1.1876578"
  },
  {
   "paper_uid": "foturan--wang2008foturanmicrochip",
@@ -4647,7 +5131,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://www2.riken.jp/ExtremePhotonics/attosec/Atto_publications_2008_e.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Fabrication%20of%20integrated%20microchip%20for%20optical%20sensing%20by%20femtosecond%20laser%20direct%20writing%20of%20Foturan%20glass%22",
+  "link_main": "https://www2.riken.jp/ExtremePhotonics/attosec/Atto_publications_2008_e.pdf"
  },
  {
   "paper_uid": "foturan--sugioka2012labchipreview",
@@ -4685,7 +5173,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1039/c2lc40366h",
+  "copy_url": "https://pubs.rsc.org/en/Content/ArticleLanding/2012/LC/C2LC40366H",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20processing%20for%20optofluidic%20fabrication%22",
+  "link_main": "https://doi.org/10.1039/c2lc40366h"
  },
  {
   "paper_uid": "ge-silica-fibre--martinez2004fbgpbp",
@@ -4723,7 +5215,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://research.aston.ac.uk/en/publications/direct-writing-of-fibre-bragg-gratings-by-femtosecond-laser",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Direct%20writing%20of%20fibre%20Bragg%20gratings%20by%20femtosecond%20laser%22",
+  "link_main": "https://research.aston.ac.uk/en/publications/direct-writing-of-fibre-bragg-gratings-by-femtosecond-laser"
  },
  {
   "paper_uid": "ge-silica-fibre--martinez2006coated",
@@ -4761,7 +5257,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://research.aston.ac.uk/en/publications/direct-inscription-of-bragg-gratings-in-coated-fibers-by-an-infra/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Direct%20inscription%20of%20Bragg%20gratings%20in%20coated%20fibers%20by%20an%20infrared%20femtosecond%20laser%22",
+  "link_main": "https://research.aston.ac.uk/en/publications/direct-inscription-of-bragg-gratings-in-coated-fibers-by-an-infra/"
  },
  {
   "paper_uid": "ge-silica-fibre--herman2013matecfibre",
@@ -4799,7 +5299,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1051/matecconf/20130805010",
+  "copy_url": "https://www.matec-conferences.org/articles/matecconf/pdf/2013/06/matecconf_pulm2013_05010.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20Laser%20Structuring%20in%20Optical%20Fiber%20and%20Transparent%20Films%22",
+  "link_main": "https://doi.org/10.1051/matecconf/20130805010"
  },
  {
   "paper_uid": "ge-silica-fibre--haque2014labinfiber",
@@ -4837,7 +5341,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1039/c4lc00648h",
+  "copy_url": "https://pubs.rsc.org/en/content/articlelanding/2014/lc/c4lc00648h",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Chemical-assisted%20femtosecond%20laser%20writing%20of%20lab-in-fibers%22",
+  "link_main": "https://doi.org/10.1039/c4lc00648h"
  },
  {
   "paper_uid": "bi-doped-glass--psaila2006bi",
@@ -4875,7 +5383,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "4.3×10⁻³",
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.14.010452",
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/femtosecond-laser-inscription-of-optical-waveguides-in-bismuth-io/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20inscription%20of%20optical%20waveguides%20in%20Bismuth%20ion%20doped%20glass%22",
+  "link_main": "https://doi.org/10.1364/OE.14.010452"
  },
  {
   "paper_uid": "oxyfluoride-borate--vazquezdealdana2020ngc",
@@ -4913,7 +5425,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "6×10⁻³",
-  "loss_short": "1.6"
+  "loss_short": "1.6",
+  "doi_url": "https://doi.org/10.1364/OME.402271",
+  "copy_url": "https://gredos.usal.es/handle/10366/146645",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20direct%20inscription%20of%203D%20photonic%20devices%20in%20Er/Yb-doped%20oxyfluoride%20nano-glass%20ceramics%22",
+  "link_main": "https://doi.org/10.1364/OME.402271"
  },
  {
   "paper_uid": "oxyfluoride-borate--wong2008oxyfluoride",
@@ -4951,7 +5467,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://research.aston.ac.uk/en/publications/femtosecond-laser-writing-of-buried-waveguides-in-erbium-iii-dope",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20writing%20of%20buried%20waveguides%20in%20erbium%20III-Doped%20oxyfluoride%20glasses%20and%20nano-glass-ceramics%22",
+  "link_main": "https://research.aston.ac.uk/en/publications/femtosecond-laser-writing-of-buried-waveguides-in-erbium-iii-dope"
  },
  {
   "paper_uid": "oxyfluoride-borate--hw2005activeoxyfluoride",
@@ -4989,7 +5509,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/active-waveguide-fabrication-in-erbium-doped-oxyfluoride-silicate-2/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Active%20waveguide%20fabrication%20in%20erbium-doped%20oxyfluoride%20silicate%20glass%20...%20%28title%20truncated%20in%20the%20retrieved%20listing%29%22",
+  "link_main": "https://researchportal.hw.ac.uk/en/publications/active-waveguide-fabrication-in-erbium-doped-oxyfluoride-silicate-2/"
  },
  {
   "paper_uid": "oxyfluoride-borate--psaila2007amplifier",
@@ -5027,7 +5551,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/er-yb-doped-oxyfluoride-silicate-glass-waveguide-amplifier-fabric/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Er%3AYb-doped%20oxyfluoride%20silicate%20glass%20waveguide%20amplifier%20fabricated%20using%20femtosecond%20laser%20inscription%22",
+  "link_main": "https://researchportal.hw.ac.uk/en/publications/er-yb-doped-oxyfluoride-silicate-glass-waveguide-amplifier-fabric/"
  },
  {
   "paper_uid": "oxyfluoride-borate--thomas2015fluoroborate",
@@ -5065,7 +5593,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1007/s12596-018-0462-1",
+  "copy_url": "https://arxiv.org/abs/1503.01927",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Optical%20channel%20waveguides%20written%20by%20high%20repetition%20rate%20femtosecond%20laser%20irradiation%20in%20Li-Zn%20fluoroborate%20glass%22",
+  "link_main": "https://doi.org/10.1007/s12596-018-0462-1"
  },
  {
   "paper_uid": "oxyfluoride-borate--psaila2008oxyfluoridelaser",
@@ -5103,7 +5635,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1109/LPT.2007.912538",
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/laser-action-from-an-er-yb-doped-oxyfluoride-silicate-glass-waveg/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Er%3AYb-Doped%20Oxyfluoride%20Silicate%20Glass%20Waveguide%20Laser%20Fabricated%20Using%20Ultrafast%20Laser%20Inscription%22",
+  "link_main": "https://doi.org/10.1109/LPT.2007.912538"
  },
  {
   "paper_uid": "ule-zerodur--guan2020zerodur",
@@ -5141,7 +5677,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "1.5"
+  "loss_short": "1.5",
+  "doi_url": null,
+  "copy_url": "https://arxiv.org/abs/2011.01019",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Laser-written%20integrated%20photonics%20in%20glass-ceramics%20Zerodur%22",
+  "link_main": "https://arxiv.org/abs/2011.01019"
  },
  {
   "paper_uid": "ule-zerodur--bhardwaj2005multicomponent",
@@ -5179,7 +5719,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1063/1.1876578",
+  "copy_url": "https://katalog.lib.cas.cz/KNAV/EdsRecord/edb,16868323",
+  "scholar_url": "https://scholar.google.com/scholar?q=Bhardwaj%2C%20Simova%2C%20Corkum%2C%20Rayner%20et%20al.%20J.%20Appl.%20Phys.%2097%2C%20083102%20%282005%29",
+  "link_main": "https://doi.org/10.1063/1.1876578"
  },
  {
   "paper_uid": "ule-zerodur--naumov2023lasamorphization",
@@ -5217,7 +5761,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "-0.0035",
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1134/S0020168523040088",
+  "copy_url": "https://journals.rcsi.science/0002-337X/article/view/140152",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Laser%20Amorphization%20of%20a%20Crystalline%20Phase%20in%20the%20Bulk%20of%20a%20Thermally%20Stable%20Lithium%20Aluminosilicate%20Glass-Ceramic%22",
+  "link_main": "https://doi.org/10.1134/S0020168523040088"
  },
  {
   "paper_uid": "ule-zerodur--lipatiev2021depressedlas",
@@ -5255,7 +5803,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "-0.005",
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1016/j.optlastec.2020.106846",
+  "copy_url": "https://www.mdpi.com/2304-6732/12/8/797",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Direct%20laser%20writing%20of%20depressed-cladding%20waveguides%20in%20extremely%20low%20expansion%20lithium%20aluminosilicate%20glass-ceramics%22",
+  "link_main": "https://doi.org/10.1016/j.optlastec.2020.106846"
  },
  {
   "paper_uid": "ule-zerodur--photonics2025las",
@@ -5293,7 +5845,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.3390/photonics12080797",
+  "copy_url": "https://www.mdpi.com/2304-6732/12/8/797",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond-Laser%20Direct%20Writing%20of%20Double-Line%20and%20Tubular%20Depressed-Cladding%20Waveguides%20in%20Ultra-Low-Expansion%20Glass%22",
+  "link_main": "https://doi.org/10.3390/photonics12080797"
  },
  {
   "paper_uid": "linbo3--burghoff2006shg",
@@ -5331,7 +5887,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1063/1.2338532",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Efficient%20frequency%20doubling%20in%20femtosecond%20laser-written%20waveguides%20in%20lithium%20niobate%22",
+  "link_main": "https://doi.org/10.1063/1.2338532"
  },
  {
   "paper_uid": "linbo3--thomson2006zcut",
@@ -5369,7 +5929,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/optical-waveguide-fabrication-in-z-cut-lithium-niobate-linbosub3s/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Optical%20waveguide%20fabrication%20in%20z-cut%20lithium%20niobate%20%28LiNbO3%29%20using%20femtosecond%20pulses%20in%20the%20low%20repetition%20rate%20regime%22",
+  "link_main": "https://researchportal.hw.ac.uk/en/publications/optical-waveguide-fabrication-in-z-cut-lithium-niobate-linbosub3s/"
  },
  {
   "paper_uid": "linbo3--osellame2007ppln",
@@ -5407,7 +5971,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1063/1.2748328",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20writing%20of%20waveguides%20in%20periodically%20poled%20lithium%20niobate%20preserving%20the%20nonlinear%20coefficient%22",
+  "link_main": "https://doi.org/10.1063/1.2748328"
  },
  {
   "paper_uid": "linbo3--liao2008eo",
@@ -5445,7 +6013,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://pure.ecnu.edu.cn/en/publications/electro-optic-integration-of-embedded-electrodes-and-waveguides-i/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Electro-optic%20integration%20of%20embedded%20electrodes%20and%20waveguides%20in%20LiNbO3%20using%20a%20femtosecond%20laser%22",
+  "link_main": "https://pure.ecnu.edu.cn/en/publications/electro-optic-integration-of-embedded-electrodes-and-waveguides-i/"
  },
  {
   "paper_uid": "linbo3--horn2012bragg",
@@ -5483,7 +6055,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.20.026922",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Electro-optical%20tunable%20waveguide%20Bragg%20gratings%20in%20lithium%20niobate%20induced%20by%20femtosecond%20laser%20writing%22",
+  "link_main": "https://doi.org/10.1364/OE.20.026922"
  },
  {
   "paper_uid": "linbo3--kroesen2014bragg",
@@ -5521,7 +6097,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.22.023339",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Electro-optically%20tunable%20waveguide-embedded%20Bragg%20gratings%20in%20LiNbO3%20by%20direct%20femtosecond%20laser%20writing%20%28exact%20title%20not%20shown%20in%20the%20retrieved%20result%29%22",
+  "link_main": "https://doi.org/10.1364/OE.22.023339"
  },
  {
   "paper_uid": "linbo3--qi2016pi",
@@ -5559,7 +6139,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OME.6.002554",
+  "copy_url": "https://arxiv.org/abs/1605.06580",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Fabrication%20of%20polarization-independent%20single-mode%20waveguides%20in%20lithium%20niobate%20crystal%20with%20femtosecond%20laser%20pulses%22",
+  "link_main": "https://doi.org/10.1364/OME.6.002554"
  },
  {
   "paper_uid": "linbo3--wang2017deep",
@@ -5597,7 +6181,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/srep41211",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5253771/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Fabrication%20of%20polarization-independent%20waveguides%20deeply%20buried%20in%20lithium%20niobate%20crystal%20using%20aberration-corrected%20femtosecond%20laser%20direct%20writing%22",
+  "link_main": "https://doi.org/10.1038/srep41211"
  },
  {
   "paper_uid": "linbo3--lv2016mgoln",
@@ -5635,7 +6223,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.94"
+  "loss_short": "0.94",
+  "doi_url": null,
+  "copy_url": "https://core.ac.uk/works/67650143",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20written%20optical%20waveguides%20in%20z-cut%20MgO%3ALiNbO3%20crystal%3A%20Fabrication%20and%20optical%20damage%20investigation%22",
+  "link_main": "https://core.ac.uk/works/67650143"
  },
  {
   "paper_uid": "linbo3--nguyen2016midir",
@@ -5673,7 +6265,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.24.007777",
+  "copy_url": "https://gredos.usal.es/handle/10366/146040",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Heuristic%20modelling%20of%20laser%20written%20mid-infrared%20LiNbO3%20stressed-cladding%20waveguides%22",
+  "link_main": "https://doi.org/10.1364/OE.24.007777"
  },
  {
   "paper_uid": "linbo3--smayev2026lnclad",
@@ -5711,7 +6307,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "2.0"
+  "loss_short": "2.0",
+  "doi_url": null,
+  "copy_url": "https://journals.ioffe.ru/articles/63274",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Laser-written%20waveguides%20in%20lithium%20niobate%3A%20fabrication%20and%20optical%20loss%20characterization%20during%20fiber%20coupling%22",
+  "link_main": "https://journals.ioffe.ru/articles/63274"
  },
  {
   "paper_uid": "litao3--wang2019ppmglt",
@@ -5749,7 +6349,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.27.002101",
+  "copy_url": "https://gredos.usal.es/handle/10366/146019",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Second%20harmonic%20generation%20of%20femtosecond%20laser%20written%20depressed%20cladding%20waveguides%20in%20periodically%20poled%20MgO%3ALiTaO3%20crystal%22",
+  "link_main": "https://doi.org/10.1364/OE.27.002101"
  },
  {
   "paper_uid": "litao3--li2019fanout",
@@ -5787,7 +6391,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://gredos.usal.es/handle/10366/146009",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Efficient%20quasi-phase-matching%20in%20fan-out%20PPSLT%20crystal%20waveguides%20by%20femtosecond%20laser%20direct%20writing%22",
+  "link_main": "https://gredos.usal.es/handle/10366/146009"
  },
  {
   "paper_uid": "litao3--li2019refocus",
@@ -5825,7 +6433,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1109/JLT.2019.2917076",
+  "copy_url": "https://gredos.usal.es/bitstream/10366/147186/1/L.%20Li%20et%20al.%20-%202019%20-%20Femtosecond%20Laser%20Writing%20of%20Optical%20Waveguides%20by.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20Laser%20Writing%20of%20Optical%20Waveguides%20by%20Self-Induced%20Multiple%20Refocusing%20in%20LiTaO3%20Crystal%22",
+  "link_main": "https://doi.org/10.1109/JLT.2019.2917076"
  },
  {
   "paper_uid": "ktp--campbell2007ppktp",
@@ -5863,7 +6475,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/frequency-doubling-in-femtosecond-written-periodically-poled-pota/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Frequency%20doubling%20in%20femtosecond%20written%20periodically%20poled%20potassium%20titanyl%20phosphate%20waveguides%20%28title%20truncated%20in%20the%20portal%20listing%3B%20exact%20wording%20not%20confirmed%29%22",
+  "link_main": "https://researchportal.hw.ac.uk/en/publications/frequency-doubling-in-femtosecond-written-periodically-poled-pota/"
  },
  {
   "paper_uid": "ktp--hybrid2011ktp",
@@ -5901,7 +6517,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://gredos.usal.es/handle/10366/123369",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20writing%20of%20multifunctional%20optical%20waveguides%20in%20a%20Nd%3AYVO4%20%2B%20KTP%20hybrid%20system%22",
+  "link_main": "https://gredos.usal.es/handle/10366/123369"
  },
  {
   "paper_uid": "ktp--nie2016splitter",
@@ -5939,7 +6559,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/srep22310",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4770408/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Efficient%20Second%20Harmonic%20Generation%20in%203D%20Nonlinear%20Optical-Lattice-Like%20Cladding%20Waveguide%20Splitters%20by%20Femtosecond%20Laser%20Inscription%22",
+  "link_main": "https://doi.org/10.1038/srep22310"
  },
  {
   "paper_uid": "ktp--nie2018ktp",
@@ -5977,7 +6601,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1016/j.optmat.2018.07.057",
+  "copy_url": "https://gredos.usal.es/handle/10366/146825",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Implementation%20of%20nearly%20single-mode%20second%20harmonic%20generation%20by%20using%20a%20femtosecond%20laser%20written%20waveguiding%20structure%20in%20KTiOPO4%20nonlinear%20crystal%22",
+  "link_main": "https://doi.org/10.1016/j.optmat.2018.07.057"
  },
  {
   "paper_uid": "ktp--li2024ktp",
@@ -6015,7 +6643,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.3389/fphy.2024.1341210",
+  "copy_url": "https://www.frontiersin.org/articles/10.3389/fphy.2024.1341210/full",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond-laser-inscribed%20cladding%20waveguides%20in%20KTiOPO4%20crystal%20for%20second-harmonic%20generation%20and%20Y-branch%20splitters%22",
+  "link_main": "https://doi.org/10.3389/fphy.2024.1341210"
  },
  {
   "paper_uid": "borate-nlo--jia2012bibo",
@@ -6053,7 +6685,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://gredos.usal.es/handle/10366/146815",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond-laser-inscribed%20BiB3O6%20nonlinear%20cladding%20waveguide%20for%20second-harmonic%20generation%22",
+  "link_main": "https://gredos.usal.es/handle/10366/146815"
  },
  {
   "paper_uid": "borate-nlo--matec2013bibo",
@@ -6091,7 +6727,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://doaj.org/article/c1999e7441524053954fb7da7a9f6f79",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22BiB3O6%20cladding%20waveguide%20for%20violet%20SHG%20%28exact%20title%20not%20shown%20in%20the%20retrieved%20result%29%22",
+  "link_main": "https://doaj.org/article/c1999e7441524053954fb7da7a9f6f79"
  },
  {
   "paper_uid": "lns-glass-crystal--veenhuizen2017grisc",
@@ -6129,7 +6769,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/srep44327",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347130/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Fabrication%20of%20graded%20index%20single%20crystal%20in%20glass%22",
+  "link_main": "https://doi.org/10.1038/srep44327"
  },
  {
   "paper_uid": "lns-glass-crystal--muzi2021oriented",
@@ -6167,7 +6811,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OME.417461",
+  "copy_url": "https://iris.polito.it/bitstream/11583/2881065/1/OME.417461-11-4-1313.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Polarization-oriented%20LiNbO3%20nanocrystals%20by%20femtosecond%20laser%20irradiation%20in%20LiO2%E2%80%93Nb2O5%E2%80%93SiO2%E2%80%93B2O3%20glasses%22",
+  "link_main": "https://doi.org/10.1364/OME.417461"
  },
  {
   "paper_uid": "lns-glass-crystal--he2020crystals",
@@ -6205,7 +6853,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://mdpi-res.com/d_attachment/crystals/crystals-10-00979/article_deploy/crystals-10-00979.epub",
+  "scholar_url": "https://scholar.google.com/scholar?q=X.%20He%2C%20Q.%20Liu%2C%20M.%20Lancry%2C%20F.%20Brisset%2C%20B.%20Poumellec%20Crystals%2010%2C%20979%20%282020%29%20%28article%20number%20from%20the%20MDPI%20file%20name%29",
+  "link_main": "https://mdpi-res.com/d_attachment/crystals/crystals-10-00979/article_deploy/crystals-10-00979.epub"
  },
  {
   "paper_uid": "lns-glass-crystal--ari2023lnsb",
@@ -6243,7 +6895,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.3389/aot.2023.1237570",
+  "copy_url": "https://www.frontiersin.org/journals/advanced-optical-technologies/articles/10.3389/aot.2023.1237570/pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=Ari%2C%20Cavillon%2C%20Lancry%2C%20Poumellec%20Front.%20Adv.%20Opt.%20Technol.%20%282023%29",
+  "link_main": "https://doi.org/10.3389/aot.2023.1237570"
  },
  {
   "paper_uid": "labgeo5-crystal-in-glass--stone2009directional",
@@ -6281,7 +6937,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.17.023284",
+  "copy_url": "https://eprints.soton.ac.uk/431165/1/oe_17_25_23284.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Directionally%20controlled%203D%20ferroelectric%20single%20crystal%20growth%20in%20LaBGeO5%20glass%20by%20femtosecond%20laser%20irradiation%22",
+  "link_main": "https://doi.org/10.1364/OE.17.023284"
  },
  {
   "paper_uid": "labgeo5-crystal-in-glass--stone2015waveguide",
@@ -6319,7 +6979,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "2.64"
+  "loss_short": "2.64",
+  "doi_url": "https://doi.org/10.1038/srep10391",
+  "copy_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4437375",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Direct%20laser-writing%20of%20ferroelectric%20single-crystal%20waveguide%20architectures%20in%20glass%20for%203D%20integrated%20optics%22",
+  "link_main": "https://doi.org/10.1038/srep10391"
  },
  {
   "paper_uid": "labgeo5-crystal-in-glass--lipatiev2017cgd",
@@ -6357,7 +7021,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://istina.msu.ru/publications/article/76164468",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Direct%20Laser%20Writing%20of%20LaBGeO5%20Crystal-in-Glass%20Waveguide%20Enabling%20Frequency%20Conversion%22",
+  "link_main": "https://istina.msu.ru/publications/article/76164468"
  },
  {
   "paper_uid": "labgeo5-crystal-in-glass--lipatiev2023remelt",
@@ -6395,7 +7063,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.3390/mi14040801",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10142135/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Ultrafast-Laser-Induced%20Tailoring%20of%20Crystal-in-Glass%20Waveguides%20by%20Precision%20Partial%20Remelting%22",
+  "link_main": "https://doi.org/10.3390/mi14040801"
  },
  {
   "paper_uid": "labgeo5-crystal-in-glass--lipateva2014lowrate",
@@ -6433,7 +7105,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1117/12.2070469",
+  "copy_url": "https://eprints.soton.ac.uk/442684",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Formation%20of%20crystalline%20dots%20and%20lines%20in%20lanthanum%20borogermanate%20glass%20by%20the%20low%20pulse%20repetition%20rate%20femtosecond%20laser%22",
+  "link_main": "https://doi.org/10.1117/12.2070469"
  },
  {
   "paper_uid": "other-crystal-in-glass--cpl2008bts",
@@ -6471,7 +7147,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://cpl.iphy.ac.cn/Y2008/V25/I1/133",
+  "scholar_url": "https://scholar.google.com/scholar?q=authors%20not%20retrieved%20Chin.%20Phys.%20Lett.%2025%281%29%2C%20133%20%282008%29%20%28volume/issue/page%20from%20the%20journal%20URL%29",
+  "link_main": "https://cpl.iphy.ac.cn/Y2008/V25/I1/133"
  },
  {
   "paper_uid": "other-crystal-in-glass--miura2000bbo",
@@ -6509,7 +7189,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/ol.25.000408",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=authors%20not%20retrieved%20Opt.%20Lett.%2025%2C%20408%20%282000%29%20%28volume/page/year%20derived%20from%20the%20DOI%29",
+  "link_main": "https://doi.org/10.1364/ol.25.000408"
  },
  {
   "paper_uid": "other-crystal-in-glass--review2022crystallization",
@@ -6547,7 +7231,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://www.researching.cn/articles/OJa182bfd6c4efb409",
+  "scholar_url": "https://scholar.google.com/scholar?q=authors%20not%20retrieved%20J.%20Chin.%20Ceram.%20Soc.%2050%284%29%2C%201022%20%282022%29",
+  "link_main": "https://www.researching.cn/articles/OJa182bfd6c4efb409"
  },
  {
   "paper_uid": "nd-yag--okhrimchuk2005depressed",
@@ -6585,7 +7273,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://research.aston.ac.uk/en/publications/depressed-cladding-buried-waveguide-laser-formed-in-a-yag-nd-sup3/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Depressed%20cladding%2C%20buried%20waveguide%20laser%20formed%20in%20a%20YAG%3ANd3%2B%20crystal%20by%20femtosecond%20laser%20writing%22",
+  "link_main": "https://research.aston.ac.uk/en/publications/depressed-cladding-buried-waveguide-laser-formed-in-a-yag-nd-sup3/"
  },
  {
   "paper_uid": "nd-yag--okhrimchuk2012lowloss",
@@ -6623,7 +7315,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.12"
+  "loss_short": "0.12",
+  "doi_url": null,
+  "copy_url": "https://publications.aston.ac.uk/id/eprint/18010/1/Low_loss_depressed_cladding_waveguide.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Low%20loss%20depressed%20cladding%20waveguide%20inscribed%20in%20YAG%3ANd%20single%20crystal%20by%20femtosecond%20laser%20pulses%22",
+  "link_main": "https://publications.aston.ac.uk/id/eprint/18010/1/Low_loss_depressed_cladding_waveguide.pdf"
  },
  {
   "paper_uid": "nd-yag--siebenmorgen2009stress",
@@ -6661,7 +7357,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://publica.fraunhofer.de/entities/publication/879dbd18-27f6-4684-bea7-0f7616a564fc",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20written%20stress-induced%20Nd%3AY3Al5O12%20%28Nd%3AYAG%29%20channel%20waveguide%20laser%22",
+  "link_main": "https://publica.fraunhofer.de/entities/publication/879dbd18-27f6-4684-bea7-0f7616a564fc"
  },
  {
   "paper_uid": "nd-yag--siebenmorgen2010thesis",
@@ -6699,7 +7399,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "1×10⁻³",
-  "loss_short": "0.6"
+  "loss_short": "0.6",
+  "doi_url": null,
+  "copy_url": "https://www2.physnet.uni-hamburg.de/services/biblio/dissertation/dissfbPhysik/___Volltexte/Joerg___Siebenmorgen/Joerg___Siebenmorgen.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Herstellung%20von%20Wellenleiterlasern%20mittels%20Femtosekunden-Laserstrukturierung%20in%20Nd-%20und%20Yb-dotierten%20YAG-Kristallen%22",
+  "link_main": "https://www2.physnet.uni-hamburg.de/services/biblio/dissertation/dissfbPhysik/___Volltexte/Joerg___Siebenmorgen/Joerg___Siebenmorgen.pdf"
  },
  {
   "paper_uid": "nd-yag--liu2013doublecladding",
@@ -6737,7 +7441,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.38.003294",
+  "copy_url": "https://gredos.usal.es/bitstream/10366/123324/1/OptLett_38_3294_2013-NdYAG%20double%20cladding%20fluorescence.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond-laser%20inscribed%20double-cladding%20waveguides%20in%20Nd%3AYAG%20crystal%3A%20A%20promising%20prototype%20for%20integrated%20lasers%22",
+  "link_main": "https://doi.org/10.1364/OL.38.003294"
  },
  {
   "paper_uid": "nd-yag--liu2012ceramic",
@@ -6775,7 +7483,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.20.018620",
+  "copy_url": "https://gredos.usal.es/bitstream/10366/123316/1/OE_20_18620_2012-YAG%20Cladding%20Laser%2bFluorescence.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20inscribed%20cladding%20waveguides%20in%20Nd%3AYAG%20ceramics%3A%20Fabrication%2C%20fluorescence%20imaging%20and%20laser%20performance%22",
+  "link_main": "https://doi.org/10.1364/OE.20.018620"
  },
  {
   "paper_uid": "nd-yag--gebremichael2022ndyag",
@@ -6813,7 +7525,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1117/12.2609000",
+  "copy_url": "https://astronomicaltelescopes.spiedigitallibrary.org/conference-proceedings-of-spie/PC11988/PC1198809/Comparative-study-of-Nd-YAG-waveguide-lasers-inscribed-with-visible/10.1117/12.2609000.full",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Comparative%20study%20of%20Nd%3AYAG%20waveguide%20lasers%20inscribed%20with%20visible%20and%20near-IR%20femtosecond%20laser%20sources%22",
+  "link_main": "https://doi.org/10.1117/12.2609000"
  },
  {
   "paper_uid": "yb-yag--calmano2011diode",
@@ -6851,7 +7567,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://www.fbh-berlin.de/forschung/publikationen/diode-pumped-high-power-operation-of-a-femtosecond-laser-inscribed-ybyag-waveguide-laser",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Diode%20pumped%20high%20power%20operation%20of%20a%20femtosecond%20laser%20inscribed%20Yb%3AYAG%20waveguide%20laser%22",
+  "link_main": "https://www.fbh-berlin.de/forschung/publikationen/diode-pumped-high-power-operation-of-a-femtosecond-laser-inscribed-ybyag-waveguide-laser"
  },
  {
   "paper_uid": "yb-yag--tang2015tubular",
@@ -6889,7 +7609,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://hal-ujm.archives-ouvertes.fr/ujm-01260815",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Tubular%20depressed%20cladding%20waveguide%20laser%20realized%20in%20Yb%3AYAG%20by%20direct%20inscription%20of%20femtosecond%20laser%22",
+  "link_main": "https://hal-ujm.archives-ouvertes.fr/ujm-01260815"
  },
  {
   "paper_uid": "yb-yag--siebenmorgen2010thesis",
@@ -6927,7 +7651,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "1×10⁻³",
-  "loss_short": "0.6"
+  "loss_short": "0.6",
+  "doi_url": null,
+  "copy_url": "https://www2.physnet.uni-hamburg.de/services/biblio/dissertation/dissfbPhysik/___Volltexte/Joerg___Siebenmorgen/Joerg___Siebenmorgen.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Herstellung%20von%20Wellenleiterlasern%20mittels%20Femtosekunden-Laserstrukturierung%20in%20Nd-%20und%20Yb-dotierten%20YAG-Kristallen%22",
+  "link_main": "https://www2.physnet.uni-hamburg.de/services/biblio/dissertation/dissfbPhysik/___Volltexte/Joerg___Siebenmorgen/Joerg___Siebenmorgen.pdf"
  },
  {
   "paper_uid": "yb-yag--nwpu2014ybyagdoubleline",
@@ -6965,7 +7693,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://m.researching.cn/articles/OJ83d7c1f459ba29b4",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Study%20on%20writing%20of%20double%20line%20waveguide%20in%20Yb%3AYAG%20with%20ultrafast%20laser%22",
+  "link_main": "https://m.researching.cn/articles/OJ83d7c1f459ba29b4"
  },
  {
   "paper_uid": "ti-sapphire--grivas2012tisapphire",
@@ -7003,7 +7735,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.37.004630",
+  "copy_url": "https://eprints.soton.ac.uk/368453/1/5363.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Tunable%2C%20continuous-wave%20Ti%3Asapphire%20channel%20waveguide%20lasers%20written%20by%20femtosecond%20and%20picosecond%20laser%20pulses%22",
+  "link_main": "https://doi.org/10.1364/OL.37.004630"
  },
  {
   "paper_uid": "ti-sapphire--grivas2018gigahertz",
@@ -7041,7 +7777,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://eprints.soton.ac.uk/423769/1/Generation_of_multi_gigahertz_trains.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Generation%20of%20multi-gigahertz%20trains%20of%20phase-coherent%20femtosecond%20laser%20pulses%20in%20Ti%3Asapphire%20waveguides%22",
+  "link_main": "https://eprints.soton.ac.uk/423769/1/Generation_of_multi_gigahertz_trains.pdf"
  },
  {
   "paper_uid": "nd-vanadate--tan2010gdvo4",
@@ -7079,7 +7819,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.5"
+  "loss_short": "0.5",
+  "doi_url": null,
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/70-slope-efficiency-from-an-ultrafast-laser-written-nd-gdvo4-chan/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%2270%25%20slope%20efficiency%20from%20an%20ultrafast%20laser-written%20Nd%3AGdVO4%20channel%20waveguide%20laser%22",
+  "link_main": "https://researchportal.hw.ac.uk/en/publications/70-slope-efficiency-from-an-ultrafast-laser-written-nd-gdvo4-chan/"
  },
  {
   "paper_uid": "nd-vanadate--tan2010yvo4",
@@ -7117,7 +7861,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1063/1.3467816",
+  "copy_url": "https://gredos.usal.es/bitstream/10366/123388/1/ApplPhysLett_97_031119_2010-NdYVO-typeII-laser.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Continuous%20wave%20laser%20generation%20at%201064%20nm%20in%20femtosecond%20laser%20inscribed%20Nd%3AYVO4%20channel%20waveguides%22",
+  "link_main": "https://doi.org/10.1063/1.3467816"
  },
  {
   "paper_uid": "nd-vanadate--liu2014gdvo4cladding",
@@ -7155,7 +7903,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://produccioncientifica.usal.es/documentos/5e6954f72999522cccdd01ea?lang=en",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Efficient%20laser%20emission%20from%20cladding%20waveguide%20inscribed%20in%20Nd%3AGdVO4%20crystal%20by%20direct%20femtosecond%20laser%20writing%22",
+  "link_main": "https://produccioncientifica.usal.es/documentos/5e6954f72999522cccdd01ea?lang=en"
  },
  {
   "paper_uid": "nd-vanadate--croitoru2018qswitch",
@@ -7193,7 +7945,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.3390/ma11091689",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6165094/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Passive%20Q-Switching%20by%20Cr4%2B%3AYAG%20Saturable%20Absorber%20of%20Buried%20Depressed-Cladding%20Waveguides%20Obtained%20in%20Nd-Doped%20Media%20by%20Femtosecond%20Laser%20Beam%20Writing%22",
+  "link_main": "https://doi.org/10.3390/ma11091689"
  },
  {
   "paper_uid": "double-tungstate--kifle2017tmkluw",
@@ -7231,7 +7987,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.42.001169",
+  "copy_url": "https://gredos.usal.es/bitstream/10366/147095/1/Kifle%20et%20al.%20-%202017%20-%20Femtosecond-laser-written%20TmKLu%28WO4%292%20waveguide%20l.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond-laser-written%20Tm%3AKLu%28WO4%292%20waveguide%20lasers%22",
+  "link_main": "https://doi.org/10.1364/OL.42.001169"
  },
  {
   "paper_uid": "double-tungstate--kifle2019hokgdw",
@@ -7269,7 +8029,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.94"
+  "loss_short": "0.94",
+  "doi_url": "https://doi.org/10.1364/OL.44.001738",
+  "copy_url": "https://gredos.usal.es/bitstream/10366/147195/1/Kifle%20et%20al.%20-%202019%20-%20Femtosecond-laser-written%20HoKGd%28WO4%292%20waveguide%20l.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond-laser-written%20Ho%3AKGd%28WO4%292%20waveguide%20laser%20at%202.1%20%CE%BCm%22",
+  "link_main": "https://doi.org/10.1364/OL.44.001738"
  },
  {
   "paper_uid": "tm-ho-yag--ren2012midir",
@@ -7307,7 +8071,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/mid-infrared-waveguide-lasers-in-rare-earth-doped-yag/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Mid-infrared%20waveguide%20lasers%20in%20rare-earth-doped%20YAG%22",
+  "link_main": "https://researchportal.hw.ac.uk/en/publications/mid-infrared-waveguide-lasers-in-rare-earth-doped-yag/"
  },
  {
   "paper_uid": "tm-ho-yag--mcdaniel2017hoyag",
@@ -7345,7 +8113,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Operation%20of%20Ho%3AYAG%20ultrafast%20laser%20inscribed%20waveguide%20lasers%22",
+  "link_main": "https://scholar.google.com/scholar?q=%22Operation%20of%20Ho%3AYAG%20ultrafast%20laser%20inscribed%20waveguide%20lasers%22"
  },
  {
   "paper_uid": "tm-ho-yag--skryabin2020couplers",
@@ -7383,7 +8155,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7019769/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20Laser%20Written%20Depressed-Cladding%20Waveguide%202%20%C3%97%202%2C%201%20%C3%97%202%20and%203%20%C3%97%203%20Directional%20Couplers%20in%20Tm3%2B%3AYAG%20Crystal%22",
+  "link_main": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7019769/"
  },
  {
   "paper_uid": "pr-visible--baiocco2023prllf",
@@ -7421,7 +8197,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.487318",
+  "copy_url": "https://gredos.usal.es/handle/10366/169902",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Diode-pumped%20visible%20lasing%20in%20femtosecond-laser-written%20Pr%3ALiLuF4%20waveguide%22",
+  "link_main": "https://doi.org/10.1364/OL.487318"
  },
  {
   "paper_uid": "pr-visible--baiocco2024prllf",
@@ -7459,7 +8239,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.516789",
+  "copy_url": "https://gredos.usal.es/handle/10366/157791",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22High%20efficiency%20diode-pumped%20Pr%3ALiLuF4%20visible%20lasers%20in%20femtosecond-laser-written%20waveguides%22",
+  "link_main": "https://doi.org/10.1364/OE.516789"
  },
  {
   "paper_uid": "sesquioxide-ceramic--morris2017tmlu2o3",
@@ -7497,7 +8281,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.7"
+  "loss_short": "0.7",
+  "doi_url": null,
+  "copy_url": "https://strathprints.strath.ac.uk/61511/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%221.9%20%C2%B5m%20waveguide%20laser%20fabricated%20by%20ultrafast%20laser%20inscription%20in%20Tm%3ALu2O3%20ceramic%22",
+  "link_main": "https://strathprints.strath.ac.uk/61511/"
  },
  {
   "paper_uid": "sesquioxide-ceramic--liu2012ceramic",
@@ -7535,7 +8323,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OE.20.018620",
+  "copy_url": "https://gredos.usal.es/bitstream/10366/123316/1/OE_20_18620_2012-YAG%20Cladding%20Laser%2bFluorescence.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20inscribed%20cladding%20waveguides%20in%20Nd%3AYAG%20ceramics%3A%20Fabrication%2C%20fluorescence%20imaging%20and%20laser%20performance%22",
+  "link_main": "https://doi.org/10.1364/OE.20.018620"
  },
  {
   "paper_uid": "sesquioxide-ceramic--croitoru2018qswitch",
@@ -7573,7 +8365,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.3390/ma11091689",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6165094/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Passive%20Q-Switching%20by%20Cr4%2B%3AYAG%20Saturable%20Absorber%20of%20Buried%20Depressed-Cladding%20Waveguides%20Obtained%20in%20Nd-Doped%20Media%20by%20Femtosecond%20Laser%20Beam%20Writing%22",
+  "link_main": "https://doi.org/10.3390/ma11091689"
  },
  {
   "paper_uid": "sesquioxide-ceramic--ren2012midir",
@@ -7611,7 +8407,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/mid-infrared-waveguide-lasers-in-rare-earth-doped-yag/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Mid-infrared%20waveguide%20lasers%20in%20rare-earth-doped%20YAG%22",
+  "link_main": "https://researchportal.hw.ac.uk/en/publications/mid-infrared-waveguide-lasers-in-rare-earth-doped-yag/"
  },
  {
   "paper_uid": "sesquioxide-ceramic--benayas2011ybyagceramic",
@@ -7649,7 +8449,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1007/s00339-010-6135-9",
+  "copy_url": "https://gredos.usal.es/handle/10366/146822",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Ultrafast%20laser%20writing%20of%20optical%20waveguides%20in%20ceramic%20Yb%3AYAG%3A%20a%20study%20of%20thermal%20and%20non-thermal%20regimes%22",
+  "link_main": "https://doi.org/10.1007/s00339-010-6135-9"
  },
  {
   "paper_uid": "cr-znse--macdonald2013crznse",
@@ -7687,7 +8491,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.38.002194",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Efficient%20mid-infrared%20Cr%3AZnSe%20channel%20waveguide%20laser%20operating%20at%202486%20nm%22",
+  "link_main": "https://doi.org/10.1364/OL.38.002194"
  },
  {
   "paper_uid": "cr-znse--macdonald-apl-compactcrznse",
@@ -7725,7 +8533,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://www.ros.hw.ac.uk/handle/10399/2713",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Compact%20mid-infrared%20Cr%3AZnSe%20channel%20waveguide%20laser%22",
+  "link_main": "https://www.ros.hw.ac.uk/handle/10399/2713"
  },
  {
   "paper_uid": "cr-znse--mcdaniel2015gainswitched",
@@ -7763,7 +8575,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1117/12.2079396",
+  "copy_url": "https://opticalengineering.spiedigitallibrary.org/conference-proceedings-of-spie/9342/93420E/Gain-switched-operation-of-ultrafast-laser-inscribed-waveguides-in-Cr/10.1117/12.2079396.full",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Gain-switched%20operation%20of%20ultrafast%20laser%20inscribed%20waveguides%20in%20Cr%3AZnSe%22",
+  "link_main": "https://doi.org/10.1117/12.2079396"
  },
  {
   "paper_uid": "sapphire--winkler2024sapphire",
@@ -7801,7 +8617,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "1.9"
+  "loss_short": "1.9",
+  "doi_url": null,
+  "copy_url": "https://arxiv.org/abs/2405.08840",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20written%20waveguides%20in%20sapphire%20for%20visible%20light%20delivery%22",
+  "link_main": "https://arxiv.org/abs/2405.08840"
  },
  {
   "paper_uid": "sapphire--wang2024sapphireplatform",
@@ -7839,7 +8659,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.6"
+  "loss_short": "0.6",
+  "doi_url": null,
+  "copy_url": "https://arxiv.org/abs/2409.13110",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Laser-written%20scalable%20sapphire%20integrated%20photonics%20platform%22",
+  "link_main": "https://arxiv.org/abs/2409.13110"
  },
  {
   "paper_uid": "sapphire--wang-sapphire-bragg",
@@ -7877,7 +8701,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.8"
+  "loss_short": "0.8",
+  "doi_url": null,
+  "copy_url": "https://www.advancedmaterials.ox.ac.uk/node/3906641",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Optimization%20of%20single-mode%20sapphire%20waveguide%20Bragg%20gratings%22",
+  "link_main": "https://www.advancedmaterials.ox.ac.uk/node/3906641"
  },
  {
   "paper_uid": "sapphire--berube2019sapphireol",
@@ -7915,7 +8743,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://opg.optica.org/ol/abstract.cfm?uri=ol-44-1-37",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20inscription%20of%20depressed%20cladding%20single-mode%20mid-infrared%20waveguides%20in%20sapphire%22",
+  "link_main": "https://opg.optica.org/ol/abstract.cfm?uri=ol-44-1-37"
  },
  {
   "paper_uid": "sapphire--berube2019spie-midir",
@@ -7953,7 +8785,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1117/12.2508153",
+  "copy_url": "https://spiedigitallibrary.org/conference-proceedings-of-spie/10908/109080S/Inscription-of-single-mode-waveguides-for-the-mid-IR/10.1117/12.2508153.full",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Inscription%20of%20single-mode%20waveguides%20for%20the%20mid-IR%22",
+  "link_main": "https://doi.org/10.1117/12.2508153"
  },
  {
   "paper_uid": "diamond--sotillo2016diamond",
@@ -7991,7 +8827,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/srep35566",
+  "copy_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5066270",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Diamond%20photonics%20platform%20enabled%20by%20femtosecond%20laser%20writing%22",
+  "link_main": "https://doi.org/10.1038/srep35566"
  },
  {
   "paper_uid": "diamond--courvoisier2016diamond",
@@ -8029,7 +8869,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1063/1.4959267",
+  "copy_url": "https://arxiv.org/abs/1606.00170",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Inscription%20of%203D%20waveguides%20in%20diamond%20using%20an%20ultrafast%20laser%22",
+  "link_main": "https://doi.org/10.1063/1.4959267"
  },
  {
   "paper_uid": "diamond--hadden2018diamond",
@@ -8067,7 +8911,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "4.2"
+  "loss_short": "4.2",
+  "doi_url": "https://doi.org/10.1364/OL.43.003586",
+  "copy_url": "https://arxiv.org/abs/1701.05885",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Integrated%20waveguides%20and%20deterministically%20positioned%20nitrogen%20vacancy%20centers%20in%20diamond%20created%20by%20femtosecond%20laser%20writing%22",
+  "link_main": "https://doi.org/10.1364/OL.43.003586"
  },
  {
   "paper_uid": "diamond--bharadwaj2018diamondmidir",
@@ -8105,7 +8953,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "6.0"
+  "loss_short": "6.0",
+  "doi_url": null,
+  "copy_url": "https://arxiv.org/abs/1806.05412",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20written%20diamond%20waveguides%3A%20a%20step%20towards%20integrated%20photonics%20in%20the%20far%20infrared%22",
+  "link_main": "https://arxiv.org/abs/1806.05412"
  },
  {
   "paper_uid": "diamond--bharadwaj2017diamondbragg",
@@ -8143,7 +8995,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://arxiv.org/abs/1705.10285",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20inscription%20of%20Bragg%20grating%20waveguides%20in%20bulk%20diamond%22",
+  "link_main": "https://arxiv.org/abs/1705.10285"
  },
  {
   "paper_uid": "diamond--sotillo2017micromachines",
@@ -8181,7 +9037,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6190110/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Visible%20to%20infrared%20diamond%20photonics%20enabled%20by%20focused%20femtosecond%20laser%20pulses%22",
+  "link_main": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6190110/"
  },
  {
   "paper_uid": "znse-zns--macdonald2010znse",
@@ -8219,7 +9079,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "1.07"
+  "loss_short": "1.07",
+  "doi_url": null,
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/ultrafast-laser-inscription-of-near-infrared-waveguides-in-polycr/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Ultrafast%20laser%20inscription%20of%20near-infrared%20waveguides%20in%20polycrystalline%20ZnSe%22",
+  "link_main": "https://researchportal.hw.ac.uk/en/publications/ultrafast-laser-inscription-of-near-infrared-waveguides-in-polycr/"
  },
  {
   "paper_uid": "znse-zns--macdonald2013crznse",
@@ -8257,7 +9121,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.38.002194",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Efficient%20mid-infrared%20Cr%3AZnSe%20channel%20waveguide%20laser%20operating%20at%202486%20nm%22",
+  "link_main": "https://doi.org/10.1364/OL.38.002194"
  },
  {
   "paper_uid": "znse-zns--macdonald-compact-crznse",
@@ -8295,7 +9163,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/compact-mid-infrared-crznse-channel-waveguide-laser/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Compact%20mid-infrared%20Cr%3AZnSe%20channel%20waveguide%20laser%22",
+  "link_main": "https://researchportal.hw.ac.uk/en/publications/compact-mid-infrared-crznse-channel-waveguide-laser/"
  },
  {
   "paper_uid": "znse-zns--crznse-gainswitched",
@@ -8333,7 +9205,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/gain-switched-operation-of-ultrafast-laser-inscribed-waveguides-i/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Gain-switched%20operation%20of%20ultrafast%20laser%20inscribed%20waveguides%20in%20Cr%3AZnSe%22",
+  "link_main": "https://researchportal.hw.ac.uk/en/publications/gain-switched-operation-of-ultrafast-laser-inscribed-waveguides-i/"
  },
  {
   "paper_uid": "znse-zns--an2013zns",
@@ -8371,7 +9247,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "1.1"
+  "loss_short": "1.1",
+  "doi_url": null,
+  "copy_url": "https://gredos.usal.es/bitstream/10366/123365/1/OptMatExpress_3_446_2013-ZnS-Cladding.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Mid-infrared%20waveguides%20in%20zinc%20sulfide%20crystal%22",
+  "link_main": "https://gredos.usal.es/bitstream/10366/123365/1/OptMatExpress_3_446_2013-ZnS-Cladding.pdf"
  },
  {
   "paper_uid": "znse-zns--peng2015crzns",
@@ -8409,7 +9289,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/srep18365",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4686910/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Mid-infrared%20laser%20emission%20from%20Cr%3AZnS%20channel%20waveguide%20fabricated%20by%20femtosecond%20laser%20helical%20writing%22",
+  "link_main": "https://doi.org/10.1038/srep18365"
  },
  {
   "paper_uid": "znse-zns--ntnu2018zns",
@@ -8447,7 +9331,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.62"
+  "loss_short": "0.62",
+  "doi_url": null,
+  "copy_url": "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2581831",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20writing%20of%20the%20depressed%20cladding%20buried%20channel%20waveguides%20in%20ZnS%20crystal%22",
+  "link_main": "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2581831"
  },
  {
   "paper_uid": "fluoride-crystals--gebremichael2020caf2",
@@ -8485,7 +9373,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.3390/cryst10020109",
+  "copy_url": "https://www.mdpi.com/2073-4352/10/2/109",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Double-Track%20Waveguides%20inside%20Calcium%20Fluoride%20Crystals%22",
+  "link_main": "https://doi.org/10.3390/cryst10020109"
  },
  {
   "paper_uid": "fluoride-crystals--liu2023ybcaf2",
@@ -8523,7 +9415,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.85"
+  "loss_short": "0.85",
+  "doi_url": "https://doi.org/10.1515/nanoph-2023-0396",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11501691/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22MHz%20repetition%20rate%20femtosecond%20radially%20polarized%20vortex%20laser%20direct%20writing%20Yb%3ACaF2%20waveguide%20laser%20operating%20in%20continuous-wave%20and%20pulsed%20regimes%22",
+  "link_main": "https://doi.org/10.1515/nanoph-2023-0396"
  },
  {
   "paper_uid": "fluoride-crystals--ndgdcaf2-col2021",
@@ -8561,7 +9457,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://researchportal.hw.ac.uk/en/publications/near-infrared-lasing-and-tunable-upconversion-from-femtosecond-la/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Near-infrared%20lasing%20and%20tunable%20upconversion%20from%20femtosecond%20laser%20inscribed%20Nd%2CGd%3ACaF2%20waveguides%22",
+  "link_main": "https://researchportal.hw.ac.uk/en/publications/near-infrared-lasing-and-tunable-upconversion-from-femtosecond-la/"
  },
  {
   "paper_uid": "fluoride-crystals--baiocco2025dytbllf",
@@ -8599,7 +9499,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "7×10⁻²"
+  "loss_short": "7×10⁻²",
+  "doi_url": "https://doi.org/10.1016/j.optlastec.2025.112628",
+  "copy_url": "https://arxiv.org/abs/2412.07914",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Yellow%20diode-pumped%20lasing%20of%20femtosecond-laser-written%20Dy%2CTb%3ALiLuF4%20waveguide%22",
+  "link_main": "https://doi.org/10.1016/j.optlastec.2025.112628"
  },
  {
   "paper_uid": "fluoride-crystals--muller2012prylf",
@@ -8637,7 +9541,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://www.researching.cn/articles/OJba93a6839e3d4f1d",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond-laser-written%20diode-pumped%20Pr%3ALiYF4%20waveguide%20laser%22",
+  "link_main": "https://www.researching.cn/articles/OJba93a6839e3d4f1d"
  },
  {
   "paper_uid": "silicon-germanium--nejadmalayeri2005si",
@@ -8675,7 +9583,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "1.2"
+  "loss_short": "1.2",
+  "doi_url": "https://doi.org/10.1364/OL.30.000964",
+  "copy_url": "https://publica.fraunhofer.de/handle/publica/208293",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Inscription%20of%20optical%20waveguides%20in%20crystalline%20silicon%20by%20mid-infrared%20femtosecond%20laser%20pulses%22",
+  "link_main": "https://doi.org/10.1364/OL.30.000964"
  },
  {
   "paper_uid": "silicon-germanium--pavlov2017si",
@@ -8713,7 +9625,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "≈6×10⁻⁴ (shadowgraphy)",
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.42.003028",
+  "copy_url": "https://web4.bilkent.edu.tr/ufolab/wp-content/uploads/2020/01/ol-42-15-3028.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20written%20waveguides%20deep%20inside%20silicon%22",
+  "link_main": "https://doi.org/10.1364/OL.42.003028"
  },
  {
   "paper_uid": "silicon-germanium--alberucci2020si",
@@ -8751,7 +9667,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "maximum ≈4×10⁻³",
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://cris.fau.de/publications/296811733",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22In-depth%20optical%20characterization%20of%20femtosecond-written%20waveguides%20in%20silicon%22",
+  "link_main": "https://cris.fau.de/publications/296811733"
  },
  {
   "paper_uid": "silicon-germanium--turnali2019si",
@@ -8789,7 +9709,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "2.2"
+  "loss_short": "2.2",
+  "doi_url": "https://doi.org/10.1364/JOSAB.36.000966",
+  "copy_url": "https://repository.bilkent.edu.tr/items/161ea78e-bfde-481f-b4de-9ad22c6e8dff",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Laser-written%20depressed-cladding%20waveguides%20deep%20inside%20bulk%20silicon%22",
+  "link_main": "https://doi.org/10.1364/JOSAB.36.000966"
  },
  {
   "paper_uid": "pmma--zoubir2004tubular",
@@ -8827,7 +9751,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OL.29.001840",
+  "copy_url": "https://api.creol.ucf.edu/Publications/3813.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20fabrication%20of%20tubular%20waveguides%20in%20poly%28methyl%20methacrylate%29%22",
+  "link_main": "https://doi.org/10.1364/OL.29.001840"
  },
  {
   "paper_uid": "pmma--scully2003gratings",
@@ -8865,7 +9793,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "≈5×10⁻⁴ before onset of striations",
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1088/1464-4258/5/4/361",
+  "copy_url": "https://strathprints.strath.ac.uk/18260/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20irradiation%20of%20polymethylmethacrylate%20for%20refractive%20index%20gratings%22",
+  "link_main": "https://doi.org/10.1088/1464-4258/5/4/361"
  },
  {
   "paper_uid": "pmma--baum2007photochemistry",
@@ -8903,7 +9835,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "+4×10⁻³",
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://research.universityofgalway.ie/en/publications/photochemistry-of-refractive-index-structures-in-polymethyl-metha/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Photochemistry%20of%20refractive%20index%20structures%20in%20poly%28methyl%20methacrylate%29%20by%20femtosecond%20laser%20irradiation%22",
+  "link_main": "https://research.universityofgalway.ie/en/publications/photochemistry-of-refractive-index-structures-in-polymethyl-metha/"
  },
  {
   "paper_uid": "pmma--baum2008pulseduration",
@@ -8941,7 +9877,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://strathprints.strath.ac.uk/17081/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Pulse-duration%20dependency%20of%20femtosecond%20laser%20refractive%20index%20modification%20in%20poly%28methyl%20methacrylate%29%22",
+  "link_main": "https://strathprints.strath.ac.uk/17081/"
  },
  {
   "paper_uid": "pmma--baum2010mechanisms",
@@ -8979,7 +9919,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/JOSAB.27.000107",
+  "copy_url": "https://centaur.reading.ac.uk/16699",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Mechanisms%20of%20femtosecond%20laser-induced%20refractive%20index%20modification%20of%20poly%28methyl%20methacrylate%29%22",
+  "link_main": "https://doi.org/10.1364/JOSAB.27.000107"
  },
  {
   "paper_uid": "pmma--sowa2006symmetric",
@@ -9017,7 +9961,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Symmetric%20waveguides%20in%20poly%28methyl%20methacrylate%29%20fabricated%20by%20femtosecond%20laser%20pulses%22",
+  "link_main": "https://scholar.google.com/scholar?q=%22Symmetric%20waveguides%20in%20poly%28methyl%20methacrylate%29%20fabricated%20by%20femtosecond%20laser%20pulses%22"
  },
  {
   "paper_uid": "pmma--watanabe2006threed",
@@ -9055,7 +10003,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Three-dimensional%20waveguides%20fabricated%20in%20poly%28methyl%20methacrylate%29%20by%20a%20femtosecond%20laser%22",
+  "link_main": "https://scholar.google.com/scholar?q=%22Three-dimensional%20waveguides%20fabricated%20in%20poly%28methyl%20methacrylate%29%20by%20a%20femtosecond%20laser%22"
  },
  {
   "paper_uid": "pmma--patzold2016cascaded",
@@ -9093,7 +10045,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": "0.5"
+  "loss_short": "0.5",
+  "doi_url": "https://doi.org/10.1364/OL.41.001269",
+  "copy_url": "https://www.lzh.de/node/68609",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Cascaded-focus%20laser%20writing%20of%20low-loss%20waveguides%20in%20polymers%22",
+  "link_main": "https://doi.org/10.1364/OL.41.001269"
  },
  {
   "paper_uid": "pmma--levi2012methacrylate",
@@ -9131,7 +10087,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1007/s00542-011-1347-2",
+  "copy_url": "https://link.springer.com/article/10.1007/s00542-011-1347-2",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20fabrication%20and%20characterization%20of%20microchannels%20and%20waveguides%20in%20methacrylate-based%20polymers%22",
+  "link_main": "https://doi.org/10.1007/s00542-011-1347-2"
  },
  {
   "paper_uid": "coc-zeonex--roth2020femtosecond",
@@ -9169,7 +10129,11 @@
   "checked": "Full text",
   "glass_flag": null,
   "delta_n_short": "positive",
-  "loss_short": "3.2"
+  "loss_short": "3.2",
+  "doi_url": "https://doi.org/10.1364/OE.28.018077",
+  "copy_url": "https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-12-18077&id=432335",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20inscription%20of%20waveguides%20and%20Bragg%20gratings%20in%20transparent%20cyclic%20olefin%20copolymers%22",
+  "link_main": "https://doi.org/10.1364/OE.28.018077"
  },
  {
   "paper_uid": "coc-zeonex--kefer2023lattice",
@@ -9207,7 +10171,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://cris.fau.de/publications/332533477",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Fabrication%20of%20Lattice-Like%20Waveguides%20in%20Planar%20Cyclic%20Olefin%20Copolymers%22",
+  "link_main": "https://cris.fau.de/publications/332533477"
  },
  {
   "paper_uid": "coc-zeonex--kefer2024lattice",
@@ -9245,7 +10213,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "positive",
-  "loss_short": "2.2"
+  "loss_short": "2.2",
+  "doi_url": "https://doi.org/10.1109/JLT.2023.3328323",
+  "copy_url": "https://cris.fau.de/publications/330649884",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Lattice-Like%20Waveguides%20With%20Integrated%20Bragg%20Gratings%20in%20Planar%20Cyclic%20Olefin%20Copolymers%22",
+  "link_main": "https://doi.org/10.1109/JLT.2023.3328323"
  },
  {
   "paper_uid": "pdms--boisvert2020photosensitised",
@@ -9283,7 +10255,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/OSAC.386533",
+  "copy_url": "https://publications.polymtl.ca/45287/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Photosensitised%20PDMS%20for%20femtosecond%20laser%20writing%22",
+  "link_main": "https://doi.org/10.1364/OSAC.386533"
  },
  {
   "paper_uid": "pdms--boisvert2022photosensitization",
@@ -9321,7 +10297,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": "~1×10⁻²",
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1038/s41598-022-05366-w",
+  "copy_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8803880/",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Photosensitization%20agents%20for%20fs%20laser%20writing%20in%20PDMS%22",
+  "link_main": "https://doi.org/10.1038/s41598-022-05366-w"
  },
  {
   "paper_uid": "pdms--chen2023pdmsreview",
@@ -9359,7 +10339,11 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": "https://www.researching.cn/ArticlePdf/m00002/2023/60/13/1316016.pdf",
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20direct%20writing%20of%20Type-I%20waveguides%20in%20flexible%20PDMS%20%28review%3B%20exact%20title%20in%20Chinese/English%20not%20captured%29%22",
+  "link_main": "https://www.researching.cn/ArticlePdf/m00002/2023/60/13/1316016.pdf"
  },
  {
   "paper_uid": "polymer-other--ding2006hydrogel",
@@ -9397,7 +10381,11 @@
   "checked": "Secondary source",
   "glass_flag": null,
   "delta_n_short": "up to +0.06",
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": null,
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Large%20refractive%20index%20change%20in%20silicone-based%20and%20non-silicone-based%20hydrogel%20polymers%20induced%20by%20femtosecond%20laser%20micro-machining%22",
+  "link_main": "https://scholar.google.com/scholar?q=%22Large%20refractive%20index%20change%20in%20silicone-based%20and%20non-silicone-based%20hydrogel%20polymers%20induced%20by%20femtosecond%20laser%20micro-machining%22"
  },
  {
   "paper_uid": "polymer-other--ding2008hydrogelwaveguides",
@@ -9435,6 +10423,10 @@
   "checked": "Abstract",
   "glass_flag": null,
   "delta_n_short": null,
-  "loss_short": null
+  "loss_short": null,
+  "doi_url": "https://doi.org/10.1364/AO.47.003100",
+  "copy_url": null,
+  "scholar_url": "https://scholar.google.com/scholar?q=%22Femtosecond%20laser%20micromachining%20of%20waveguides%20in%20silicone-based%20hydrogel%20polymers%20%28title%20as%20searched%3B%20not%20displayed%20verbatim%20in%20the%20result%20%E2%80%94%20verify%29%22",
+  "link_main": "https://doi.org/10.1364/AO.47.003100"
  }
 ]
