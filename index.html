@@ -133,6 +133,11 @@ img{max-width:100%}
 .ga-gcard .foot b{font-weight:var(--cds-font-weight-medium);color:var(--color-fg)}
 .ga-gcard .fit{color:var(--color-ok)}
 
+.ga-jump{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:var(--cds-font-size-caption);color:var(--color-fg-muted)}
+.ga-jump button{appearance:none;border:1px solid var(--color-border-line);background:var(--color-panel);border-radius:999px;padding:3px 10px;font:inherit;font-size:var(--cds-font-size-caption);color:var(--color-fg);cursor:pointer}
+.ga-jump button:hover{border-color:var(--color-fg-muted)}
+.ga-fam{scroll-margin-top:var(--cds-pad-lg)}
+
 /* ---------- glass page ---------- */
 .ga-back{align-self:flex-start;appearance:none;background:none;border:0;padding:0;font:inherit;font-size:var(--cds-font-size-caption);color:var(--color-fg-muted);cursor:pointer}
 .ga-back:hover{color:var(--color-fg)}
@@ -298,6 +303,7 @@ img{max-width:100%}
         </div>
       </div>
       <p class="ga-cap">Each card is one material; click it to open its page. The dot colour is the optical class. The bottom line counts the papers collected, how many of their recipes are within our laser’s range, and the suppliers found (and how many are in Germany). A material with 0 papers had no laser-writing paper in a targeted search and is listed for its suppliers.</p>
+      <nav class="ga-jump" id="fam-jump" aria-label="Jump to a family"></nav>
       <div class="ga-catalog dash-skeleton" id="catalog" data-source="glasses compare"></div>
       <p class="ga-empty" id="catalog-empty" hidden>No material matches this filter.</p>
     </div>
@@ -763,8 +769,15 @@ img{max-width:100%}
     $('#catalog-empty').hidden = !!list.length;
     const fams = [];
     list.forEach((g) => { let f = fams.find((x) => x.name === g.picker_family); if (!f) fams.push(f = { name: g.picker_family, items: [] }); f.items.push(g); });
-    box.replaceChildren(...fams.map((f) => {
-      const sec = el('section', 'ga-fam');
+    const jump = $('#fam-jump');
+    jump.replaceChildren(el('span', null, 'Jump to:'), ...fams.map((f, i) => {
+      const b = el('button', null, txt(f.name)); b.type = 'button';
+      b.addEventListener('click', () => { const t = document.getElementById('fam-' + i); if (t) t.scrollIntoView({ block: 'start' }); });
+      return b;
+    }));
+    jump.hidden = fams.length < 2;
+    box.replaceChildren(...fams.map((f, i) => {
+      const sec = el('section', 'ga-fam'); sec.id = 'fam-' + i;
       const head = el('div', 'ga-famhead'); head.append(el('h2', null, txt(f.name))); sec.append(head);
       const cards = el('div', 'ga-cards');
       f.items.forEach((g) => {
