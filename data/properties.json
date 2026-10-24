@@ -36,6 +36,42 @@
   "value_short": "0.03–0.5 mm"
  },
  {
+  "prop_id": "ag-phosphate-1",
+  "glass_id": "ag-phosphate",
+  "property": "Laser-glass photo-excitation process",
+  "value": "Four-photon absorption forms luminescent silver clusters locally (fs writing; free-electron density also reported)",
+  "source": "https://hal.archives-ouvertes.fr/hal-00609433",
+  "source_host": "hal.archives-ouvertes.fr",
+  "value_short": "Four-photon absorption forms luminescent silver clusters…"
+ },
+ {
+  "prop_id": "ag-phosphate-2",
+  "glass_id": "ag-phosphate",
+  "property": "Special mechanism (Type A / 'Argentum')",
+  "value": "Positive index change carried by photo-induced fluorescent silver clusters formed at the periphery of the interaction voxel; written at very low pulse energy compared with Type I",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5593842/",
+  "source_host": "ncbi.nlm.nih.gov",
+  "value_short": "Positive index change carried by photo-induced fluorescent…"
+ },
+ {
+  "prop_id": "ag-phosphate-3",
+  "glass_id": "ag-phosphate",
+  "property": "Laser-induced index change (Type A)",
+  "value": "~5×10⁻³ reported; up to ~6×10⁻³ quoted in a later review (values from web-search excerpts; exact page not pinned down)",
+  "source": "https://www.frontiersin.org/journals/advanced-optical-technologies/articles/10.3389/aot.2023.1237679/full",
+  "source_host": "frontiersin.org",
+  "value_short": "~5×10⁻³ reported"
+ },
+ {
+  "prop_id": "ag-phosphate-4",
+  "glass_id": "ag-phosphate",
+  "property": "Cluster formation vs. writing speed (Nd3+ co-doped Ag zinc phosphate, other group)",
+  "value": "At 1-10 um/s, sub-nm Ag nanoclusters and mainly small (<= 2 nm) Ag nanoparticles form in the tracks",
+  "source": "https://journals.ioffe.ru/articles/62021",
+  "source_host": "journals.ioffe.ru",
+  "value_short": "At 1-10 um/s, sub-nm Ag nanoclusters and mainly small"
+ },
+ {
   "prop_id": "as2s3-1",
   "glass_id": "as2s3",
   "property": "Commercial glass / composition",
@@ -115,6 +151,87 @@
   "source": "https://pubmed.ncbi.nlm.nih.gov/33820299/",
   "source_host": "pubmed.ncbi.nlm.nih.gov",
   "value_short": "Abstract: robust glass transmitting in the 2.5–5 µm range"
+ },
+ {
+  "prop_id": "bi-doped-glass-1",
+  "glass_id": "bi-doped-glass",
+  "property": "NIR fluorescence in fs-written waveguides",
+  "value": "broadband emission centred at 1.3 um, FWHM up to 500 nm, pumped at 980 nm and 810 nm",
+  "source": "https://researchportal.hw.ac.uk/en/publications/femtosecond-laser-inscription-of-optical-waveguides-in-bismuth-io/",
+  "source_host": "researchportal.hw.ac.uk",
+  "value_short": "broadband emission centred at 1.3 um, FWHM up to 500 nm,…"
+ },
+ {
+  "prop_id": "bi-doped-glass-2",
+  "glass_id": "bi-doped-glass",
+  "property": "Bi NIR luminescence range (bulk glasses and fibres, general)",
+  "value": "~900-1600 nm (whole telecom window)",
+  "source": "https://www.researching.cn/articles/OJfe23f57a15962a1a",
+  "source_host": "researching.cn",
+  "value_short": "~900-1600 nm"
+ },
+ {
+  "prop_id": "borate-nlo-1",
+  "glass_id": "borate-nlo",
+  "property": "Effective nonlinear coefficient (BiBO)",
+  "value": "d_eff = 3.0 ± 0.1 pm/V for SHG 1064 -> 532 nm (data sheet); 3.2 pm/V (Liebertz et al., as cited); vendors: 3.5-4x LBO and 1.5-2x BBO",
+  "source": "https://www.findlight.net/uploads/products/datasheet/Nonlinear-crystal---BiB3O6-BIBO.pdf ; https://apps.dtic.mil/sti/pdfs/ADP011915.pdf ; https://findlight.net/optics/crystals/nonlinear-crystals/bibo-crystals",
+  "source_host": "findlight.net",
+  "value_short": "d_eff = 3.0 ± 0.1 pm/V for SHG 1064 -> 532 nm (data sheet)"
+ },
+ {
+  "prop_id": "borate-nlo-2",
+  "glass_id": "borate-nlo",
+  "property": "Transmission window (BiBO)",
+  "value": "286-2500 nm; absorption < 0.1 %/cm at 1064 nm",
+  "source": "https://www.findlight.net/uploads/products/datasheet/Nonlinear-crystal---BiB3O6-BIBO.pdf",
+  "source_host": "findlight.net",
+  "value_short": "286-2500 nm"
+ },
+ {
+  "prop_id": "borate-nlo-3",
+  "glass_id": "borate-nlo",
+  "property": "Damage threshold (BiBO)",
+  "value": "> 0.3 GW/cm² at 1064 nm, TEM00, 10 ns, 10 Hz",
+  "source": "https://www.findlight.net/uploads/products/datasheet/Nonlinear-crystal---BiB3O6-BIBO.pdf",
+  "source_host": "findlight.net",
+  "value_short": "> 0.3 GW/cm² at 1064 nm, TEM00, 10 ns, 10 Hz"
+ },
+ {
+  "prop_id": "borate-nlo-4",
+  "glass_id": "borate-nlo",
+  "property": "Walk-off / angular acceptance (BiBO, SHG 1064 nm)",
+  "value": "25.6 mrad; 2.32 mrad·cm",
+  "source": "https://www.findlight.net/uploads/products/datasheet/Nonlinear-crystal---BiB3O6-BIBO.pdf",
+  "source_host": "findlight.net",
+  "value_short": "25.6 mrad"
+ },
+ {
+  "prop_id": "borate-nlo-5",
+  "glass_id": "borate-nlo",
+  "property": "Density / melting point (BiBO)",
+  "value": "5.033 g/cm³; 726 °C",
+  "source": "https://www.findlight.net/uploads/products/datasheet/Nonlinear-crystal---BiB3O6-BIBO.pdf",
+  "source_host": "findlight.net",
+  "value_short": "5.033 g/cm³"
+ },
+ {
+  "prop_id": "borate-nlo-6",
+  "glass_id": "borate-nlo",
+  "property": "Moisture (BiBO)",
+  "value": "Vendors state BiBO is inert to moisture (vendor claim, not independently verified)",
+  "source": "https://findlight.net/optics/crystals/nonlinear-crystals/bibo-crystals",
+  "source_host": "findlight.net",
+  "value_short": "Vendors state BiBO is inert to moisture"
+ },
+ {
+  "prop_id": "borate-nlo-7",
+  "glass_id": "borate-nlo",
+  "property": "BBO refractive index (for comparison)",
+  "value": "n_o ≈ 1.65, n_e ≈ 1.54 @ 1064 nm",
+  "source": "https://ov.surfacenet.de/files/old_version/html/ss-bab2o4__bbo_.html ; https://wikipedia.classicistranieri.com/en/articles/b/e/t/Beta_barium_borate.html (search excerpt did not say which page)",
+  "source_host": "ov.surfacenet.de",
+  "value_short": "n_o ≈ 1.65, n_e ≈ 1.54 @ 1064 nm"
  },
  {
   "prop_id": "borofloat-33-1",
@@ -198,6 +315,141 @@
   "value_short": "SCHOTT states high transparency in UV, visible and near-IR"
  },
  {
+  "prop_id": "coc-zeonex-1",
+  "glass_id": "coc-zeonex",
+  "property": "Refractive index (TOPAS 6013M-07)",
+  "value": "1.53 (ISO 489)",
+  "source": "https://topas.com/wp-content/uploads/2023/05/TDS-6013M-07_e.pdf",
+  "source_host": "topas.com",
+  "value_short": "1.53 (ISO 489)"
+ },
+ {
+  "prop_id": "coc-zeonex-2",
+  "glass_id": "coc-zeonex",
+  "property": "Light transmission (TOPAS 6013M-07)",
+  "value": "91 % (ISO 13468-1)",
+  "source": "https://topas.com/wp-content/uploads/2023/05/TDS-6013M-07_e.pdf",
+  "source_host": "topas.com",
+  "value_short": "91 % (ISO 13468-1)"
+ },
+ {
+  "prop_id": "coc-zeonex-3",
+  "glass_id": "coc-zeonex",
+  "property": "Glass transition Tg (TOPAS 6013M-07)",
+  "value": "142 °C (ISO 11357-1,-2)",
+  "source": "https://topas.com/wp-content/uploads/2023/05/TDS-6013M-07_e.pdf",
+  "source_host": "topas.com",
+  "value_short": "142 °C (ISO 11357-1,-2)"
+ },
+ {
+  "prop_id": "coc-zeonex-4",
+  "glass_id": "coc-zeonex",
+  "property": "TOPAS 5013L-10 (table in a Polymers paper)",
+  "value": "n 1.53; transmittance 91 % (2 mm); Tg 134 °C",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7183051/table/polymers-12-00539-t001",
+  "source_host": "pmc.ncbi.nlm.nih.gov",
+  "value_short": "n 1.53"
+ },
+ {
+  "prop_id": "coc-zeonex-5",
+  "glass_id": "coc-zeonex",
+  "property": "ZEONEX 480R refractive index / Tg",
+  "value": "n 1.525; Tg 138 °C (Zeon Japanese PDF; column assignment from a garbled table — verify)",
+  "source": "https://www.zeon.co.jp/business/enterprise/resin/pdf/200133136.pdf",
+  "source_host": "zeon.co.jp",
+  "value_short": "n 1.525"
+ },
+ {
+  "prop_id": "coc-zeonex-6",
+  "glass_id": "coc-zeonex",
+  "property": "ZEONEX 480R qualitative",
+  "value": "high transparency, high Abbe number, ultra-low moisture absorption, low haze, low fluorescence",
+  "source": "https://plastics.ulprospector.com/plastics/en/datasheet/104002/zeonex-480r",
+  "source_host": "plastics.ulprospector.com",
+  "value_short": "high transparency, high Abbe number, ultra-low moisture…"
+ },
+ {
+  "prop_id": "coc-zeonex-7",
+  "glass_id": "coc-zeonex",
+  "property": "Moisture / chemistry (COC)",
+  "value": "high moisture barrier, high purity, biocompatible, dimensionally stable (6013M-07); humidity-insensitive, temperature-stable substrate for planar Bragg gratings",
+  "source": "https://www.specialchem.com/plastics/product/topas-advanced-polymers-polyplastics-topas-6013m-07",
+  "source_host": "specialchem.com",
+  "value_short": "high moisture barrier, high purity, biocompatible,…"
+ },
+ {
+  "prop_id": "coc-zeonex-9",
+  "glass_id": "coc-zeonex",
+  "property": "Birefringence",
+  "value": "injection-moulded COC plates are anisotropic in all three dimensions (polarimetry, prism coupler); burying structures deeper in the volume makes birefringence effects negligible",
+  "source": "https://opus4.kobv.de/opus4-h-ab/files/2235/Biref_Paper.pdf",
+  "source_host": "opus4.kobv.de",
+  "value_short": "injection-moulded COC plates are anisotropic in all three…"
+ },
+ {
+  "prop_id": "coc-zeonex-8",
+  "glass_id": "coc-zeonex",
+  "property": "Thermal stability of written gratings",
+  "value": "COC planar Bragg grating sensors measured up to 160 °C; TOPAS planar BG blue shift −6.5 pm/°C after repeated annealing cycles (Rosenberger 2015; writing laser of that work not confirmed)",
+  "source": "https://cris.fau.de/publications/243615357?lang=de_DE",
+  "source_host": "cris.fau.de",
+  "value_short": "COC planar Bragg grating sensors measured up to 160 °C"
+ },
+ {
+  "prop_id": "cr-znse-1",
+  "glass_id": "cr-znse",
+  "property": "Refractive index (ZnSe)",
+  "value": "2.44 @ 3 µm (UAB table); 2.455 @ 1650 nm (CRYLINK)",
+  "source": "https://people.cas.uab.edu/~vfedorov/Notes%20Laser%20Physics/Cr%20and%20Fe%20mid%20IR%20lasers%2001%20(Table).htm ; https://www.crylink.com/wp-content/uploads/Laser-crystal-Cr-ZnSe-CRYLINK.pdf",
+  "source_host": "people.cas.uab.edu",
+  "value_short": "2.44 @ 3 µm (UAB table)"
+ },
+ {
+  "prop_id": "cr-znse-2",
+  "glass_id": "cr-znse",
+  "property": "Thermal conductivity (Cr:ZnSe)",
+  "value": "14 W/(m·K) at 20 °C (CRYLINK datasheet); 0.18-0.19 W/(cm·K) ≈ 18-19 W/(m·K) (UAB table; 2025 review); sources disagree",
+  "source": "https://www.crylink.com/wp-content/uploads/Laser-crystal-Cr-ZnSe-CRYLINK.pdf ; https://people.cas.uab.edu/~vfedorov/Notes%20Laser%20Physics/Cr%20and%20Fe%20mid%20IR%20lasers%2001%20(Table).htm ; https://m.researching.cn/articles/OJ2d18d37ee763ce2/figureandtable",
+  "source_host": "crylink.com",
+  "value_short": "14 W/(m·K) at 20 °C"
+ },
+ {
+  "prop_id": "cr-znse-3",
+  "glass_id": "cr-znse",
+  "property": "Emission band",
+  "value": "lasing 2.1-3.1 µm (CRYLINK); emission peak 2.45 µm (2025 review); waveguide lasers at 2486 and 2573 nm",
+  "source": "https://www.laser-crylink.com/laser-products/laser-crystal/crznse/ ; https://m.researching.cn/articles/OJ2d18d37ee763ce2/figureandtable",
+  "source_host": "laser-crylink.com",
+  "value_short": "lasing 2.1-3.1 µm (CRYLINK)"
+ },
+ {
+  "prop_id": "cr-znse-4",
+  "glass_id": "cr-znse",
+  "property": "dn/dT",
+  "value": "61×10⁻⁶ /°C (CRYLINK) vs 70×10⁻⁶ /K (2025 review); sources disagree",
+  "source": "https://www.crylink.com/wp-content/uploads/Laser-crystal-Cr-ZnSe-CRYLINK.pdf ; https://m.researching.cn/articles/OJ2d18d37ee763ce2/figureandtable",
+  "source_host": "crylink.com",
+  "value_short": "61×10⁻⁶ /°C"
+ },
+ {
+  "prop_id": "cr-znse-5",
+  "glass_id": "cr-znse",
+  "property": "Peak emission cross-section",
+  "value": "9×10⁻¹⁹ cm² (CRYLINK)",
+  "source": "https://www.crylink.com/wp-content/uploads/Laser-crystal-Cr-ZnSe-CRYLINK.pdf",
+  "source_host": "crylink.com",
+  "value_short": "9×10⁻¹⁹ cm² (CRYLINK)"
+ },
+ {
+  "prop_id": "cr-znse-6",
+  "glass_id": "cr-znse",
+  "property": "Dopant level",
+  "value": "no supplier value seen; model value 2.0×10¹⁹ cm^-3 (arXiv:2004.13223)",
+  "source": "https://arxiv.org/pdf/2004.13223",
+  "source_host": "arxiv.org",
+  "value_short": "no supplier value seen"
+ },
+ {
   "prop_id": "d263-2",
   "glass_id": "d263",
   "property": "Density",
@@ -268,6 +520,141 @@
   "source": "https://www.schott.com/en-gb/products/d-263/technical-details",
   "source_host": "schott.com",
   "value_short": "n_d = 1.5231, n_D = 1.5230, Abbe number 55, accuracy ±…"
+ },
+ {
+  "prop_id": "diamond-1",
+  "glass_id": "diamond",
+  "property": "Refractive index @ 0.589 µm",
+  "value": "2.4175",
+  "source": "https://www.crystran.com/optical-materials/diamond",
+  "source_host": "crystran.com",
+  "value_short": "2.4175"
+ },
+ {
+  "prop_id": "diamond-2",
+  "glass_id": "diamond",
+  "property": "Refractive index (single-crystal CVD, WD Advanced Materials)",
+  "value": "2.418 @ 500 nm",
+  "source": "https://wdadvancedmaterials.com/product-page/optical-scd-cvd-diamond-wafer-1",
+  "source_host": "wdadvancedmaterials.com",
+  "value_short": "2.418 @ 500 nm"
+ },
+ {
+  "prop_id": "diamond-3",
+  "glass_id": "diamond",
+  "property": "Refractive index, UV to far-IR (II-VI CVD diamond)",
+  "value": "2.722 @ 0.22 µm falling to 2.380 @ 25.2 µm; value at 1 µm not retrieved",
+  "source": "https://pdf.directindustry.com/pdf/ii-vi-infrared/cvd-diamond-substrates/37313-164574.html",
+  "source_host": "pdf.directindustry.com",
+  "value_short": "2.722 @ 0.22 µm falling to 2.380 @ 25.2 µm"
+ },
+ {
+  "prop_id": "diamond-4",
+  "glass_id": "diamond",
+  "property": "Transmission window (Element Six)",
+  "value": "220 nm to >50 µm",
+  "source": "https://terpconnect.umd.edu/~antonsen/ENEE681-lectures/element_six_optics_brochure_1.pdf",
+  "source_host": "terpconnect.umd.edu",
+  "value_short": "220 nm to >50 µm"
+ },
+ {
+  "prop_id": "diamond-5",
+  "glass_id": "diamond",
+  "property": "Transmission window (Crystran, type IIa)",
+  "value": "0.3–2.5 µm and 7 to >100 µm (Crystran lists a gap between 2.5 and 7 µm)",
+  "source": "https://www.crystran.com/optical-materials/diamond",
+  "source_host": "crystran.com",
+  "value_short": "0.3–2.5 µm and 7 to >100 µm"
+ },
+ {
+  "prop_id": "diamond-6",
+  "glass_id": "diamond",
+  "property": "Thermal conductivity (Element Six CVD optical)",
+  "value": ">2000 W m⁻¹ K⁻¹",
+  "source": "https://terpconnect.umd.edu/~antonsen/ENEE681-lectures/element_six_optics_brochure_1.pdf",
+  "source_host": "terpconnect.umd.edu",
+  "value_short": ">2000 W m⁻¹ K⁻¹"
+ },
+ {
+  "prop_id": "diamond-7",
+  "glass_id": "diamond",
+  "property": "Thermal conductivity (Crystran, type IIa)",
+  "value": "2600 W m⁻¹ K⁻¹ at 273 K",
+  "source": "https://www.crystran.com/optical-materials/diamond",
+  "source_host": "crystran.com",
+  "value_short": "2600 W m⁻¹ K⁻¹ at 273 K"
+ },
+ {
+  "prop_id": "diamond-8",
+  "glass_id": "diamond",
+  "property": "Thermal conductivity (single-crystal CVD, WD Advanced Materials)",
+  "value": "2200 W m⁻¹ K⁻¹",
+  "source": "https://wdadvancedmaterials.com/product-page/optical-scd-cvd-diamond-wafer-1",
+  "source_host": "wdadvancedmaterials.com",
+  "value_short": "2200 W m⁻¹ K⁻¹"
+ },
+ {
+  "prop_id": "double-tungstate-2",
+  "glass_id": "double-tungstate",
+  "property": "Thermal conductivity (Yb:KGW)",
+  "value": "Ka = 2.6, Kb = 3.8, Kc = 3.4 W/(m·K) (EKSMA / 4lasers sheets)",
+  "source": "https://eksmaoptics.com/out/media/EKSMA_Optics_Yb-KGW_and_Yb-KYW_Crystals-Femtoline.pdf ; https://4lasers.com/components/yb-kgw-crystals",
+  "source_host": "eksmaoptics.com",
+  "value_short": "Ka = 2.6, Kb = 3.8, Kc = 3.4 W/(m·K)"
+ },
+ {
+  "prop_id": "double-tungstate-3",
+  "glass_id": "double-tungstate",
+  "property": "Thermal conductivity (Yb:KYW)",
+  "value": "~3.3 W/(m·K) (4lasers); not given by EKSMA",
+  "source": "https://4lasers.com/components/yb-kyw-crystals",
+  "source_host": "4lasers.com",
+  "value_short": "~3.3 W/(m·K) (4lasers)"
+ },
+ {
+  "prop_id": "double-tungstate-4",
+  "glass_id": "double-tungstate",
+  "property": "Dopant level",
+  "value": "Yb:KGW 0.5-5 at.%; Yb:KYW 0.5-100 at.% (EKSMA) or 1-100 at.% (4lasers); 5 at.% Ho:KGdW (kifle2019hokgdw)",
+  "source": "https://eksmaoptics.com/out/media/EKSMA_Optics_Yb-KGW_and_Yb-KYW_Crystals-Femtoline.pdf ; https://4lasers.com/components/yb-kyw-crystals",
+  "source_host": "eksmaoptics.com",
+  "value_short": "Yb:KGW 0.5-5 at.%"
+ },
+ {
+  "prop_id": "double-tungstate-5",
+  "glass_id": "double-tungstate",
+  "property": "Emission band",
+  "value": "Yb:KGW 1023-1060 nm (pump 981 nm); Yb:KYW 1025-1058 nm (EKSMA); Tm:KLuW waveguide laser 1912 nm; Ho:KGdW 2055 nm",
+  "source": "https://eksmaoptics.com/out/media/EKSMA_Optics_Yb-KGW_and_Yb-KYW_Crystals-Femtoline.pdf ; https://doi.org/10.1364/OL.44.001738",
+  "source_host": "eksmaoptics.com",
+  "value_short": "Yb:KGW 1023-1060 nm"
+ },
+ {
+  "prop_id": "double-tungstate-6",
+  "glass_id": "double-tungstate",
+  "property": "Emission cross-section (Yb:KGW)",
+  "value": "2.6×10⁻²⁰ cm² for E∥a (EKSMA); 3×10⁻²⁰ cm² at 1030 nm, E∥Nm (4lasers)",
+  "source": "https://eksmaoptics.com/out/media/EKSMA_Optics_Yb-KGW_and_Ib-KYW_Crystal.pdf ; https://4lasers.com/components/yb-kgw-crystals",
+  "source_host": "eksmaoptics.com",
+  "value_short": "2.6×10⁻²⁰ cm² for E∥a (EKSMA)"
+ },
+ {
+  "prop_id": "double-tungstate-7",
+  "glass_id": "double-tungstate",
+  "property": "Density (KYW)",
+  "value": "6.61 g/cm³ (EKSMA, 4lasers)",
+  "source": "https://eksmaoptics.com/out/media/EKSMA_Optics_Yb-KGW_and_Yb-KYW_Crystals-Femtoline.pdf",
+  "source_host": "eksmaoptics.com",
+  "value_short": "6.61 g/cm³ (EKSMA, 4lasers)"
+ },
+ {
+  "prop_id": "double-tungstate-1",
+  "glass_id": "double-tungstate",
+  "property": "Refractive indices (KGW, λ = 1.06 µm)",
+  "value": "ng = 2.037, np = 1.986, nm = 2.033 (EKSMA; 4lasers lists the same values for KYW, unconfirmed)",
+  "source": "https://eksmaoptics.com/out/media/EKSMA_Optics_Yb-KGW_and_Yb-KYW_Crystals-Femtoline.pdf ; https://4lasers.com/components/yb-kyw-crystals",
+  "source_host": "eksmaoptics.com",
+  "value_short": "ng = 2.037, np = 1.986, nm = 2.033"
  },
  {
   "prop_id": "eagle-xg-3",
@@ -504,6 +891,132 @@
   "value_short": "8.3×10⁻⁶ /K"
  },
  {
+  "prop_id": "fluoride-crystals-1",
+  "glass_id": "fluoride-crystals",
+  "property": "BaF₂ transmission window",
+  "value": "0.15–12 µm (≈1 µm further into the IR than CaF₂ for equal thickness)",
+  "source": "https://www.crystran.com/media/wysiwyg/Materials/barium-fluoride-baf2-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "0.15–12 µm"
+ },
+ {
+  "prop_id": "fluoride-crystals-2",
+  "glass_id": "fluoride-crystals",
+  "property": "BaF₂ refractive index",
+  "value": "1.45 @ 5 µm (value at 1 µm not retrieved)",
+  "source": "https://www.crystran.com/media/wysiwyg/Materials/barium-fluoride-baf2-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "1.45 @ 5 µm"
+ },
+ {
+  "prop_id": "fluoride-crystals-3",
+  "glass_id": "fluoride-crystals",
+  "property": "BaF₂ thermal conductivity",
+  "value": "11.72 W m⁻¹ K⁻¹ at 286 K; dn/dT −15.2×10⁻⁶ /°C; susceptible to thermal shock",
+  "source": "https://www.crystran.com/media/wysiwyg/Materials/barium-fluoride-baf2-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "11.72 W m⁻¹ K⁻¹ at 286 K"
+ },
+ {
+  "prop_id": "fluoride-crystals-4",
+  "glass_id": "fluoride-crystals",
+  "property": "LiF transmission window",
+  "value": "0.12–6 µm (VUV to Lyman-α, 121 nm)",
+  "source": "https://www.crystran.co.uk/media/wysiwyg/Materials/lithium-fluoride-lif-data-sheet.pdf",
+  "source_host": "crystran.co.uk",
+  "value_short": "0.12–6 µm"
+ },
+ {
+  "prop_id": "fluoride-crystals-5",
+  "glass_id": "fluoride-crystals",
+  "property": "LiF refractive index",
+  "value": "1.392 @ 0.6 µm (value at 1 µm not retrieved); dn/dλ = 0 at 1.3 µm",
+  "source": "https://www.crystran.co.uk/media/wysiwyg/Materials/lithium-fluoride-lif-data-sheet.pdf",
+  "source_host": "crystran.co.uk",
+  "value_short": "1.392 @ 0.6 µm"
+ },
+ {
+  "prop_id": "fluoride-crystals-6",
+  "glass_id": "fluoride-crystals",
+  "property": "LiF thermal conductivity",
+  "value": "11.3 W m⁻¹ K⁻¹ at 314 K; dn/dT −16×10⁻⁶ at 1.15 µm",
+  "source": "https://www.crystran.co.uk/media/wysiwyg/Materials/lithium-fluoride-lif-data-sheet.pdf",
+  "source_host": "crystran.co.uk",
+  "value_short": "11.3 W m⁻¹ K⁻¹ at 314 K"
+ },
+ {
+  "prop_id": "fluoride-crystals-7",
+  "glass_id": "fluoride-crystals",
+  "property": "CaF₂ transmission / density (third-party supplier page)",
+  "value": "very good transparency 0.13–9 µm; 3.18 g/cm³ (attribution to this page from a search summary)",
+  "source": "https://www.samaterials.com/content/5-key-fluoride-crystals-in-optics-and-lasers.html",
+  "source_host": "samaterials.com",
+  "value_short": "very good transparency 0.13–9 µm"
+ },
+ {
+  "prop_id": "fluoride-crystals-8",
+  "glass_id": "fluoride-crystals",
+  "property": "CaF₂ refractive index (patent example)",
+  "value": "base index ≈1.43; fs-written cladding index drop ≈0.012 (patent example, not a datasheet)",
+  "source": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7132223",
+  "source_host": "image-ppubs.uspto.gov",
+  "value_short": "base index ≈1.43"
+ },
+ {
+  "prop_id": "foturan-1",
+  "glass_id": "foturan",
+  "property": "UV photosensitivity (FOTURAN II)",
+  "value": "highest between 290 and 330 nm; optimal theoretical exposure wavelength 312 nm",
+  "source": "https://www.schott.com/en-bg/products/foturan-2/technical-details",
+  "source_host": "schott.com",
+  "value_short": "highest between 290 and 330 nm"
+ },
+ {
+  "prop_id": "foturan-2",
+  "glass_id": "foturan",
+  "property": "Process (FOTURAN II)",
+  "value": "UV exposure (no photoresist), heat treatment, etching; optional ceramization as fourth step",
+  "source": "https://www.schott.com/en-bg/products/foturan-2/technical-details",
+  "source_host": "schott.com",
+  "value_short": "UV exposure"
+ },
+ {
+  "prop_id": "foturan-3",
+  "glass_id": "foturan",
+  "property": "Density",
+  "value": "2.37 g/cm3 (Wikipedia composition table; Foturan version not stated)",
+  "source": "https://en.wikipedia.org/wiki/Foturan",
+  "source_host": "en.wikipedia.org",
+  "value_short": "2.37 g/cm3"
+ },
+ {
+  "prop_id": "foturan-4",
+  "glass_id": "foturan",
+  "property": "Special mechanism (fs + bake)",
+  "value": "Ag nanoparticles that give the index change form after fs exposure and post-bake at 500-550 C",
+  "source": "https://pure.ecnu.edu.cn/en/publications/optical-gratings-embedded-in-photosensitive-glass-by-photochemica/",
+  "source_host": "pure.ecnu.edu.cn",
+  "value_short": "Ag nanoparticles that give the index change form after fs…"
+ },
+ {
+  "prop_id": "foturan-5",
+  "glass_id": "foturan",
+  "property": "Index change after ceramization",
+  "value": "fs-induced index change switches from positive (glass) to negative (ceramized)",
+  "source": "https://katalog.lib.cas.cz/KNAV/EdsRecord/edb,16868323",
+  "source_host": "katalog.lib.cas.cz",
+  "value_short": "fs-induced index change switches from positive"
+ },
+ {
+  "prop_id": "foturan-6",
+  "glass_id": "foturan",
+  "property": "FOTURAN II vs FOTURAN",
+  "value": "higher homogeneity of photosensitivity, allows finer microstructures",
+  "source": "https://en.wikipedia.org/wiki/Foturan",
+  "source_host": "en.wikipedia.org",
+  "value_short": "higher homogeneity of photosensitivity, allows finer…"
+ },
+ {
   "prop_id": "fused-silica-1",
   "glass_id": "fused-silica",
   "property": "Refractive index (Corning HPFS 7980)",
@@ -729,6 +1242,51 @@
   "value_short": "GASIR-1 = Ge22As20Se58"
  },
  {
+  "prop_id": "ge-silica-fibre-1",
+  "glass_id": "ge-silica-fibre",
+  "property": "Photosensitivity requirement",
+  "value": "None for fs writing: gratings written in non-photosensitised standard telecom and dispersion-shifted fibre without phase mask",
+  "source": "https://research.aston.ac.uk/en/publications/direct-writing-of-fibre-bragg-gratings-by-femtosecond-laser",
+  "source_host": "research.aston.ac.uk",
+  "value_short": "None for fs writing: gratings written in…"
+ },
+ {
+  "prop_id": "ge-silica-fibre-2",
+  "glass_id": "ge-silica-fibre",
+  "property": "Thermal stability of fs-written fibre gratings",
+  "value": "better than UV-inscribed gratings (Aston, MRS 2005 proceedings)",
+  "source": "https://publications.aston.ac.uk/id/eprint/9182",
+  "source_host": "publications.aston.ac.uk",
+  "value_short": "better than UV-inscribed gratings"
+ },
+ {
+  "prop_id": "ge-silica-fibre-3",
+  "glass_id": "ge-silica-fibre",
+  "property": "Fibre cladding diameter used for in-cladding circuits",
+  "value": "~125 um",
+  "source": "https://www.matec-conferences.org/10.1051/matecconf/20130805010",
+  "source_host": "matec-conferences.org",
+  "value_short": "~125 um"
+ },
+ {
+  "prop_id": "ge-silica-fibre-4",
+  "glass_id": "ge-silica-fibre",
+  "property": "Bulk Ge-doped silica, fs index change (patent)",
+  "value": "~1×10⁻² after 10 scans with 120 fs, 810 nm pulses (patent text; not a peer-reviewed paper)",
+  "source": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6977137",
+  "source_host": "image-ppubs.uspto.gov",
+  "value_short": "~1×10⁻² after 10 scans with 120 fs, 810 nm pulses"
+ },
+ {
+  "prop_id": "ge-silica-fibre-5",
+  "glass_id": "ge-silica-fibre",
+  "property": "Etch selectivity (lab-in-fibre)",
+  "value": "fs-modified silica etches selectively; optically smooth inner surfaces ~12 nm rms in the cladding",
+  "source": "https://pubs.rsc.org/en/content/articlelanding/2014/lc/c4lc00648h",
+  "source_host": "pubs.rsc.org",
+  "value_short": "fs-modified silica etches selectively"
+ },
+ {
   "prop_id": "gls-1",
   "glass_id": "gls",
   "property": "Refractive index",
@@ -819,6 +1377,105 @@
   "value_short": "Tunnelling identified as the dominant nonlinear absorption…"
  },
  {
+  "prop_id": "ktp-1",
+  "glass_id": "ktp",
+  "property": "Refractive index near 1 µm",
+  "value": "n_x = 1.7377, n_y = 1.7453, n_z = 1.8297 @ 1064 nm (United Crystals and Laser Components agree); 4Lasers: 1.7404 / 1.7479 / 1.8296 @ 1064 nm. At 532 nm: 1.7780 / 1.7886 / 1.8887.",
+  "source": "https://unitedcrystals.com/KTPProp.html ; https://www.lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ktp-crys.pdf ; https://4lasers.com/en/components/crystals/nonlinear-crystals/ktp-crystals",
+  "source_host": "unitedcrystals.com",
+  "value_short": "n_x = 1.7377, n_y = 1.7453, n_z = 1.8297 @ 1064 nm"
+ },
+ {
+  "prop_id": "ktp-2",
+  "glass_id": "ktp",
+  "property": "Nonlinear coefficient d33",
+  "value": "16.9 pm/V @ 1064 nm",
+  "source": "https://unitedcrystals.com/KTPProp.html ; https://www.lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ktp-crys.pdf",
+  "source_host": "unitedcrystals.com",
+  "value_short": "16.9 pm/V @ 1064 nm"
+ },
+ {
+  "prop_id": "ktp-3",
+  "glass_id": "ktp",
+  "property": "Electro-optic coefficient r33",
+  "value": "36.3 pm/V (low frequency), 35.0 pm/V (high frequency)",
+  "source": "https://unitedcrystals.com/KTPProp.html ; https://www.lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ktp-crys.pdf",
+  "source_host": "unitedcrystals.com",
+  "value_short": "36.3 pm/V"
+ },
+ {
+  "prop_id": "ktp-4",
+  "glass_id": "ktp",
+  "property": "Transmission window",
+  "value": "about 350 nm to 4.5 µm; SHG phase-matching range 984-3400 nm",
+  "source": "https://unitedcrystals.com/KTPProp.html",
+  "source_host": "unitedcrystals.com",
+  "value_short": "about 350 nm to 4.5 µm"
+ },
+ {
+  "prop_id": "ktp-5",
+  "glass_id": "ktp",
+  "property": "Density / melting point / hardness",
+  "value": "3.01 g/cm³ (United Crystals; 4Lasers lists 2.945 g/cm³); melting point 1172 °C; Mohs about 5",
+  "source": "https://unitedcrystals.com/KTPProp.html ; https://4lasers.com/en/components/crystals/nonlinear-crystals/ktp-crystals",
+  "source_host": "unitedcrystals.com",
+  "value_short": "3.01 g/cm³"
+ },
+ {
+  "prop_id": "ktp-6",
+  "glass_id": "ktp",
+  "property": "Gray tracking (damage remark)",
+  "value": "Photochromic absorption under high-power, high-repetition-rate green light lowers SHG efficiency; linked to K vacancies (flux growth) and, in a 2025 DFT study, to an O-vacancy/K-vacancy pair; gray-track-resistant grades are sold",
+  "source": "https://science24.com/paper/29046 ; https://homepages.uni-paderborn.de/wgs/Dpubl/PRB_111_104103_2025.pdf ; https://4lasers.com/en/components/crystals/nonlinear-crystals/ktp-crystals",
+  "source_host": "science24.com",
+  "value_short": "Photochromic absorption under high-power,…"
+ },
+ {
+  "prop_id": "labgeo5-crystal-in-glass-1",
+  "glass_id": "labgeo5-crystal-in-glass",
+  "property": "Crystal structure",
+  "value": "Trigonal, space group P3₁, Z = 3, stillwellite type",
+  "source": "https://arxiv.org/pdf/1311.7669",
+  "source_host": "arxiv.org",
+  "value_short": "Trigonal, space group P3₁, Z = 3, stillwellite type"
+ },
+ {
+  "prop_id": "labgeo5-crystal-in-glass-2",
+  "glass_id": "labgeo5-crystal-in-glass",
+  "property": "Ferroelectric transition",
+  "value": "Tc ≈ 530 °C",
+  "source": "https://arxiv.org/pdf/1311.7669",
+  "source_host": "arxiv.org",
+  "value_short": "Tc ≈ 530 °C"
+ },
+ {
+  "prop_id": "labgeo5-crystal-in-glass-3",
+  "glass_id": "labgeo5-crystal-in-glass",
+  "property": "Nonlinear coefficients",
+  "value": "Highest coefficient d33 = 1.3 pm/V (cited in a 2020 MDPI Crystals paper); wedge measurement at 532 nm: d33 = 1.15, d22 = 1.41, d31 = d32 = 0.75 pm/V (SPIE abstract; 1064 nm values being remeasured); SHG about 30x α-quartz",
+  "source": "https://www.mdpi.com/2073-4352/10/7/583 ; https://biomedicaloptics.spiedigitallibrary.org/conference-proceedings-of-spie/PC11985/PC119850U/Accurate-measurements-of-second-order-nonlinear-optical-coefficients-of-LaBGeO5/10.1117/12.2608036.full ; https://arxiv.org/pdf/1311.7669",
+  "source_host": "mdpi.com",
+  "value_short": "Highest coefficient d33 = 1.3 pm/V"
+ },
+ {
+  "prop_id": "labgeo5-crystal-in-glass-4",
+  "glass_id": "labgeo5-crystal-in-glass",
+  "property": "Other crystal properties",
+  "value": "Non-hygroscopic; dielectric constant about 11; pyroelectric coefficient about 5-10 nC cm⁻² K⁻¹; suits walk-off-free QPM",
+  "source": "https://www.mdpi.com/2073-4352/10/7/583 ; https://arxiv.org/pdf/1311.7669",
+  "source_host": "mdpi.com",
+  "value_short": "Non-hygroscopic"
+ },
+ {
+  "prop_id": "labgeo5-crystal-in-glass-5",
+  "glass_id": "labgeo5-crystal-in-glass",
+  "property": "Crystal orientation in laser-written lines",
+  "value": "c-axis aligned with the writing direction, also after bends (micro-Raman)",
+  "source": "https://eprints.soton.ac.uk/431165/1/oe_17_25_23284.pdf",
+  "source_host": "eprints.soton.ac.uk",
+  "value_short": "c-axis aligned with the writing direction, also after bends"
+ },
+ {
   "prop_id": "lead-germanate-1",
   "glass_id": "lead-germanate",
   "property": "Nonlinear index n2 (qualitative)",
@@ -828,6 +1485,204 @@
   "value_short": "High n2 of the GPGN glass causes strong self-focusing at…"
  },
  {
+  "prop_id": "linbo3-1",
+  "glass_id": "linbo3",
+  "property": "Refractive index near 1 µm",
+  "value": "n_o = 2.232, n_e = 2.156 @ 1064 nm (same values on two vendor data sheets)",
+  "source": "https://unitedcrystals.com/LiNbO3Prop.html ; https://www.tydexoptics.com/materials1/materials_for_nonlinear_optics/lithium_niobate/",
+  "source_host": "unitedcrystals.com",
+  "value_short": "n_o = 2.232, n_e = 2.156 @ 1064 nm"
+ },
+ {
+  "prop_id": "linbo3-2",
+  "glass_id": "linbo3",
+  "property": "Refractive index @ 1300 nm (undoped)",
+  "value": "n_o = 2.220, n_e = 2.146",
+  "source": "https://www.tydex.ru/materials1/materials_for_nonlinear_optics/lithium_niobate/",
+  "source_host": "tydex.ru",
+  "value_short": "n_o = 2.220, n_e = 2.146"
+ },
+ {
+  "prop_id": "linbo3-3",
+  "glass_id": "linbo3",
+  "property": "Transmission window",
+  "value": "0.25-5.3 µm (Tydex data sheet); 0.4-5 µm on another vendor page",
+  "source": "https://www.tydex.ru/materials1/materials_for_nonlinear_optics/lithium_niobate/ ; https://samaterials.com/nlo-crystals/500-lithium-niobate-linbo3.html",
+  "source_host": "tydex.ru",
+  "value_short": "0.25-5.3 µm (Tydex data sheet)"
+ },
+ {
+  "prop_id": "linbo3-4",
+  "glass_id": "linbo3",
+  "property": "Nonlinear coefficient d33",
+  "value": "about 25-27 pm/V (d33 = 25 pm/V used in a Cornell CNF 2023 report; 27 pm/V nominal on a PPLN vendor page, which gives about 17 pm/V effective for QPM). The search excerpt did not say which of the vendor pages gives 27/17 pm/V.",
+  "source": "https://cnf.cornell.edu/sites/default/files/2023-RA/2023cnfRA_PG100.pdf ; https://aogcrystal.com/knowledges-of-crystals/ppln-crystal-development-trends.html ; https://www.crylink.com/wp-content/uploads/Nonlinear-crystal-PPLN-CRYLINK.pdf",
+  "source_host": "cnf.cornell.edu",
+  "value_short": "about 25-27 pm/V"
+ },
+ {
+  "prop_id": "linbo3-5",
+  "glass_id": "linbo3",
+  "property": "Nonlinear coefficients, stoichiometric vs congruent",
+  "value": "d coefficients of stoichiometric LN and MgO:LN equal to congruent LN within measurement accuracy (KAKENHI project report)",
+  "source": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15560035",
+  "source_host": "kaken.nii.ac.jp",
+  "value_short": "d coefficients of stoichiometric LN and MgO:LN equal to…"
+ },
+ {
+  "prop_id": "linbo3-6",
+  "glass_id": "linbo3",
+  "property": "Electro-optic coefficient r33 (bulk)",
+  "value": "about 31-32 pm/V: r33 = 32 pm/V, about 3x r31 = 10 pm/V (paper); vendor table r33(T) = 32 pm/V, r33(S) = 31 pm/V",
+  "source": "https://www.mrs-j.org/pub/tmrsj/vol14B/vol14B_1615.pdf ; https://samaterials.com/nlo-crystals/500-lithium-niobate-linbo3.html",
+  "source_host": "mrs-j.org",
+  "value_short": "about 31-32 pm/V: r33 = 32 pm/V, about 3x r31 = 10 pm/V"
+ },
+ {
+  "prop_id": "linbo3-7",
+  "glass_id": "linbo3",
+  "property": "Electro-optic coefficients inside an fs-written guide",
+  "value": "r13 = 7.59 pm/V, r33 = 23.21 pm/V measured on a circular type-II waveguide with multiscan type-I Bragg grating ('nearly preserved'; kroesen2014bragg)",
+  "source": "https://doi.org/10.1364/OE.22.023339",
+  "source_host": "doi.org",
+  "value_short": "r13 = 7.59 pm/V, r33 = 23.21 pm/V measured on a circular…"
+ },
+ {
+  "prop_id": "linbo3-8",
+  "glass_id": "linbo3",
+  "property": "Photorefractive damage",
+  "value": "Present in undoped congruent LN, suppressed by MgO doping; one manufacturer states its MgO:LN withstands at least 100x the intensity of undoped congruent LN without photorefractive damage",
+  "source": "https://sphotonics.ru/LNMgO.pdf ; https://samaterials.com/nlo-crystals/500-lithium-niobate-linbo3.html",
+  "source_host": "sphotonics.ru",
+  "value_short": "Present in undoped congruent LN, suppressed by MgO doping"
+ },
+ {
+  "prop_id": "linbo3-9",
+  "glass_id": "linbo3",
+  "property": "Curie temperature",
+  "value": "1142 ± 1 °C (congruent LN wafer specification)",
+  "source": "https://www.coherent.com/optics/crystals/bulk-optical-materials/lithium-niobate-wafers.html",
+  "source_host": "coherent.com",
+  "value_short": "1142 ± 1 °C"
+ },
+ {
+  "prop_id": "linbo3-10",
+  "glass_id": "linbo3",
+  "property": "Density / melting point",
+  "value": "4.65 g/cm³; melting point 1257 °C",
+  "source": "https://surfacenet.de/files/kristall_daten.php?crystal=116",
+  "source_host": "surfacenet.de",
+  "value_short": "4.65 g/cm³"
+ },
+ {
+  "prop_id": "litao3-1",
+  "glass_id": "litao3",
+  "property": "Refractive index",
+  "value": "SLT: n_e = 2.177, n_o = 2.1745 @ 633 nm (birefringence about -0.0025); congruent LT: n_o = 2.176, n_e = 2.180 @ 632.8 nm. No value near 1 µm retrieved.",
+  "source": "https://www.findlight.net/uploads/products/datasheet/Stoichiometric-Lithium-Tantalate.pdf ; https://castech-us.com/litao3.htm",
+  "source_host": "findlight.net",
+  "value_short": "SLT: n_e = 2.177, n_o = 2.1745 @ 633 nm"
+ },
+ {
+  "prop_id": "litao3-2",
+  "glass_id": "litao3",
+  "property": "Transmission window",
+  "value": "270-5500 nm (SLT data sheet); 280-5500 nm (review)",
+  "source": "https://www.findlight.net/uploads/products/datasheet/Stoichiometric-Lithium-Tantalate.pdf ; https://jeos.edpsciences.org/articles/jeos/pdf/forth/jeos20240014.pdf",
+  "source_host": "findlight.net",
+  "value_short": "270-5500 nm (SLT data sheet)"
+ },
+ {
+  "prop_id": "litao3-3",
+  "glass_id": "litao3",
+  "property": "Nonlinear coefficients",
+  "value": "SLT data sheet: d33 = 16 pm/V, d13 = 2.5 pm/V; measured on PP MgO:SLT: d33 = 13 pm/V (similar to congruent LT); one vendor claims d33 > 26.2 pm/V for SLT/MgO:SLT (conflicts)",
+  "source": "https://www.findlight.net/uploads/products/datasheet/Stoichiometric-Lithium-Tantalate.pdf ; https://katalog.lib.cas.cz/KNAV/EdsRecord/edb,15244272 ; https://findlight.net/optics/crystals/nonlinear-crystals/litao3-slt-mgslt-crystals",
+  "source_host": "findlight.net",
+  "value_short": "SLT data sheet: d33 = 16 pm/V, d13 = 2.5 pm/V"
+ },
+ {
+  "prop_id": "litao3-4",
+  "glass_id": "litao3",
+  "property": "Electro-optic coefficient r33",
+  "value": "SLT: r33 = 33.5 pm/V, r31 = 8.1 pm/V; congruent LT: r33 = 30.4 pm/V",
+  "source": "https://www.findlight.net/uploads/products/datasheet/Stoichiometric-Lithium-Tantalate.pdf ; https://castech-us.com/litao3.htm",
+  "source_host": "findlight.net",
+  "value_short": "SLT: r33 = 33.5 pm/V, r31 = 8.1 pm/V"
+ },
+ {
+  "prop_id": "litao3-5",
+  "glass_id": "litao3",
+  "property": "Photorefractive damage",
+  "value": "SLT is used for QPM devices where photorefractive resistance in the visible/UV matters; Mg doping improved resistance of Fe:LiTaO₃ by about two orders of magnitude (one study); vendor claim: photorefractive damage threshold > 5 MW/cm² at 532 nm",
+  "source": "https://findlight.net/optics/crystals/nonlinear-crystals/stoichiometric-lithium-tantalate ; https://ifcen.sysu.edu.cn/wangbiao_html_ifcen/paper_downloads/2006_Optik - International Journal for Light and Electron Optics_117(2)_72-76.pdf ; https://findlight.net/optics/crystals/nonlinear-crystals/litao3-slt-mgslt-crystals",
+  "source_host": "findlight.net",
+  "value_short": "SLT is used for QPM devices where photorefractive…"
+ },
+ {
+  "prop_id": "litao3-6",
+  "glass_id": "litao3",
+  "property": "Curie temperature / coercive field",
+  "value": "SLT: Curie 690 °C, coercive field < 1.0 kV/mm; congruent LT: Curie 607 °C",
+  "source": "https://www.findlight.net/uploads/products/datasheet/Stoichiometric-Lithium-Tantalate.pdf ; https://castech-us.com/litao3.htm",
+  "source_host": "findlight.net",
+  "value_short": "SLT: Curie 690 °C, coercive field < 1.0 kV/mm"
+ },
+ {
+  "prop_id": "litao3-7",
+  "glass_id": "litao3",
+  "property": "Density / melting point / hardness",
+  "value": "7.46 g/cm³; melting point 1650 °C; Mohs 5.5",
+  "source": "https://surfacenet.de/files/kristall_daten.php?crystal=117",
+  "source_host": "surfacenet.de",
+  "value_short": "7.46 g/cm³"
+ },
+ {
+  "prop_id": "lns-glass-crystal-1",
+  "glass_id": "lns-glass-crystal",
+  "property": "Laser-grown phase",
+  "value": "LiNbO₃ (single-crystal lines or oriented nanocrystals); bulk-crystal properties: see the linbo3 entry",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347130/",
+  "source_host": "ncbi.nlm.nih.gov",
+  "value_short": "LiNbO₃"
+ },
+ {
+  "prop_id": "lns-glass-crystal-2",
+  "glass_id": "lns-glass-crystal",
+  "property": "χ(2) signature",
+  "value": "SHG at 515 nm (1030 nm fs writing laser); polar axis orientation set by writing polarisation in B₂O₃-containing glass; SHG appears within seconds in high-B₂O₃ glass, about 10x faster than in B₂O₃-free glass",
+  "source": "https://iris.polito.it/bitstream/11583/2881065/1/OME.417461-11-4-1313.pdf",
+  "source_host": "iris.polito.it",
+  "value_short": "SHG at 515 nm"
+ },
+ {
+  "prop_id": "lns-glass-crystal-3",
+  "glass_id": "lns-glass-crystal",
+  "property": "Index profile of grown crystal",
+  "value": "Calculations suggest lattice misorientation lowers the index from the centre outward, i.e. a graded-index single crystal (GRISC) waveguide",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347130/",
+  "source_host": "ncbi.nlm.nih.gov",
+  "value_short": "Calculations suggest lattice misorientation lowers the…"
+ },
+ {
+  "prop_id": "lns-glass-crystal-4",
+  "glass_id": "lns-glass-crystal",
+  "property": "Repetition-rate threshold",
+  "value": "At 200 kHz the index changed at the focus and precipitates appeared with irradiation time; at 1 kHz only cracks formed even after > 1 h (KAKENHI project on Li₂O-Nb₂O₅-SiO₂ glass)",
+  "source": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-13450356",
+  "source_host": "kaken.nii.ac.jp",
+  "value_short": "At 200 kHz the index changed at the focus and precipitates…"
+ },
+ {
+  "prop_id": "lns-glass-crystal-5",
+  "glass_id": "lns-glass-crystal",
+  "property": "Maximum writing speed",
+  "value": "20 µm/s was the maximum speed at which LiNbO₃ precipitated (high-repetition-rate laser; SPIE Newsroom report)",
+  "source": "https://amp.spie.org/news/6692-using-femtosecond-lasers-to-grow-nonlinear-optical-crystals-in-glass",
+  "source_host": "amp.spie.org",
+  "value_short": "20 µm/s was the maximum speed at which LiNbO₃ precipitated"
+ },
+ {
   "prop_id": "modified-fluorozirconate-1",
   "glass_id": "modified-fluorozirconate",
   "property": "Transmission window",
@@ -835,6 +1690,357 @@
   "source": "https://www.nature.com/articles/s41598-022-18701-y",
   "source_host": "nature.com",
   "value_short": "Mid-IR guidance shown at 3.1 µm"
+ },
+ {
+  "prop_id": "nd-vanadate-1",
+  "glass_id": "nd-vanadate",
+  "property": "Refractive index (YVO4)",
+  "value": "no ≈ 1.9573, ne ≈ 2.1652 @ 1064 nm (MolTech; same on United Crystals)",
+  "source": "https://mt-berlin.com/frames_cryst/descriptions/yvo4.htm ; https://unitedcrystals.com/YVO4Prop.html",
+  "source_host": "mt-berlin.com",
+  "value_short": "no ≈ 1.9573, ne ≈ 2.1652 @ 1064 nm"
+ },
+ {
+  "prop_id": "nd-vanadate-2",
+  "glass_id": "nd-vanadate",
+  "property": "Thermal conductivity (Nd:YVO4)",
+  "value": "5.10 W/(m·K) ⊥ c at 25 °C (MolTech); 5.2 W/(m·K) at 25 °C (AOG); 5.1 W/(m·K) (LASER COMPONENTS)",
+  "source": "https://mt-berlin.com/frames_cryst/descriptions/yvo4.htm ; https://aogcrystal.com/products/laser-crystals/nd-yvo4-crystal",
+  "source_host": "mt-berlin.com",
+  "value_short": "5.10 W/(m·K) ⊥ c at 25 °C"
+ },
+ {
+  "prop_id": "nd-vanadate-3",
+  "glass_id": "nd-vanadate",
+  "property": "Thermal conductivity (Nd:GdVO4)",
+  "value": "11.7 W/(m·K) along <110> (LASER COMPONENTS datasheet); 11.4 W/(m·K) along <001> (Qin et al., Cryst. Res. Technol. 2003)",
+  "source": "https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ndgdvo4_cry.pdf ; https://discovery-imamu.kwaretech.com/EdsRecord/edsbas,edsbas.EC133484",
+  "source_host": "lasercomponents.com",
+  "value_short": "11.7 W/(m·K) along <110>"
+ },
+ {
+  "prop_id": "nd-vanadate-4",
+  "glass_id": "nd-vanadate",
+  "property": "Dopant level",
+  "value": "Nd:YVO4 0.5-3.0 at.% (CRYLINK), 0.07-3 at.% (AOG); Nd:GdVO4 0.1-3.0 at.% (CRYLINK)",
+  "source": "https://www.crylink.com/wp-content/uploads/Laser-crystal-Nd-YVO4-CRYLINK.pdf ; https://www.laser-crylink.com/laser-products/laser-crystal/nd-gdvo4-crystal/",
+  "source_host": "crylink.com",
+  "value_short": "Nd:YVO4 0.5-3.0 at.%"
+ },
+ {
+  "prop_id": "nd-vanadate-5",
+  "glass_id": "nd-vanadate",
+  "property": "Emission band",
+  "value": "1064 nm (Nd:YVO4 waveguide laser, tan2010yvo4); 1063-1064 nm (Nd:GdVO4, LASER COMPONENTS)",
+  "source": "https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ndgdvo4_cry.pdf",
+  "source_host": "lasercomponents.com",
+  "value_short": "1064 nm"
+ },
+ {
+  "prop_id": "nd-vanadate-6",
+  "glass_id": "nd-vanadate",
+  "property": "Density / hardness (Nd:GdVO4)",
+  "value": "5.47 g/cm³, Mohs 4-5 (LASER COMPONENTS)",
+  "source": "https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ndgdvo4_cry.pdf",
+  "source_host": "lasercomponents.com",
+  "value_short": "5.47 g/cm³, Mohs 4-5"
+ },
+ {
+  "prop_id": "nd-yag-1",
+  "glass_id": "nd-yag",
+  "property": "Refractive index",
+  "value": "1.82 @ 1064 nm (third-party listing of FEE Nd:YAG; single source)",
+  "source": "https://findlight.net/optics/crystals/laser-crystals/ndyag-by-fee",
+  "source_host": "findlight.net",
+  "value_short": "1.82 @ 1064 nm"
+ },
+ {
+  "prop_id": "nd-yag-2",
+  "glass_id": "nd-yag",
+  "property": "Thermal conductivity",
+  "value": "13 W/(m·K) (comparison value given in the LASER COMPONENTS Nd:GdVO4 datasheet)",
+  "source": "https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ndgdvo4_cry.pdf",
+  "source_host": "lasercomponents.com",
+  "value_short": "13 W/(m·K)"
+ },
+ {
+  "prop_id": "nd-yag-3",
+  "glass_id": "nd-yag",
+  "property": "Rare-earth doping level",
+  "value": "FEE stock 0.1-1.8 at.% Nd; 0.3 at.% (okhrimchuk2012lowloss); 1 at.% (Hamburg thesis)",
+  "source": "https://findlight.net/optics/crystals/laser-crystals/ndyag-by-fee ; https://publications.aston.ac.uk/id/eprint/18010/1/Low_loss_depressed_cladding_waveguide.pdf",
+  "source_host": "findlight.net",
+  "value_short": "FEE stock 0.1-1.8 at.% Nd"
+ },
+ {
+  "prop_id": "nd-yag-4",
+  "glass_id": "nd-yag",
+  "property": "Emission band (lasing in fs-written waveguides)",
+  "value": "1064 nm (1064.5 nm in liu2012ceramic), pumped at 808 nm",
+  "source": "https://gredos.usal.es/handle/10366/123316",
+  "source_host": "gredos.usal.es",
+  "value_short": "1064 nm"
+ },
+ {
+  "prop_id": "nd-yag-5",
+  "glass_id": "nd-yag",
+  "property": "Crystal orientation / format (FEE)",
+  "value": "[111] or [100]; rods up to 120 mm long, 1-10 mm diameter",
+  "source": "https://findlight.net/optics/crystals/laser-crystals/ndyag-by-fee",
+  "source_host": "findlight.net",
+  "value_short": "[111] or [100]"
+ },
+ {
+  "prop_id": "other-crystal-in-glass-1",
+  "glass_id": "other-crystal-in-glass",
+  "property": "Ba₂TiSi₂O₈",
+  "value": "Ferroelectric crystal with high second-order nonlinearity; dots and lines confirmed by micro-Raman after fs irradiation (no d value retrieved)",
+  "source": "https://cpl.iphy.ac.cn/Y2008/V25/I1/133",
+  "source_host": "cpl.iphy.ac.cn",
+  "value_short": "Ferroelectric crystal with high second-order nonlinearity"
+ },
+ {
+  "prop_id": "other-crystal-in-glass-2",
+  "glass_id": "other-crystal-in-glass",
+  "property": "β-BaB₂O₄ in glass",
+  "value": "SHG-active BBO crystal grown at the focus of an 800 nm fs beam inside glass",
+  "source": "https://doi.org/10.1364/ol.25.000408",
+  "source_host": "doi.org",
+  "value_short": "SHG-active BBO crystal grown at the focus of an 800 nm fs…"
+ },
+ {
+  "prop_id": "oxyfluoride-borate-1",
+  "glass_id": "oxyfluoride-borate",
+  "property": "Er emission guidance in fs waveguides (Er/Yb oxyfluoride NGC)",
+  "value": "co-propagating guidance of Er emission demonstrated under ~800 nm seeding",
+  "source": "https://gredos.usal.es/handle/10366/146645",
+  "source_host": "gredos.usal.es",
+  "value_short": "co-propagating guidance of Er emission demonstrated under…"
+ },
+ {
+  "prop_id": "oxyfluoride-borate-2",
+  "glass_id": "oxyfluoride-borate",
+  "property": "Net gain (Er:Yb oxyfluoride silicate glass waveguide)",
+  "value": "0.72 dB fibre-to-fibre at 1537 nm, 10 mm long; background insertion loss 1.2 dB",
+  "source": "https://researchportal.hw.ac.uk/en/publications/er-yb-doped-oxyfluoride-silicate-glass-waveguide-amplifier-fabric/",
+  "source_host": "researchportal.hw.ac.uk",
+  "value_short": "0.72 dB fibre-to-fibre at 1537 nm, 10 mm long"
+ },
+ {
+  "prop_id": "oxyfluoride-borate-3",
+  "glass_id": "oxyfluoride-borate",
+  "property": "Guided wavelengths (Er Li-Zn fluoroborate)",
+  "value": "980 nm and 1640 nm, single-mode",
+  "source": "https://arxiv.org/abs/1503.01927",
+  "source_host": "arxiv.org",
+  "value_short": "980 nm and 1640 nm, single-mode"
+ },
+ {
+  "prop_id": "oxyfluoride-borate-5",
+  "glass_id": "oxyfluoride-borate",
+  "property": "Composition (Er-doped Li-Zn fluoroborate of thomas2015fluoroborate)",
+  "value": "64.9B2O3 + 25Li2O + 10ZnF2 + 0.1Er2O3 (units not shown in the excerpt)",
+  "source": "https://arxiv.org/abs/1503.01927",
+  "source_host": "arxiv.org",
+  "value_short": "64.9B2O3 + 25Li2O + 10ZnF2 + 0.1Er2O3"
+ },
+ {
+  "prop_id": "pdms-1",
+  "glass_id": "pdms",
+  "property": "Refractive index (SYLGARD 184)",
+  "value": "1.4118 @ 589 nm; 1.4225 @ 632.8 nm",
+  "source": "https://sigmaaldrich.com/product/aldrich/761036",
+  "source_host": "sigmaaldrich.com",
+  "value_short": "1.4118 @ 589 nm"
+ },
+ {
+  "prop_id": "pdms-2",
+  "glass_id": "pdms",
+  "property": "Thermal conductivity (SYLGARD 184)",
+  "value": "0.2 W/(m·K) (Cornell-hosted Dow data sheet); a distributor table lists 0.27 W/(m·K) — conflicting",
+  "source": "https://www.cnfusers.cornell.edu/sites/default/files/Equipment-Resources/Sylgard_184_data_sheet.pdf",
+  "source_host": "cnfusers.cornell.edu",
+  "value_short": "0.2 W/(m·K)"
+ },
+ {
+  "prop_id": "pdms-3",
+  "glass_id": "pdms",
+  "property": "Index change, neat PDMS",
+  "value": "≈1×10⁻³ (internal gratings written by fs laser in plain PDMS film; Korean study, bibliographic data not retrieved)",
+  "source": "https://scholar.kyobobook.co.kr/article/detail/4010023208389",
+  "source_host": "scholar.kyobobook.co.kr",
+  "value_short": "≈1×10⁻³"
+ },
+ {
+  "prop_id": "pdms-4",
+  "glass_id": "pdms",
+  "property": "Index change, photosensitised PDMS",
+  "value": "~10⁻² with irgacure-184 or benzophenone; strongest with benzophenone + germanium (Boisvert 2022); ≈0.06 after phenylacetylene diffusion (Panusa et al., as cited by Boisvert 2022), but that photosensitivity fades under ambient light",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8803880/",
+  "source_host": "ncbi.nlm.nih.gov",
+  "value_short": "~10⁻² with irgacure-184 or benzophenone"
+ },
+ {
+  "prop_id": "pmma-1",
+  "glass_id": "pmma",
+  "property": "Refractive index",
+  "value": "1.4905 @ 589.3 nm (≈4 % Fresnel reflection per surface)",
+  "source": "https://en.wikipedia.org/wiki/Poly(methyl_methacrylate)",
+  "source_host": "en.wikipedia.org",
+  "value_short": "1.4905 @ 589.3 nm"
+ },
+ {
+  "prop_id": "pmma-2",
+  "glass_id": "pmma",
+  "property": "Refractive index (alternative list value)",
+  "value": "1.4893–1.4899 (visible)",
+  "source": "https://en.wikipedia.org/wiki/List_of_refractive_indices",
+  "source_host": "en.wikipedia.org",
+  "value_short": "1.4893–1.4899 (visible)"
+ },
+ {
+  "prop_id": "pmma-4",
+  "glass_id": "pmma",
+  "property": "Light transmission (visible)",
+  "value": "92 % (PLEXIGLAS GS clear 0F00 sheet); >90 % for blocks",
+  "source": "https://zenitsk.sk/public/media/PlastySK/zenit%20prospekt%20plexiglass_A4_SK_01.pdf",
+  "source_host": "zenitsk.sk",
+  "value_short": "92 %"
+ },
+ {
+  "prop_id": "pmma-5",
+  "glass_id": "pmma",
+  "property": "UV behaviour of GS 0F00",
+  "value": "largely UV-absorbing standard grade (sheets ~2–25 mm; blocks ≥30 mm same 0F00 code)",
+  "source": "https://www.voskunststoffen.nl/files/166151/datasheet%20plexiglas%20XT%20GS.pdf",
+  "source_host": "voskunststoffen.nl",
+  "value_short": "largely UV-absorbing standard grade"
+ },
+ {
+  "prop_id": "pmma-6",
+  "glass_id": "pmma",
+  "property": "Maximum service temperature",
+  "value": "≈70 °C (Röhm/Evonik Technical Information 211-1 for GS/XT); a retailer lists ≈80 °C for GS 0F00 — check the official sheet",
+  "source": "https://www.voskunststoffen.nl/files/166151/datasheet%20plexiglas%20XT%20GS.pdf",
+  "source_host": "voskunststoffen.nl",
+  "value_short": "≈70 °C"
+ },
+ {
+  "prop_id": "pmma-8",
+  "glass_id": "pmma",
+  "property": "Multiphoton absorption order (writing)",
+  "value": "three-photon absorption at 800 nm, two-photon absorption at 387 nm drive the modification of pure PMMA (Baum 2008)",
+  "source": "https://strathprints.strath.ac.uk/17081/",
+  "source_host": "strathprints.strath.ac.uk",
+  "value_short": "three-photon absorption at 800 nm, two-photon absorption at…"
+ },
+ {
+  "prop_id": "pmma-9",
+  "glass_id": "pmma",
+  "property": "Damage / modification threshold remarks",
+  "value": "Index change ~5×10⁻⁴ reached before striations appear (1 kHz, 800 nm, 40 fs; Scully 2003). Repeated low-fluence short pulses allow control through incubation and reduce bulk damage (Baum 2008). Cumulative heating is much greater at high repetition rate in fs ablation of PMMA, supporting photothermal depolymerisation (Chin. Opt. Lett. 2015). No numeric fluence threshold retrieved.",
+  "source": "https://strathprints.strath.ac.uk/18260/",
+  "source_host": "strathprints.strath.ac.uk",
+  "value_short": "Index change ~5×10⁻⁴ reached before striations appear"
+ },
+ {
+  "prop_id": "pmma-10",
+  "glass_id": "pmma",
+  "property": "Modification chemistry",
+  "value": "direct backbone cleavage and chain 'unzipping' to monomer (similar to pyrolytic degradation), plus crosslinking; positive Δn from depolymerisation + crosslinking",
+  "source": "https://research.universityofgalway.ie/en/publications/photochemistry-of-refractive-index-structures-in-polymethyl-metha/",
+  "source_host": "research.universityofgalway.ie",
+  "value_short": "direct backbone cleavage and chain 'unzipping' to monomer"
+ },
+ {
+  "prop_id": "polymer-other-1",
+  "glass_id": "polymer-other",
+  "property": "Refractive index (Balafilcon A)",
+  "value": "1.4220 average (secondary: patent citing Ding 2006)",
+  "source": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9545340",
+  "source_host": "image-ppubs.uspto.gov",
+  "value_short": "1.4220 average"
+ },
+ {
+  "prop_id": "polymer-other-2",
+  "glass_id": "polymer-other",
+  "property": "Water content (Balafilcon A)",
+  "value": "36 wt% (secondary: patent)",
+  "source": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9545340",
+  "source_host": "image-ppubs.uspto.gov",
+  "value_short": "36 wt% (secondary: patent)"
+ },
+ {
+  "prop_id": "polymer-other-3",
+  "glass_id": "polymer-other",
+  "property": "Transmission (Balafilcon A)",
+  "value": "UV cut-off 300–350 nm; ≈83 % transmission at 800 nm (secondary: patent)",
+  "source": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9545340",
+  "source_host": "image-ppubs.uspto.gov",
+  "value_short": "UV cut-off 300–350 nm"
+ },
+ {
+  "prop_id": "polymer-other-4",
+  "glass_id": "polymer-other",
+  "property": "fs-induced index change",
+  "value": "up to +0.06 in transparent hydrogels and ocular tissue (Knox-group abstract)",
+  "source": "https://www.hajim.rochester.edu/optics/assets/pdf/events/KnoxPoster022212.pdf",
+  "source_host": "hajim.rochester.edu",
+  "value_short": "up to +0.06 in transparent hydrogels and ocular tissue"
+ },
+ {
+  "prop_id": "polymer-other-5",
+  "glass_id": "polymer-other",
+  "property": "fs-induced index change, dye-doped hydrogel",
+  "value": "up to +0.08 with faster writing (abstract of an Opt. Express 2008 paper, shown on an author profile page)",
+  "source": "https://independent.academia.edu/LinhardtJeffrey",
+  "source_host": "independent.academia.edu",
+  "value_short": "up to +0.08 with faster writing"
+ },
+ {
+  "prop_id": "pr-visible-2",
+  "glass_id": "pr-visible",
+  "property": "Thermal conductivity (Pr:YLF)",
+  "value": "6 W/(m·K) (most listings; one CRYLINK PDF gives 6.3)",
+  "source": "https://shop.crylink.com/products/pr-ylf ; https://aogcrystal.com/products/pr-ylf-crystal.html",
+  "source_host": "shop.crylink.com",
+  "value_short": "6 W/(m·K)"
+ },
+ {
+  "prop_id": "pr-visible-3",
+  "glass_id": "pr-visible",
+  "property": "dn/dT (Pr:YLF)",
+  "value": "≈ -5.2×10⁻⁶ /K (∥c), -7.6×10⁻⁶ /K (∥a) (CRYLINK, 4lasers)",
+  "source": "https://shop.crylink.com/products/pr-ylf",
+  "source_host": "shop.crylink.com",
+  "value_short": "≈ -5.2×10⁻⁶ /K"
+ },
+ {
+  "prop_id": "pr-visible-4",
+  "glass_id": "pr-visible",
+  "property": "Dopant level (Pr:YLF)",
+  "value": "typ. <1 at.% (CRYLINK); 0.1-2 at.% (AOG); stock 0.3 and 0.5 at.%",
+  "source": "https://shop.crylink.com/products/pr-ylf ; https://aogcrystal.com/products/pr-ylf-crystal.html ; https://crylink.com/wp-content/uploads/PrYLF-laser-crystal-crylink.pdf",
+  "source_host": "shop.crylink.com",
+  "value_short": "typ. <1 at.% (CRYLINK)"
+ },
+ {
+  "prop_id": "pr-visible-5",
+  "glass_id": "pr-visible",
+  "property": "Emission band",
+  "value": "Pr:YLF lines 523, 604/607, 640, 698, 720/721 nm, pump ~444 nm (vendor sheets); Pr:LiLuF4 waveguide lasers at 523, 604, 698, 721 nm (baiocco2024prllf, baiocco2023prllf)",
+  "source": "https://www.4lasers.com/components/crystals/laser-crystals/pr-ylf-crystals ; https://gredos.usal.es/handle/10366/157791",
+  "source_host": "4lasers.com",
+  "value_short": "Pr:YLF lines 523, 604/607, 640, 698, 720/721 nm, pump ~444…"
+ },
+ {
+  "prop_id": "pr-visible-6",
+  "glass_id": "pr-visible",
+  "property": "Thermal expansion (Pr:YLF)",
+  "value": "~16×10⁻⁶ /K (CRYLINK, 4lasers)",
+  "source": "https://shop.crylink.com/products/pr-ylf",
+  "source_host": "shop.crylink.com",
+  "value_short": "~16×10⁻⁶ /K (CRYLINK, 4lasers)"
  },
  {
   "prop_id": "rare-earth-doped-zblan-1",
@@ -871,6 +2077,69 @@
   "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13514792/",
   "source_host": "pmc.ncbi.nlm.nih.gov",
   "value_short": "≈550–600 cm⁻¹"
+ },
+ {
+  "prop_id": "sapphire-1",
+  "glass_id": "sapphire",
+  "property": "Refractive index @ 1.06 µm",
+  "value": "no = 1.75449, ne = 1.74663",
+  "source": "https://crystran.com/media/wysiwyg/Materials/sapphire-al2o3-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "no = 1.75449, ne = 1.74663"
+ },
+ {
+  "prop_id": "sapphire-2",
+  "glass_id": "sapphire",
+  "property": "Refractive index @ 1.064 µm",
+  "value": "no = 1.7545, ne = 1.7466 (table in the same sheet)",
+  "source": "https://crystran.com/media/wysiwyg/Materials/sapphire-al2o3-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "no = 1.7545, ne = 1.7466"
+ },
+ {
+  "prop_id": "sapphire-3",
+  "glass_id": "sapphire",
+  "property": "Transmission window",
+  "value": "0.17–5.5 µm",
+  "source": "https://crystran.com/media/wysiwyg/Materials/sapphire-al2o3-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "0.17–5.5 µm"
+ },
+ {
+  "prop_id": "sapphire-4",
+  "glass_id": "sapphire",
+  "property": "Thermal conductivity (Crystran)",
+  "value": "27.21 W m⁻¹ K⁻¹ at 300 K",
+  "source": "https://crystran.com/media/wysiwyg/Materials/sapphire-al2o3-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "27.21 W m⁻¹ K⁻¹ at 300 K"
+ },
+ {
+  "prop_id": "sapphire-5",
+  "glass_id": "sapphire",
+  "property": "Thermal conductivity (Alkor)",
+  "value": "35.1 (∥ c) / 33.0 (⊥ c) W m⁻¹ K⁻¹ at 300 K — differs from Crystran",
+  "source": "https://alkor.net/images/Sapphire%20data.pdf",
+  "source_host": "alkor.net",
+  "value_short": "35.1"
+ },
+ {
+  "prop_id": "sapphire-6",
+  "glass_id": "sapphire",
+  "property": "Thermal conductivity (Goodfellow, 'sapphire ceramic' page)",
+  "value": "35–46 W m⁻¹ K⁻¹ at 298 K",
+  "source": "https://www.goodfellow.com/usa/resources/sapphire-ceramic-material-information/",
+  "source_host": "goodfellow.com",
+  "value_short": "35–46 W m⁻¹ K⁻¹ at 298 K"
+ },
+ {
+  "prop_id": "sapphire-7",
+  "glass_id": "sapphire",
+  "property": "Band gap",
+  "value": "9.9 eV",
+  "source": "https://alkor.net/images/Sapphire%20data.pdf",
+  "source_host": "alkor.net",
+  "value_short": "9.9 eV"
  },
  {
   "prop_id": "schott-n-bk7-1",
@@ -927,6 +2196,132 @@
   "value_short": "1.03 W/(m·K)"
  },
  {
+  "prop_id": "sesquioxide-ceramic-1",
+  "glass_id": "sesquioxide-ceramic",
+  "property": "Thermal conductivity (Y2O3 ceramic, Konoshima)",
+  "value": "14.5 W/(m·K)",
+  "source": "https://konoshima.co.jp/eng/ceramics/y2o3.html",
+  "source_host": "konoshima.co.jp",
+  "value_short": "14.5 W/(m·K)"
+ },
+ {
+  "prop_id": "sesquioxide-ceramic-2",
+  "glass_id": "sesquioxide-ceramic",
+  "property": "Refractive index (Y2O3 ceramic, Konoshima)",
+  "value": "1.92 @ 532 nm",
+  "source": "https://konoshima.co.jp/eng/ceramics/y2o3.html",
+  "source_host": "konoshima.co.jp",
+  "value_short": "1.92 @ 532 nm"
+ },
+ {
+  "prop_id": "sesquioxide-ceramic-3",
+  "glass_id": "sesquioxide-ceramic",
+  "property": "Lu2O3 vs YAG (qualitative)",
+  "value": "undoped Lu2O3 has higher thermal conductivity and lower CTE than YAG; Lu2O3 is regarded as the best host for high Yb doping (review); no numeric Lu2O3 value retrieved",
+  "source": "https://0-dx-doi-org.brum.beds.ac.uk/10.3390/ma5020258",
+  "source_host": "0-dx-doi-org.brum.beds.ac.uk",
+  "value_short": "undoped Lu2O3 has higher thermal conductivity and lower CTE…"
+ },
+ {
+  "prop_id": "sesquioxide-ceramic-4",
+  "glass_id": "sesquioxide-ceramic",
+  "property": "Dopant level",
+  "value": "1.1 at.% Nd (Nd:YAG ceramic, croitoru2018qswitch); Tm:Lu2O3 level not retrieved",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6165094/",
+  "source_host": "ncbi.nlm.nih.gov",
+  "value_short": "1.1 at.% Nd"
+ },
+ {
+  "prop_id": "sesquioxide-ceramic-5",
+  "glass_id": "sesquioxide-ceramic",
+  "property": "Emission band (fs-written waveguide lasers)",
+  "value": "1942 nm (Tm:Lu2O3 ceramic, morris2017tmlu2o3); 1064.5 nm (Nd:YAG ceramic, liu2012ceramic); ~2 µm (RE:YAG ceramic, ren2012midir)",
+  "source": "https://research-repository.st-andrews.ac.uk/handle/10023/14365",
+  "source_host": "research-repository.st-andrews.ac.uk",
+  "value_short": "1942 nm"
+ },
+ {
+  "prop_id": "silicon-germanium-1",
+  "glass_id": "silicon-germanium",
+  "property": "Si transmission window",
+  "value": "1.2–15 µm and 30 to >100 µm",
+  "source": "https://crystran.com/media/wysiwyg/Materials/silicon-si-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "1.2–15 µm and 30 to >100 µm"
+ },
+ {
+  "prop_id": "silicon-germanium-2",
+  "glass_id": "silicon-germanium",
+  "property": "Si refractive index",
+  "value": "3.4223 @ 5 µm; reflection loss 46.2 % (2 surfaces) at 5 µm (value at ≈1.5 µm not retrieved)",
+  "source": "https://crystran.com/media/wysiwyg/Materials/silicon-si-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "3.4223 @ 5 µm"
+ },
+ {
+  "prop_id": "silicon-germanium-3",
+  "glass_id": "silicon-germanium",
+  "property": "Si thermal conductivity",
+  "value": "163.3 W m⁻¹ K⁻¹ at 273 K",
+  "source": "https://crystran.com/media/wysiwyg/Materials/silicon-si-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "163.3 W m⁻¹ K⁻¹ at 273 K"
+ },
+ {
+  "prop_id": "silicon-germanium-4",
+  "glass_id": "silicon-germanium",
+  "property": "Si density",
+  "value": "2.33 g/cm³",
+  "source": "https://crystran.com/media/wysiwyg/Materials/silicon-si-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "2.33 g/cm³"
+ },
+ {
+  "prop_id": "silicon-germanium-5",
+  "glass_id": "silicon-germanium",
+  "property": "Si band gap (as stated in Nejadmalayeri 2005 abstract summary)",
+  "value": "≈1.1 eV — blocks 800 nm Ti:sapphire writing",
+  "source": "https://publica.fraunhofer.de/handle/publica/208293",
+  "source_host": "publica.fraunhofer.de",
+  "value_short": "≈1.1 eV — blocks 800 nm Ti:sapphire writing"
+ },
+ {
+  "prop_id": "silicon-germanium-6",
+  "glass_id": "silicon-germanium",
+  "property": "Ge optical spectral range",
+  "value": "1.5–22 µm; high index makes AR coating essential",
+  "source": "https://opticalmaterial.crylink.com/crystal/ge/",
+  "source_host": "opticalmaterial.crylink.com",
+  "value_short": "1.5–22 µm"
+ },
+ {
+  "prop_id": "silicon-germanium-7",
+  "glass_id": "silicon-germanium",
+  "property": "Ge density",
+  "value": "5.3267 g/cm³",
+  "source": "https://opticalmaterial.crylink.com/crystal/ge/",
+  "source_host": "opticalmaterial.crylink.com",
+  "value_short": "5.3267 g/cm³"
+ },
+ {
+  "prop_id": "silicon-germanium-8",
+  "glass_id": "silicon-germanium",
+  "property": "Ge transmission range",
+  "value": "1.8–23 µm (opaque at 1025 nm)",
+  "source": "https://www.crystran.com/media/wysiwyg/Materials/germanium-ge-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "1.8–23 µm (opaque at 1025 nm)"
+ },
+ {
+  "prop_id": "silicon-germanium-9",
+  "glass_id": "silicon-germanium",
+  "property": "Ge band gap",
+  "value": "0.67 eV (direct, 300 K, as listed by the vendor)",
+  "source": "https://www.tydexoptics.com/materials1/for_transmission_optics/germanium/",
+  "source_host": "tydexoptics.com",
+  "value_short": "0.67 eV"
+ },
+ {
   "prop_id": "tellurite-tzn-1",
   "glass_id": "tellurite-tzn",
   "property": "Glass transition temperature (standard TZN, implied)",
@@ -972,6 +2367,114 @@
   "value_short": "peak emission cross-section 6×10⁻²¹ cm^2 at 1537 nm"
  },
  {
+  "prop_id": "ti-sapphire-1",
+  "glass_id": "ti-sapphire",
+  "property": "Refractive index",
+  "value": "1.76 @ 800 nm (Crytur)",
+  "source": "https://crytur.cz/materials/tisapphire",
+  "source_host": "crytur.cz",
+  "value_short": "1.76 @ 800 nm (Crytur)"
+ },
+ {
+  "prop_id": "ti-sapphire-2",
+  "glass_id": "ti-sapphire",
+  "property": "Thermal conductivity",
+  "value": "33 W/(m·K) (Crytur; same value on CRYLINK sheet)",
+  "source": "https://crytur.cz/materials/tisapphire ; https://www.crylink.com/wp-content/uploads/Laser-crystal-Ti-Sapphire-CRYLINK-1.pdf",
+  "source_host": "crytur.cz",
+  "value_short": "33 W/(m·K)"
+ },
+ {
+  "prop_id": "ti-sapphire-3",
+  "glass_id": "ti-sapphire",
+  "property": "Dopant level",
+  "value": "0.05-0.3 wt.% Ti2O3 (Crytur); 0.12 wt.% in grivas2012tisapphire",
+  "source": "https://crytur.cz/materials/tisapphire",
+  "source_host": "crytur.cz",
+  "value_short": "0.05-0.3 wt.% Ti2O3 (Crytur)"
+ },
+ {
+  "prop_id": "ti-sapphire-4",
+  "glass_id": "ti-sapphire",
+  "property": "Emission / tuning band",
+  "value": "650-1100 nm, peak 795 nm (Crytur); waveguide laser at 798.25 nm tunable over 170 nm (grivas2012tisapphire)",
+  "source": "https://crytur.cz/materials/tisapphire",
+  "source_host": "crytur.cz",
+  "value_short": "650-1100 nm, peak 795 nm"
+ },
+ {
+  "prop_id": "ti-sapphire-5",
+  "glass_id": "ti-sapphire",
+  "property": "Figure of merit (α490/α800)",
+  "value": ">100 or >200 depending on doping (Crytur); 100-300 (CRYLINK)",
+  "source": "https://crytur.cz/materials/tisapphire ; https://www.crylink.com/wp-content/uploads/Laser-crystal-Ti-Sapphire-CRYLINK-1.pdf",
+  "source_host": "crytur.cz",
+  "value_short": ">100 or >200 depending on doping (Crytur)"
+ },
+ {
+  "prop_id": "ti-sapphire-6",
+  "glass_id": "ti-sapphire",
+  "property": "Absorption at 532 nm",
+  "value": "1-7 cm^-1 (Crytur)",
+  "source": "https://crytur.cz/materials/tisapphire",
+  "source_host": "crytur.cz",
+  "value_short": "1-7 cm^-1 (Crytur)"
+ },
+ {
+  "prop_id": "tm-ho-yag-1",
+  "glass_id": "tm-ho-yag",
+  "property": "Refractive index (Tm:YAG)",
+  "value": "1.83 @ 632 nm (AOG Crystal)",
+  "source": "https://aogcrystal.com/products/tm-yag-crystal.html",
+  "source_host": "aogcrystal.com",
+  "value_short": "1.83 @ 632 nm (AOG Crystal)"
+ },
+ {
+  "prop_id": "tm-ho-yag-2",
+  "glass_id": "tm-ho-yag",
+  "property": "Thermal conductivity (Tm:YAG)",
+  "value": "14 W/(m·K) at 20 °C, 10.5 W/(m·K) at 100 °C (CRYLINK datasheet)",
+  "source": "https://www.laser-crylink.com/wp-content/uploads/Tm-YAG-Laser-Crystal-Dadasheet-Laser-Crylink.pdf",
+  "source_host": "laser-crylink.com",
+  "value_short": "14 W/(m·K) at 20 °C, 10.5 W/(m·K) at 100 °C"
+ },
+ {
+  "prop_id": "tm-ho-yag-3",
+  "glass_id": "tm-ho-yag",
+  "property": "Thermal conductivity (Ho:YAG)",
+  "value": "11.2 W/(m·K) (FindLight Ho:YAG datasheet)",
+  "source": "https://www.findlight.net/uploads/products/datasheet/laser-crystal--HoYAG.pdf",
+  "source_host": "findlight.net",
+  "value_short": "11.2 W/(m·K)"
+ },
+ {
+  "prop_id": "tm-ho-yag-4",
+  "glass_id": "tm-ho-yag",
+  "property": "Dopant level",
+  "value": "Tm 0.5-5 at.% (AOG)",
+  "source": "https://aogcrystal.com/products/tm-yag-crystal.html",
+  "source_host": "aogcrystal.com",
+  "value_short": "Tm 0.5-5 at.% (AOG)"
+ },
+ {
+  "prop_id": "tm-ho-yag-5",
+  "glass_id": "tm-ho-yag",
+  "property": "Emission band",
+  "value": "Tm:YAG: 2 µm range (AOG; fluorescence lifetime 11 ms); Ho:YAG: 5I7→5I8 near 2.01-2.09 µm depending on source, pumped at 1.9 µm (FindLight)",
+  "source": "https://aogcrystal.com/products/tm-yag-crystal.html ; https://www.findlight.net/uploads/products/datasheet/laser-crystal--HoYAG.pdf",
+  "source_host": "aogcrystal.com",
+  "value_short": "Tm:YAG: 2 µm range"
+ },
+ {
+  "prop_id": "tm-ho-yag-6",
+  "glass_id": "tm-ho-yag",
+  "property": "Density / melting point (Tm:YAG)",
+  "value": "4.56 g/cm³; 1970 °C (CRYLINK)",
+  "source": "https://www.laser-crylink.com/wp-content/uploads/Tm-YAG-Laser-Crystal-Dadasheet-Laser-Crylink.pdf",
+  "source_host": "laser-crylink.com",
+  "value_short": "4.56 g/cm³"
+ },
+ {
   "prop_id": "tungsten-tellurite-twb-1",
   "glass_id": "tungsten-tellurite-twb",
   "property": "Nonlinearity / 2PA (qualitative)",
@@ -979,6 +2482,78 @@
   "source": "https://istina.msu.ru/download/151273840/1meSxH:pB3r-ob7jdtRAvX5kwwAmlTdDQA/",
   "source_host": "istina.msu.ru",
   "value_short": "Authors: high χ(3) coefficient and relatively low…"
+ },
+ {
+  "prop_id": "ule-zerodur-1",
+  "glass_id": "ule-zerodur",
+  "property": "Refractive index (ZERODUR)",
+  "value": "nd = 1.5424, Abbe vd = 56.1",
+  "source": "https://www.schott.com/products/zerodur/technical-details",
+  "source_host": "schott.com",
+  "value_short": "nd = 1.5424, Abbe vd = 56.1"
+ },
+ {
+  "prop_id": "ule-zerodur-2",
+  "glass_id": "ule-zerodur",
+  "property": "Density (ZERODUR)",
+  "value": "2.53 g/cm3",
+  "source": "https://www.schott.com/products/zerodur/technical-details",
+  "source_host": "schott.com",
+  "value_short": "2.53 g/cm3"
+ },
+ {
+  "prop_id": "ule-zerodur-3",
+  "glass_id": "ule-zerodur",
+  "property": "Internal transmittance (ZERODUR)",
+  "value": "0.95 at 580 nm for 5 mm; 0.90 for 10 mm",
+  "source": "https://www.schott.com/products/zerodur/technical-details",
+  "source_host": "schott.com",
+  "value_short": "0.95 at 580 nm for 5 mm"
+ },
+ {
+  "prop_id": "ule-zerodur-4",
+  "glass_id": "ule-zerodur",
+  "property": "CTE (ZERODUR K20 variant only)",
+  "value": "1.6×10⁻⁶ /K (0-50 C); standard ZERODUR expansion-class limits not retrieved",
+  "source": "https://www.schott.com/products/zerodur/technical-details",
+  "source_host": "schott.com",
+  "value_short": "1.6×10⁻⁶ /K (0-50 C)"
+ },
+ {
+  "prop_id": "ule-zerodur-5",
+  "glass_id": "ule-zerodur",
+  "property": "Refractive index (ULE 7972)",
+  "value": "nD = 1.4828 @ 589 nm; nF = 1.4892; nC = 1.4801; Abbe 53.1",
+  "source": "https://www.corning.com/media/worldwide/csm/documents/7972 ULE Product Information Jan 2016.pdf",
+  "source_host": "corning.com",
+  "value_short": "nD = 1.4828 @ 589 nm"
+ },
+ {
+  "prop_id": "ule-zerodur-6",
+  "glass_id": "ule-zerodur",
+  "property": "CTE (ULE 7972)",
+  "value": "mean 0 +/- 30 ppb/C from 5 to 35 C (95% confidence)",
+  "source": "https://www.corning.com/media/worldwide/csm/documents/7972 ULE Product Information Jan 2016.pdf",
+  "source_host": "corning.com",
+  "value_short": "mean 0 +/- 30 ppb/C from 5 to 35 C (95% confidence)"
+ },
+ {
+  "prop_id": "ule-zerodur-7",
+  "glass_id": "ule-zerodur",
+  "property": "Density (ULE 7972)",
+  "value": "2.21 g/cm3 at 25 C (a Corning SPIE table lists 2.20)",
+  "source": "https://www.corning.com/media/worldwide/csm/documents/7972 ULE Product Information Jan 2016.pdf",
+  "source_host": "corning.com",
+  "value_short": "2.21 g/cm3 at 25 C"
+ },
+ {
+  "prop_id": "ule-zerodur-8",
+  "glass_id": "ule-zerodur",
+  "property": "Special mechanism (LAS glass-ceramic)",
+  "value": "fs pulses at 10 kHz amorphize the nanocrystals, delta-n ~ -0.0035",
+  "source": "https://link.springer.com/10.1134/S0020168523040088",
+  "source_host": "link.springer.com",
+  "value_short": "fs pulses at 10 kHz amorphize the nanocrystals, delta-n ~…"
  },
  {
   "prop_id": "yb-phosphate-1",
@@ -1006,6 +2581,33 @@
   "source": "https://opg.optica.org/ol/abstract.cfm?uri=ol-34-3-247",
   "source_host": "opg.optica.org",
   "value_short": "lasing at 1033 nm, pumped at 976 nm (ams2009yb100mw)"
+ },
+ {
+  "prop_id": "yb-yag-1",
+  "glass_id": "yb-yag",
+  "property": "Rare-earth doping level",
+  "value": "0.5-25 at.% (LASER COMPONENTS datasheet); 7 at.% used for fs-written waveguide lasers (calmano2011diode)",
+  "source": "https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/yb-yag.pdf",
+  "source_host": "lasercomponents.com",
+  "value_short": "0.5-25 at.%"
+ },
+ {
+  "prop_id": "yb-yag-2",
+  "glass_id": "yb-yag",
+  "property": "Emission band",
+  "value": "1030 nm (datasheet: 'good substitute for Nd:YAG at 1064 nm'); waveguide lasers at 1030 nm (tang2015tubular)",
+  "source": "https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/yb-yag.pdf",
+  "source_host": "lasercomponents.com",
+  "value_short": "1030 nm"
+ },
+ {
+  "prop_id": "yb-yag-3",
+  "glass_id": "yb-yag",
+  "property": "Format (LASER COMPONENTS)",
+  "value": "orientation [100] or [111] within 5°; rods 2-20 mm diameter, 5-150 mm long; extinction ratio ≥ 28 dB",
+  "source": "https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/yb-yag.pdf",
+  "source_host": "lasercomponents.com",
+  "value_short": "orientation [100] or [111] within 5°"
  },
  {
   "prop_id": "zblan-1",
@@ -1069,5 +2671,59 @@
   "source": "https://www.sciencedirect.com/topics/materials-science/fluoride-glasses",
   "source_host": "sciencedirect.com",
   "value_short": "≈1 × 10⁻²⁰ m²/W"
+ },
+ {
+  "prop_id": "znse-zns-1",
+  "glass_id": "znse-zns",
+  "property": "ZnSe refractive index @ 1.0 µm",
+  "value": "2.4892 (Crystran table; source note US Army R&D, Feb 1980)",
+  "source": "https://crystran.com/media/wysiwyg/Materials/zinc-selenide-znse-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "2.4892"
+ },
+ {
+  "prop_id": "znse-zns-2",
+  "glass_id": "znse-zns",
+  "property": "ZnSe refractive index @ 10.6 µm",
+  "value": "2.4028",
+  "source": "https://crystran.com/media/wysiwyg/Materials/zinc-selenide-znse-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "2.4028"
+ },
+ {
+  "prop_id": "znse-zns-3",
+  "glass_id": "znse-zns",
+  "property": "ZnSe transmission window",
+  "value": "0.6–21.0 µm",
+  "source": "https://crystran.com/media/wysiwyg/Materials/zinc-selenide-znse-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "0.6–21.0 µm"
+ },
+ {
+  "prop_id": "znse-zns-4",
+  "glass_id": "znse-zns",
+  "property": "ZnSe absorption coefficient @ 10.6 µm",
+  "value": "0.0005 cm⁻¹; reflection loss 29.1 % (2 surfaces) at 10.6 µm",
+  "source": "https://crystran.com/media/wysiwyg/Materials/zinc-selenide-znse-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "0.0005 cm⁻¹"
+ },
+ {
+  "prop_id": "znse-zns-5",
+  "glass_id": "znse-zns",
+  "property": "ZnSe thermal conductivity",
+  "value": "18 W m⁻¹ K⁻¹ at 298 K",
+  "source": "https://crystran.com/media/wysiwyg/Materials/zinc-selenide-znse-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "18 W m⁻¹ K⁻¹ at 298 K"
+ },
+ {
+  "prop_id": "znse-zns-6",
+  "glass_id": "znse-zns",
+  "property": "ZnSe density / melting point",
+  "value": "5.27 g/cm³ / 1525 °C; not for use above 250 °C in normal atmosphere",
+  "source": "https://crystran.com/media/wysiwyg/Materials/zinc-selenide-znse-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "5.27 g/cm³ / 1525 °C"
  }
 ]
