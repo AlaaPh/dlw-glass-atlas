@@ -9,12 +9,17 @@
   "product": "Fused silica wafers and 20 x 20 mm pieces (JGS1, JGS2)",
   "formats": "Wafers 2-12 inch, 250-1000 um, DSP; square pieces 20 x 20 mm at 250 um and 700 um DSP",
   "price": "20 x 20 mm, 250 um DSP (JGS2): EUR 4.80 per piece for <100 pcs (sold in units of 50), down to EUR 2.40 at 2000+; 20 x 20 mm, 700 um DSP: from EUR 2.90 per piece (units of 30); wafers from EUR 9.00 (2 inch, 500 um), EUR 37.00 (4 inch, 1000 um); net prices (excl. VAT, packaging and shipping)",
-  "price_url": "https://www.microchemicals.com/Fused-silica-wafer-20-x-20-mm-250-um-DSP/W9US0200200250NNNNX1",
+  "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.microchemicals.com/PRODUCTS/Wafer/Fused-Silica-Wafer/",
+  "url": "https://www.microchemicals.com/products/wafers/wafer_fused_silica_4_inch_en.html",
   "services": "Stock items only seen; product enquiry form on item pages",
   "notes": "JGS1/JGS2 are Chinese grade names (JGS1 = synthetic UV grade), not Corning 7980 or Suprasil. Pieces are thinner than our 1-2 mm target; 1 mm wafers exist and would need dicing. Prices are 'from'/tiered prices; smallest-quantity price applies for small orders. Re-check price/stock before ordering.",
-  "notes_full": "JGS1/JGS2 are Chinese grade names (JGS1 = synthetic UV grade), not Corning 7980 or Suprasil. Pieces are thinner than our 1-2 mm target; 1 mm wafers exist and would need dicing. Prices are 'from'/tiered prices; smallest-quantity price applies for small orders. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "JGS1/JGS2 are Chinese grade names (JGS1 = synthetic UV grade), not Corning 7980 or Suprasil. Pieces are thinner than our 1-2 mm target; 1 mm wafers exist and would need dicing. Prices are 'from'/tiered prices; smallest-quantity price applies for small orders. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.microchemicals.com/",
+  "product_url": "https://www.microchemicals.com/products/wafers/wafer_fused_silica_4_inch_en.html",
+  "datasheet_url": null,
+  "link_note": "Stored PRODUCTS/Wafer/Fused-Silica-Wafer/ category and 20x20 mm shop item not confirmed; replaced with confirmed 4-inch fused silica wafer page (JGS1/JGS2). Shop overview: https://www.microchemicals.com/SHOP/Wafers/",
+  "search_url": "https://www.google.com/search?q=site%3Amicrochemicals.com%20fused%20silica%20wafer%20JGS1%20JGS2"
  },
  {
   "offer_id": "praezisions-glas-optik-gmbh-pgo-uv-grade-synthetic-quartz-gl",
@@ -31,7 +36,12 @@
   "url": "https://www.pgo-online.com/intl/quartz-glass.html",
   "services": "Custom optics in 48 h express service (cutting to size, CNC-cut edges, polishing); see https://www.pgo-online.com/intl/service/custom-optics-express-service.html",
   "notes": "Maker of the raw glass (Heraeus/Corning/other) not named on the page. Re-check price/stock before ordering.",
-  "notes_full": "Maker of the raw glass (Heraeus/Corning/other) not named on the page. Edge polishing for fiber coupling not confirmed - ask. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Maker of the raw glass (Heraeus/Corning/other) not named on the page. Edge polishing for fiber coupling not confirmed - ask. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.pgo-online.com/",
+  "product_url": "https://www.pgo-online.com/intl/quartz-glass.html",
+  "datasheet_url": null,
+  "link_note": "Stored URL confirmed.",
+  "search_url": "https://www.google.com/search?q=site%3Apgo-online.com%20optical%20quartz%20glass%20fused%20silica"
  },
  {
   "offer_id": "wafer-universe-stock-brand-of-planoptik-ag-high-purity-fused",
@@ -45,10 +55,15 @@
   "price": "on request (shop prices visible only after login)",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://waferuniverse.com/products/high-purity-fused-silica-wafer",
+  "url": "https://waferuniverse.com/high-purity-fused-silica-wafer/",
   "services": "PLANOPTIK: custom wafers, through holes, cavities, trenches (https://planoptik.com/products/packaging-wafers/)",
   "notes": "Minimum order 10 pieces per a 2021 Wafer Universe release - confirm. Made in Germany per vendor. Re-check price/stock before ordering.",
-  "notes_full": "Minimum order 10 pieces per a 2021 Wafer Universe release - confirm. Made in Germany per vendor. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Minimum order 10 pieces per a 2021 Wafer Universe release - confirm. Made in Germany per vendor. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://waferuniverse.com/",
+  "product_url": "https://waferuniverse.com/high-purity-fused-silica-wafer/",
+  "datasheet_url": null,
+  "link_note": "Stored /products/high-purity-fused-silica-wafer path not confirmed; replaced with confirmed product page at site root path.",
+  "search_url": "https://www.google.com/search?q=site%3Awaferuniverse.com%20high%20purity%20fused%20silica%20wafer"
  },
  {
   "offer_id": "heraeus-covantics-formerly-heraeus-conamic-merged-with-herae",
@@ -62,10 +77,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.heraeus.com/en/hca/products_and_solutions_hca/material_grades_brands/brands_suprasil.html",
+  "url": "https://www.heraeus-covantics.com/brands/suprasil",
   "services": "Semi-finished products and custom solutions (manufacturer); small polished samples usually via distributors",
   "notes": "Plates page: https://heraeus.com/en/hqs/products_hqs/plates_quartz/plates_overview/plates.aspx ; part-number finder: https://www.heraeus-conamic.com/tools-and-services/tools/part-number-finder/optics . Re-check price/stock before ordering.",
-  "notes_full": "Plates page: https://heraeus.com/en/hqs/products_hqs/plates_quartz/plates_overview/plates.aspx ; part-number finder: https://www.heraeus-conamic.com/tools-and-services/tools/part-number-finder/optics . Grades 311/312 not seen in search results. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Plates page: https://heraeus.com/en/hqs/products_hqs/plates_quartz/plates_overview/plates.aspx ; part-number finder: https://www.heraeus-conamic.com/tools-and-services/tools/part-number-finder/optics . Grades 311/312 not seen in search results. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.heraeus-covantics.com/",
+  "product_url": "https://www.heraeus-covantics.com/brands/suprasil",
+  "datasheet_url": "https://www.heraeus-covantics.com/media/Media/Documents/Products_and_Solutions/OPT/EN/Data_and_Properties_Optics_fused_silica_EN.pdf",
+  "link_note": "Replaced legacy heraeus.com/hca brand page with the Suprasil page on the current Heraeus Covantics domain; optics data-and-properties PDF covers Suprasil grades.",
+  "search_url": "https://www.google.com/search?q=site%3Aheraeus-covantics.com%20Suprasil%20fused%20silica%20optics"
  },
  {
   "offer_id": "uqg-optics-ltd-uv-fused-silica-plates-25-x-25-mm-pfs-series",
@@ -82,7 +102,12 @@
   "url": "https://www.uqgoptics.com/catalogue/optical-windows/uv-fused-silica/uv-fused-silica-plates/",
   "services": "Volume pricing (10+) by quote; custom cutting/edge polishing not checked",
   "notes": "Material page naming Suprasil: https://www.uqgoptics.com/materials/fused-silica/ . UK: import duty/VAT after Brexit applies for EU buyers. Good match to our 25 x 25 x 1-2 mm sample format. Re-check price/stock before ordering.",
-  "notes_full": "Material page naming Suprasil: https://www.uqgoptics.com/materials/fused-silica/ . UK: import duty/VAT after Brexit applies for EU buyers. Good match to our 25 x 25 x 1-2 mm sample format. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Material page naming Suprasil: https://www.uqgoptics.com/materials/fused-silica/ . UK: import duty/VAT after Brexit applies for EU buyers. Good match to our 25 x 25 x 1-2 mm sample format. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.uqgoptics.com/",
+  "product_url": "https://www.uqgoptics.com/catalogue/optical-windows/uv-fused-silica/uv-fused-silica-plates/",
+  "datasheet_url": null,
+  "link_note": "Stored URL confirmed (lists PFS plates with prices).",
+  "search_url": "https://www.google.com/search?q=site%3Auqgoptics.com%20UV%20fused%20silica%20plates%20PFS"
  },
  {
   "offer_id": "gvb-gmbh-solutions-in-glass-quartz-glass-plates-mechanically",
@@ -94,12 +119,17 @@
   "product": "Quartz glass plates, mechanically polished (FN08/EN08, GE124)",
   "formats": "500 x 500 mm plates, 2-10 mm thick, both faces ground and polished, edges ground ('sight glass quality'); other standard sizes",
   "price": "EUR 305.14 net for 500 x 500 x 2 mm FN08; EUR 414.64 net for 500 x 500 x 3 mm FN08/EN08; EUR 459.68 net for 500 x 500 x 3 mm GE124; excl. 19 % VAT and shipping",
-  "price_url": "https://g-v-b-shop.de/en/product/quartz-glass-plates-500x500x2-mm-fn08/",
+  "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://g-v-b-shop.de/en/product-category/quarzglas/platten/mechanisch-polierte-quarzglas-platten/",
+  "url": "https://g-v-b-shop.de/en/product-category/quartz-glass/plates/standard-sizes/",
   "services": "Distributor and processor of special glasses (cutting to size on request)",
   "notes": "Natural fused quartz, not synthetic Suprasil/HPFS: higher impurity/bubble content, 'sight glass' polish, not optical-grade flatness. Search snapshot of these pages was about 458 days old. Large plate would need cutting to 20-50 mm. Re-check price/stock before ordering.",
-  "notes_full": "Natural fused quartz, not synthetic Suprasil/HPFS: higher impurity/bubble content, 'sight glass' polish, not optical-grade flatness. Search snapshot of these pages was about 458 days old. Large plate would need cutting to 20-50 mm. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Natural fused quartz, not synthetic Suprasil/HPFS: higher impurity/bubble content, 'sight glass' polish, not optical-grade flatness. Search snapshot of these pages was about 458 days old. Large plate would need cutting to 20-50 mm. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://g-v-b.de/en/",
+  "product_url": "https://g-v-b-shop.de/en/product-category/quartz-glass/plates/standard-sizes/",
+  "datasheet_url": null,
+  "link_note": "Stored German-slug category and 500x500x2 FN08 item not confirmed; replaced with confirmed shop category 'Quartz Glass Plates In Standard Sizes'.",
+  "search_url": "https://www.google.com/search?q=site%3Ag-v-b-shop.de%20quartz%20glass%20plates%20FN08"
  },
  {
   "offer_id": "heraeus-covantics-formerly-heraeus-conamic-infrasil-301-302-",
@@ -113,10 +143,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.uqgoptics.com/wp-content/uploads/2019/03/Heraeus-Infrasil.pdf",
+  "url": "https://www.heraeus-covantics.com/brands/infrasil",
   "services": "Semi-finished material; finished parts via distributors",
   "notes": "URL is the Heraeus Infrasil datasheet hosted by UQG Optics (no Infrasil 301 page found on heraeus.com in search). Re-check price/stock before ordering.",
-  "notes_full": "URL is the Heraeus Infrasil datasheet hosted by UQG Optics (no Infrasil 301 page found on heraeus.com in search). Suprasil 3001/3002 (synthetic, low OH) not found in search results - ask Heraeus. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "URL is the Heraeus Infrasil datasheet hosted by UQG Optics (no Infrasil 301 page found on heraeus.com in search). Suprasil 3001/3002 (synthetic, low OH) not found in search results - ask Heraeus. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.heraeus-covantics.com/",
+  "product_url": "https://www.heraeus-covantics.com/brands/infrasil",
+  "datasheet_url": "https://www.heraeus-covantics.com/media/Media/Documents/Products_and_Solutions/OPT/EN/Data_and_Properties_Optics_fused_silica_EN.pdf",
+  "link_note": "Dropped Heraeus PDF hosted on uqgoptics.com (third party); replaced with Heraeus Covantics Infrasil page and its own optics data PDF (lists Infrasil 301/302).",
+  "search_url": "https://www.google.com/search?q=site%3Aheraeus-covantics.com%20Infrasil%20301%20302"
  },
  {
   "offer_id": "wafer-universe-stock-brand-of-planoptik-ag-quartz-wafers-sem",
@@ -130,10 +165,15 @@
   "price": "on request (shop prices visible only after login)",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://waferuniverse.com/quartz-wafers-semiconductor-grade/",
+  "url": "https://waferuniverse.com/product-category/quartz-wafers-semiconductor-grade-quartz-high-purity-fused-silica/",
   "services": "PLANOPTIK custom wafers and structuring",
   "notes": "Vendor states low CTE and low OH content; OH value in ppm not seen. Likely natural fused quartz - confirm grade. Re-check price/stock before ordering.",
-  "notes_full": "Vendor states low CTE and low OH content; OH value in ppm not seen. Likely natural fused quartz - confirm grade. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Vendor states low CTE and low OH content; OH value in ppm not seen. Likely natural fused quartz - confirm grade. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://waferuniverse.com/",
+  "product_url": "https://waferuniverse.com/product-category/quartz-wafers-semiconductor-grade-quartz-high-purity-fused-silica/",
+  "datasheet_url": null,
+  "link_note": "Stored /quartz-wafers-semiconductor-grade/ not confirmed; replaced with confirmed quartz wafer category (semiconductor grade and HPFS).",
+  "search_url": "https://www.google.com/search?q=site%3Awaferuniverse.com%20semiconductor%20grade%20quartz%20wafers"
  },
  {
   "offer_id": "gvb-gmbh-solutions-in-glass-quartz-plate-en09-1240-x-155-x-2",
@@ -147,10 +187,15 @@
   "price": "on request (price not captured)",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://g-v-b-shop.de/en/product/plate-en09-1240x155x27-mm/",
+  "url": "https://g-v-b.de/en/quarzglas-platte/",
   "services": "Cutting/processing of special glasses",
   "notes": "confirm grade and polish with GVB. Re-check price/stock before ordering.",
-  "notes_full": "Infrasil naming comes from the search summary of this listing; confirm grade and polish with GVB. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Infrasil naming comes from the search summary of this listing; confirm grade and polish with GVB. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://g-v-b.de/en/",
+  "product_url": "https://g-v-b.de/en/quarzglas-platte/",
+  "datasheet_url": null,
+  "link_note": "Shop item plate-en09-1240x155x27-mm not confirmed (only EN09 rods found); replaced with GVB's confirmed quartz glass plate page.",
+  "search_url": "https://www.google.com/search?q=site%3Ag-v-b-shop.de%20plate%20EN09%201240x155"
  },
  {
   "offer_id": "esco-optics-optics-made-from-suprasil-300-ir-fused-silica",
@@ -164,10 +209,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://escooptics.com/blogs/news/heraeus-300-ir-fused-silica",
+  "url": "https://escooptics.com/pages/materials-fused-silica-quartz",
   "services": "Custom optical fabrication",
   "notes": "URL is a vendor article on Suprasil 300, not a stock product page. Re-check price/stock before ordering.",
-  "notes_full": "URL is a vendor article on Suprasil 300, not a stock product page. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "URL is a vendor article on Suprasil 300, not a stock product page. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://escooptics.com/",
+  "product_url": "https://escooptics.com/pages/materials-fused-silica-quartz",
+  "datasheet_url": null,
+  "link_note": "Stored URL is a blog/news post; replaced with Esco's confirmed fused silica materials page (lists Heraeus Suprasil 300/3001/3002).",
+  "search_url": "https://www.google.com/search?q=site%3Aescooptics.com%20Suprasil%20300%20IR%20fused%20silica"
  },
  {
   "offer_id": "praezisions-glas-optik-gmbh-pgo-eagle-xg-substrates-and-glas",
@@ -184,7 +234,12 @@
   "url": "https://www.pgo-online.com/intl/eagle-xg.html",
   "services": "48 h express custom optics (cutting, CNC edges, polishing)",
   "notes": "Re-check price/stock before ordering.",
-  "notes_full": "PGO glass-wafer page also lists EAGLE2000, AF 32 eco, AF 45: https://www.pgo-online.com/intl/glass-wafers.html Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "PGO glass-wafer page also lists EAGLE2000, AF 32 eco, AF 45: https://www.pgo-online.com/intl/glass-wafers.html Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.pgo-online.com/",
+  "product_url": "https://www.pgo-online.com/intl/eagle-xg.html",
+  "datasheet_url": null,
+  "link_note": "Stored URL confirmed. Wafer overview: https://www.pgo-online.com/intl/glass-wafers.html",
+  "search_url": "https://www.google.com/search?q=site%3Apgo-online.com%20EAGLE%20XG%20glass%20wafers"
  },
  {
   "offer_id": "uqg-optics-ltd-corning-eagle-xg-glass-windows-plates-and-waf",
@@ -201,7 +256,12 @@
   "url": "https://www.uqgoptics.com/catalogue/technical-glasses/technical-glasses-technical-glasses/alkaline-free-glass-plates/",
   "services": "Volume pricing by quote; custom work not checked",
   "notes": "Product cards appear to mismatch some part numbers and thicknesses; the table is the better reference. 1.1 mm not seen. Re-check price/stock before ordering.",
-  "notes_full": "Product cards appear to mismatch some part numbers and thicknesses; the table is the better reference. 1.1 mm not seen. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Product cards appear to mismatch some part numbers and thicknesses; the table is the better reference. 1.1 mm not seen. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.uqgoptics.com/",
+  "product_url": "https://www.uqgoptics.com/catalogue/technical-glasses/technical-glasses-technical-glasses/alkaline-free-glass-plates/",
+  "datasheet_url": null,
+  "link_note": "Stored URL confirmed. EAGLE XG PDF on uqgoptics.com is Corning's datasheet, not UQG's, so not used.",
+  "search_url": "https://www.google.com/search?q=site%3Auqgoptics.com%20Eagle%20XG%20glass%20plates"
  },
  {
   "offer_id": "praezisions-glas-optik-gmbh-pgo-borofloat-33-sheet-thin-glas",
@@ -218,7 +278,12 @@
   "url": "https://www.pgo-online.com/intl/borofloat.html",
   "services": "48 h express custom optics (cutting, CNC edges, polishing)",
   "notes": "Re-check price/stock before ordering.",
-  "notes_full": "Wafers: https://www.pgo-online.com/intl/glass-wafers.html Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Wafers: https://www.pgo-online.com/intl/glass-wafers.html Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.pgo-online.com/",
+  "product_url": "https://www.pgo-online.com/intl/borofloat.html",
+  "datasheet_url": null,
+  "link_note": "Stored URL confirmed.",
+  "search_url": "https://www.google.com/search?q=site%3Apgo-online.com%20BOROFLOAT%2033"
  },
  {
   "offer_id": "wafer-universe-stock-brand-of-planoptik-ag-borofloat33-wafer",
@@ -235,7 +300,12 @@
   "url": "https://waferuniverse.com/borosilicate-wafers/",
   "services": "PLANOPTIK custom/structured wafers",
   "notes": "MDF grade: https://waferuniverse.com/borofloat33-wafers-mdf-polishing/ . Min. order 10 pcs (2021 release). Re-check price/stock before ordering.",
-  "notes_full": "MDF grade: https://waferuniverse.com/borofloat33-wafers-mdf-polishing/ . Min. order 10 pcs (2021 release). Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "MDF grade: https://waferuniverse.com/borofloat33-wafers-mdf-polishing/ . Min. order 10 pcs (2021 release). Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://waferuniverse.com/",
+  "product_url": "https://waferuniverse.com/borosilicate-wafers/",
+  "datasheet_url": "https://waferuniverse.com/wp-content/uploads/2023/11/MDS_BF33_Wafer-Universe_1123.pdf",
+  "link_note": "Stored URL confirmed (regular grade). MDF grade: https://waferuniverse.com/borofloat33-wafers-mdf-polishing/",
+  "search_url": "https://www.google.com/search?q=site%3Awaferuniverse.com%20Borofloat33%20wafers%20MDF"
  },
  {
   "offer_id": "glas-selection-de-borofloat-33-cut-to-size-nach-mass",
@@ -252,7 +322,12 @@
   "url": "https://www.glas-selection.de/glas/borosilikat-flachglas-gefloatetes-hi-tec-glas/borofloat-33-gefloatetes-borosilikat-flachglas/",
   "services": "Cutting to custom size; edge finishing options not checked",
   "notes": "Fire-polished float surfaces, not optically polished. Company city not captured. Re-check price/stock before ordering.",
-  "notes_full": "Fire-polished float surfaces, not optically polished. Company city not captured. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Fire-polished float surfaces, not optically polished. Company city not captured. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.glas-selection.de/",
+  "product_url": "https://www.glas-selection.de/glas/borosilikat-flachglas-gefloatetes-hi-tec-glas/borofloat-33-gefloatetes-borosilikat-flachglas/",
+  "datasheet_url": null,
+  "link_note": "Stored URL confirmed (configurator with price).",
+  "search_url": "https://www.google.com/search?q=site%3Aglas-selection.de%20BOROFLOAT%2033%20nach%20Mass"
  },
  {
   "offer_id": "siegert-wafer-gmbh-borosilicate-wafer-borofloat-33-100-mm-50",
@@ -266,10 +341,15 @@
   "price": "on request (only a 2023 quotation document seen)",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.epfl.ch/research/facilities/cmi/wp-content/uploads/2020/05/borofloat33.pdf",
+  "url": "https://www.siegertwafer.com/Glass_Wafers.html",
   "services": null,
   "notes": "evidence is a 2023 quotation PDF posted by EPFL CMI (address Charlottenburger Allee 7, 52068 Aachen). Re-check price/stock before ordering.",
-  "notes_full": "Siegert Wafer's own website could not be found or loaded; evidence is a 2023 quotation PDF posted by EPFL CMI (address Charlottenburger Allee 7, 52068 Aachen). Online shop with prices NOT confirmed. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Siegert Wafer's own website could not be found or loaded; evidence is a 2023 quotation PDF posted by EPFL CMI (address Charlottenburger Allee 7, 52068 Aachen). Online shop with prices NOT confirmed. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.siegertwafer.com/",
+  "product_url": "https://www.siegertwafer.com/Glass_Wafers.html",
+  "datasheet_url": null,
+  "link_note": "Dropped epfl.ch PDF (third party); replaced with Siegert Wafer's confirmed glass wafers page.",
+  "search_url": "https://www.google.com/search?q=site%3Asiegertwafer.com%20Borofloat%20glass%20wafers"
  },
  {
   "offer_id": "microchemicals-gmbh-borosilicate-glass-wafers-and-20-x-20-mm",
@@ -283,10 +363,15 @@
   "price": "4 inch, 500 um: EUR 27.70 per wafer net at 5 pcs (EUR 14.00 at 300 pcs); 3 inch, 500 um DSP from EUR 10.50; 6 inch, 700 um DSP from EUR 26.00; 20 x 20 mm x 500 um DSP from EUR 2.00 (top quantity tier); net, excl. VAT and shipping",
   "price_url": "https://www.microchemicals.com/PRODUCTS/Wafer/Borosilicate-Glass-Wafer/",
   "date_seen": "2026-10-24",
-  "url": "https://www.microchemicals.com/Borosilicate-20-x-20-mm-500-um-DSP/W9GS0200200500NNNNX1",
+  "url": "https://www.microchemicals.com/PRODUCTS/Wafer/Borosilicate-Glass-Wafer/",
   "services": "Stock items only seen",
   "notes": "Re-check price/stock before ordering.",
-  "notes_full": "Brand of the borosilicate is not stated in search results - may not be SCHOTT BOROFLOAT 33. 4 inch price list: https://microchemicals.com/products/wafers/wafer_glass_4_inch_en.html Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Brand of the borosilicate is not stated in search results - may not be SCHOTT BOROFLOAT 33. 4 inch price list: https://microchemicals.com/products/wafers/wafer_glass_4_inch_en.html Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.microchemicals.com/",
+  "product_url": "https://www.microchemicals.com/PRODUCTS/Wafer/Borosilicate-Glass-Wafer/",
+  "datasheet_url": "https://www.microchemicals.com/dokumente/application_notes/glass_wafers_borosilicate.pdf",
+  "link_note": "Stored 20x20 mm shop item not confirmed; used confirmed borosilicate wafer category instead. Datasheet is MicroChemicals' own borosilicate wafer info sheet.",
+  "search_url": "https://www.google.com/search?q=site%3Amicrochemicals.com%20borosilicate%20glass%20wafer"
  },
  {
   "offer_id": "gvb-gmbh-solutions-in-glass-boroplate-borosilicate-3-3-float",
@@ -300,10 +385,15 @@
   "price": "on request (price not captured)",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://g-v-b-shop.de/en/product/new-boroplate-02-0-x-1150-x-850-mm",
+  "url": "https://g-v-b.de/en/borosilikatglas-2/borosilikatglas-platten/",
   "services": "Cutting/processing of special glasses",
   "notes": "Borosilicate 3.3 (same glass class as BOROFLOAT 33) but SCHOTT brand not named. Unpolished float sheet. Re-check price/stock before ordering.",
-  "notes_full": "Borosilicate 3.3 (same glass class as BOROFLOAT 33) but SCHOTT brand not named. Unpolished float sheet. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Borosilicate 3.3 (same glass class as BOROFLOAT 33) but SCHOTT brand not named. Unpolished float sheet. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://g-v-b.de/en/",
+  "product_url": "https://g-v-b.de/en/borosilikatglas-2/borosilikatglas-platten/",
+  "datasheet_url": null,
+  "link_note": "Stored 2.0 mm Boroplate shop item not confirmed (8.0 mm item is); replaced with GVB's confirmed borosilicate glass sheets page.",
+  "search_url": "https://www.google.com/search?q=site%3Ag-v-b-shop.de%20Boroplate%20borosilicate"
  },
  {
   "offer_id": "uqg-optics-ltd-borosilicate-optical-plates-bpw-series-and-bo",
@@ -315,12 +405,17 @@
   "product": "Borosilicate optical plates (BPW series) and Borofloat round windows (WBO series)",
   "formats": "25 x 25 x 1.10 mm plate; round windows 25 mm dia",
   "price": "GBP 6.50 per 25 x 25 x 1.10 mm borosilicate plate (BPW-2525, qty 1-10); Borofloat round windows 25 mm dia GBP 7.50-9.00; VAT label inconsistent on page",
-  "price_url": "https://www.uqgoptics.com/catalogue/technical-glasses/technical-glasses-technical-glasses/borosilicate-windows-plates-sheet-glass/",
+  "price_url": null,
   "date_seen": "2026-10-24",
   "url": "https://www.uqgoptics.com/catalogue/optical-windows/optical-glasses/borosilicate-windows-plates-optical/",
   "services": "Volume pricing by quote; custom work not checked",
   "notes": "BOROFLOAT name confirmed only for the round WBO windows; the square BPW plate is 'borosilicate'. Re-check price/stock before ordering.",
-  "notes_full": "BOROFLOAT name confirmed only for the round WBO windows; the square BPW plate is 'borosilicate'. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "BOROFLOAT name confirmed only for the round WBO windows; the square BPW plate is 'borosilicate'. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.uqgoptics.com/",
+  "product_url": "https://www.uqgoptics.com/catalogue/optical-windows/optical-glasses/borosilicate-windows-plates-optical/",
+  "datasheet_url": null,
+  "link_note": "Product URL confirmed; stored price URL (technical-glasses borosilicate sheet glass) not confirmed, dropped.",
+  "search_url": "https://www.google.com/search?q=site%3Auqgoptics.com%20borosilicate%20windows%20plates"
  },
  {
   "offer_id": "universitywafer-inc-borofloat-33-wafers-and-windows",
@@ -332,12 +427,17 @@
   "product": "BOROFLOAT 33 wafers and windows",
   "formats": "Wafers, all common diameters, polished; single wafers can be ordered",
   "price": "USD 17.56 per 100 mm, 500 um wafer",
-  "price_url": "https://buy.universitywafer.com/collections/borofloat-33-glass",
+  "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.universitywafer.com/borofloat-33.html",
+  "url": "https://www.universitywafer.com/borofloat.html",
   "services": "Custom windows listed (https://www.universitywafer.com/borofloat33/borofloat.html)",
   "notes": "Second shop page: https://order.universitywafer.com/default.aspx?cat=Borofloat+33+Glass . Price attribution between the two shop pages uncertain. Re-check price/stock before ordering.",
-  "notes_full": "Second shop page: https://order.universitywafer.com/default.aspx?cat=Borofloat+33+Glass . Price attribution between the two shop pages uncertain. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Second shop page: https://order.universitywafer.com/default.aspx?cat=Borofloat+33+Glass . Price attribution between the two shop pages uncertain. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.universitywafer.com/",
+  "product_url": "https://www.universitywafer.com/borofloat.html",
+  "datasheet_url": null,
+  "link_note": "Stored borofloat-33.html and buy.universitywafer.com collection not confirmed; replaced with confirmed Borofloat 33 wafer page. Windows: https://www.universitywafer.com/borofloat33/borofloat.html",
+  "search_url": "https://www.google.com/search?q=site%3Auniversitywafer.com%20Borofloat%2033%20glass%20wafers"
  },
  {
   "offer_id": "mse-supplies-llc-mse-pro-100-mm-schott-borofloat-33-glass-wa",
@@ -354,7 +454,12 @@
   "url": "https://www.msesupplies.com/products/mse-pro-100-mm-schott-borofloat-33-glass-wafer-500-um-thick-dsp-w-bevel-primary-flat-only",
   "services": "Custom work by quote",
   "notes": "Re-check price/stock before ordering.",
-  "notes_full": "Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.msesupplies.com/",
+  "product_url": "https://www.msesupplies.com/products/mse-pro-100-mm-schott-borofloat-33-glass-wafer-500-um-thick-dsp-w-bevel-primary-flat-only",
+  "datasheet_url": null,
+  "link_note": "Stored URL confirmed.",
+  "search_url": "https://www.google.com/search?q=site%3Amsesupplies.com%20Borofloat%2033%20glass%20wafer"
  },
  {
   "offer_id": "sydor-optics-borofloat-wafers",
@@ -366,12 +471,17 @@
   "product": "Borofloat wafers",
   "formats": "Wafers 100-200 mm, 0.5-3.5 mm",
   "price": "USD 53.90 per 100 mm x 0.5 mm wafer; USD 275 per 200 mm x 3.5 mm wafer",
-  "price_url": "https://sydor.com/product-category/borofloat/",
+  "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://sydor.com/product-category/borofloat/",
+  "url": "https://sydor.com/product-category/glass-wafers/",
   "services": "Precision optical fabrication (custom polishing) - not checked in detail",
   "notes": "Re-check price/stock before ordering.",
-  "notes_full": "Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://sydor.com/",
+  "product_url": "https://sydor.com/product-category/glass-wafers/",
+  "datasheet_url": "https://www.sydor.com/wp-content/uploads/Stock-Wafer-Specifications.pdf",
+  "link_note": "Stored product-category/borofloat/ not confirmed; replaced with confirmed glass wafers category (Borofloat items listed there) and Sydor stock wafer spec PDF.",
+  "search_url": "https://www.google.com/search?q=site%3Asydor.com%20Borofloat%20wafer"
  },
  {
   "offer_id": "d-l-art-glass-supply-schott-borofloat-33-plate-glass-33p-2-3",
@@ -388,7 +498,12 @@
   "url": "https://www.dlartglass.com/product/detail/schott-borofloat-33-2-mm-plate-glass",
   "services": null,
   "notes": "Art-glass supplier; unpolished fire-polished float sheet, needs cutting. Sheet size of the 2 mm item not captured. Re-check price/stock before ordering.",
-  "notes_full": "Art-glass supplier; unpolished fire-polished float sheet, needs cutting. Sheet size of the 2 mm item not captured. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Art-glass supplier; unpolished fire-polished float sheet, needs cutting. Sheet size of the 2 mm item not captured. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.dlartglass.com/",
+  "product_url": "https://www.dlartglass.com/product/detail/schott-borofloat-33-2-mm-plate-glass",
+  "datasheet_url": null,
+  "link_note": "Stored URL confirmed. 3.8 mm (33P 38): https://www.dlartglass.com/product/detail/schott-borofloat-33-38-mm-plate-glass",
+  "search_url": "https://www.google.com/search?q=site%3Adlartglass.com%20SCHOTT%20Borofloat%2033%20plate"
  },
  {
   "offer_id": "nanografi-nano-technology-borosilicate-glass-wafers",
@@ -405,7 +520,12 @@
   "url": "https://shop.nanografi.com/silicon-wafers-semiconductor-wafers/borosilicate-glass-wafers/",
   "services": null,
   "notes": "Glass brand not stated. Re-check price/stock before ordering.",
-  "notes_full": "Glass brand not stated. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Glass brand not stated. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://nanografi.com/",
+  "product_url": "https://shop.nanografi.com/silicon-wafers-semiconductor-wafers/borosilicate-glass-wafers/",
+  "datasheet_url": null,
+  "link_note": "Kept: category path is the parent of several confirmed borosilicate wafer product pages; category page itself not shown directly in results.",
+  "search_url": "https://www.google.com/search?q=site%3Ashop.nanografi.com%20borosilicate%20wafer"
  },
  {
   "offer_id": "s-i-howard-glass-co-inc-schott-borofloat-33-flat-glass-fabri",
@@ -422,7 +542,12 @@
   "url": "https://flatglassproducts.howardglass.com/viewitems/flat-glass-products-fabrication/schott-borofloat-33-glass",
   "services": "Cutting/fabrication of flat glass",
   "notes": "Re-check price/stock before ordering.",
-  "notes_full": "Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.howardglass.com/",
+  "product_url": "https://flatglassproducts.howardglass.com/viewitems/flat-glass-products-fabrication/schott-borofloat-33-glass",
+  "datasheet_url": "https://flatglassproducts.howardglass.com/Asset/BOROFLOAT--33---Mechanical-Properties.pdf",
+  "link_note": "Stored URL confirmed; datasheet is the BOROFLOAT 33 properties PDF on Howard's catalogue site.",
+  "search_url": "https://www.google.com/search?q=site%3Ahowardglass.com%20Schott%20BOROFLOAT%2033"
  },
  {
   "offer_id": "praezisions-glas-optik-gmbh-pgo-af-32-eco-thin-glass-and-waf",
@@ -439,7 +564,12 @@
   "url": "https://www.pgo-online.com/intl/af32.html",
   "services": "48 h express custom optics (cutting, CNC edges, polishing)",
   "notes": "Maximum 0.5 mm thickness - thinner than our 1-2 mm target; check with PGO for thicker stock. Re-check price/stock before ordering.",
-  "notes_full": "Maximum 0.5 mm thickness - thinner than our 1-2 mm target; check with PGO for thicker stock. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Maximum 0.5 mm thickness - thinner than our 1-2 mm target; check with PGO for thicker stock. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.pgo-online.com/",
+  "product_url": "https://www.pgo-online.com/intl/af32.html",
+  "datasheet_url": null,
+  "link_note": "Stored URL confirmed.",
+  "search_url": "https://www.google.com/search?q=site%3Apgo-online.com%20AF%2032%20eco"
  },
  {
   "offer_id": "planoptik-ag-custom-glass-wafers-incl-alkali-free-glass",
@@ -453,10 +583,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://planoptik.com/products/packaging-wafers/",
+  "url": "https://planoptik.com/products/",
   "services": "Custom wafers, through holes, cavities, trenches",
   "notes": "PLANOPTIK pages confirm 'alkaline free glass' wafers; AF 32 eco, D 263 T eco and MEMpax are named only by distributor listings (myBlossom, Abachy) - confirm with PLANOPTIK. Re-check price/stock before ordering.",
-  "notes_full": "PLANOPTIK pages confirm 'alkaline free glass' wafers; AF 32 eco, D 263 T eco and MEMpax are named only by distributor listings (myBlossom, Abachy) - confirm with PLANOPTIK. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "PLANOPTIK pages confirm 'alkaline free glass' wafers; AF 32 eco, D 263 T eco and MEMpax are named only by distributor listings (myBlossom, Abachy) - confirm with PLANOPTIK. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.planoptik.com/en/",
+  "product_url": "https://planoptik.com/products/",
+  "datasheet_url": null,
+  "link_note": "Stored /products/packaging-wafers/ not confirmed; replaced with confirmed products overview. Stock alkali-free wafers via Wafer Universe: https://waferuniverse.com/alkaline-free-glass-wafers/",
+  "search_url": "https://www.google.com/search?q=site%3Aplanoptik.com%20alkaline%20free%20glass%20wafers"
  },
  {
   "offer_id": "praezisions-glas-optik-gmbh-pgo-d-263-t-thin-glass",
@@ -473,7 +608,12 @@
   "url": "https://www.pgo-online.com/intl/D263.html",
   "services": "48 h express custom optics (cutting, CNC edges, polishing)",
   "notes": "Re-check price/stock before ordering.",
-  "notes_full": "Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.pgo-online.com/",
+  "product_url": "https://www.pgo-online.com/intl/D263.html",
+  "datasheet_url": null,
+  "link_note": "Stored URL confirmed.",
+  "search_url": "https://www.google.com/search?q=site%3Apgo-online.com%20D%20263%20T%20thin%20glass"
  },
  {
   "offer_id": "s-i-howard-glass-co-inc-schott-d263-borosilicate-glass-sheet",
@@ -485,12 +625,17 @@
   "product": "SCHOTT D263 borosilicate glass sheets",
   "formats": "Thin sheets, e.g. 0.10 mm",
   "price": "USD 51.00 per 0.10 mm sheet (sheet size not captured; listing may be outdated)",
-  "price_url": "https://flatglassproducts.howardglass.com/viewitems/flat-glass-products-fabrication/schott-d263-borosilicate-glass-2",
+  "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://flatglassproducts.howardglass.com/viewitems/flat-glass-products-fabrication/schott-d263-borosilicate-glass-2",
+  "url": "https://flatglassproducts.howardglass.com/item/flat-glass-products-fabrication/schott-d263-borosilicate-glass-2/d263-9",
   "services": "Cutting/fabrication of flat glass",
   "notes": "Re-check price/stock before ordering.",
-  "notes_full": "Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.howardglass.com/",
+  "product_url": "https://flatglassproducts.howardglass.com/item/flat-glass-products-fabrication/schott-d263-borosilicate-glass-2/d263-9",
+  "datasheet_url": null,
+  "link_note": "Stored viewitems listing not shown directly; replaced with a confirmed D263 item page in the same catalogue section (several d263-N items confirmed).",
+  "search_url": "https://www.google.com/search?q=site%3Ahowardglass.com%20Schott%20D263%20borosilicate"
  },
  {
   "offer_id": "mse-supplies-llc-customized-schott-d-263-and-n-bk7-glass-on-",
@@ -504,10 +649,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.msesupplies.com/products/mse-pro-100-mm-schott-borofloat-33-glass-wafer-500-um-thick-dsp-w-bevel-primary-flat-only",
+  "url": "https://www.msesupplies.com/collections/borofloat-fused-selica",
   "services": "Custom work by quote",
   "notes": "Offer stated on MSE's Borofloat 33 wafer page; no dedicated D 263 / N-BK7 product page seen. Re-check price/stock before ordering.",
-  "notes_full": "Offer stated on MSE's Borofloat 33 wafer page; no dedicated D 263 / N-BK7 product page seen. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Offer stated on MSE's Borofloat 33 wafer page; no dedicated D 263 / N-BK7 product page seen. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.msesupplies.com/",
+  "product_url": "https://www.msesupplies.com/collections/borofloat-fused-selica",
+  "datasheet_url": null,
+  "link_note": "Stored URL was the Borofloat wafer page (wrong product); replaced with confirmed Glass and Quartz Wafers collection. N-BK7 wafer: https://www.msesupplies.com/products/mse-pro-100-mm-schott-n-bk7-glass-wafer-500-um-thick-dsp-w-bevel-primary-flat-only",
+  "search_url": "https://www.google.com/search?q=site%3Amsesupplies.com%20SCHOTT%20D263%20N-BK7%20wafer"
  },
  {
   "offer_id": "schott-ag-advanced-optics-online-shop-n-bk7-optical-glass-fi",
@@ -521,10 +671,15 @@
   "price": "on request (shop requires account login; prices not visible)",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://shop.schott.com/advanced_optics/en/Optical-Glass/N-BK7/c/optical-glass/glass-N-BK7",
+  "url": "https://www.schott.com/",
   "services": "Customized shapes incl. polished parts on request (info.optics@schott.com)",
   "notes": "Raw glass, not polished plates; N-BK7HT also in shop. Re-check price/stock before ordering.",
-  "notes_full": "Raw glass, not polished plates; N-BK7HT also in shop. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Raw glass, not polished plates; N-BK7HT also in shop. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.schott.com/",
+  "product_url": null,
+  "datasheet_url": "https://media.schott.com/api/public/content/820eba3413cc4e788433a3751f8edba9?v=97b3ea2b&download=true",
+  "link_note": "Old shop.schott.com/advanced_optics URL format not confirmed; no N-BK7 shop page in results (only shop search https://schott.com/shop/advanced-optics/en/search?search=N-BK7). Datasheet: SCHOTT optical glass datasheet collection.",
+  "search_url": "https://www.google.com/search?q=site%3Aschott.com%20N-BK7%20optical%20glass"
  },
  {
   "offer_id": "praezisions-glas-optik-gmbh-pgo-n-bk7-optical-substrates-win",
@@ -541,7 +696,12 @@
   "url": "https://www.pgo-online.com/intl/BK7.html",
   "services": "Sawing, grinding, polishing to custom size; 48 h express service",
   "notes": "Re-check price/stock before ordering.",
-  "notes_full": "Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.pgo-online.com/",
+  "product_url": "https://www.pgo-online.com/intl/BK7.html",
+  "datasheet_url": null,
+  "link_note": "Stored URL confirmed.",
+  "search_url": "https://www.google.com/search?q=site%3Apgo-online.com%20N-BK7"
  },
  {
   "offer_id": "uqg-optics-ltd-bk7-optical-windows-wbk-series",
@@ -558,7 +718,12 @@
   "url": "https://www.uqgoptics.com/catalogue/optical-windows/optical-glasses/bk7-windows/",
   "services": "Volume pricing by quote; square plates not seen",
   "notes": "Round windows only seen; square 25 x 25 mm BK7 plates not found in search. Re-check price/stock before ordering.",
-  "notes_full": "Round windows only seen; square 25 x 25 mm BK7 plates not found in search. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Round windows only seen; square 25 x 25 mm BK7 plates not found in search. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.uqgoptics.com/",
+  "product_url": "https://www.uqgoptics.com/catalogue/optical-windows/optical-glasses/bk7-windows/",
+  "datasheet_url": null,
+  "link_note": "Stored URL confirmed.",
+  "search_url": "https://www.google.com/search?q=site%3Auqgoptics.com%20BK7%20windows"
  },
  {
   "offer_id": "praezisions-glas-optik-gmbh-pgo-selected-float-glass-windows",
@@ -575,7 +740,12 @@
   "url": "https://www.pgo-online.com/intl/B270.html",
   "services": "48 h express custom optics (cutting, CNC edges, polishing)",
   "notes": "Float-glass statement seen on PGO window/substrate pages (https://www.pgo-online.com/intl/optical-windows.html). Re-check price/stock before ordering.",
-  "notes_full": "Float-glass statement seen on PGO window/substrate pages (https://www.pgo-online.com/intl/optical-windows.html). Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "Float-glass statement seen on PGO window/substrate pages (https://www.pgo-online.com/intl/optical-windows.html). Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.pgo-online.com/",
+  "product_url": "https://www.pgo-online.com/intl/B270.html",
+  "datasheet_url": null,
+  "link_note": "Stored URL confirmed. Float glass page: https://www.pgo-online.com/intl/selected-float-glass.html",
+  "search_url": "https://www.google.com/search?q=site%3Apgo-online.com%20B%20270%20selected%20float%20glass"
  },
  {
   "offer_id": "uqg-optics-ltd-float-glass-and-white-float-glass-plates-fgp-",
@@ -587,12 +757,17 @@
   "product": "Float glass and white float glass plates (FGP / WFP series); B270 plates",
   "formats": "25 x 25 x 1.10 mm plates; other sizes and sheets",
   "price": "GBP 7.00 per 25 x 25 x 1.10 mm float glass plate (FGP-2521); GBP 6.00 per white float plate (WFP-2521); VAT label inconsistent",
-  "price_url": "https://www.uqgoptics.com/catalogue/technical-glasses/technical-glasses-technical-glasses/float-glass-windows-plates/",
+  "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.uqgoptics.com/catalogue/technical-glasses/technical-glasses-technical-glasses/float-glass-windows-plates/",
+  "url": "https://www.uqgoptics.com/",
   "services": "Volume pricing by quote",
   "notes": "White float: https://www.uqgoptics.com/catalogue/technical-glasses/technical-glasses-technical-glasses/white-float-glass-windows-plates/ ; Re-check price/stock before ordering.",
-  "notes_full": "White float: https://www.uqgoptics.com/catalogue/technical-glasses/technical-glasses-technical-glasses/white-float-glass-windows-plates/ ; B270: https://www.uqgoptics.com/catalogue/technical-glasses/technical-glasses-technical-glasses/b270i-windows-plates/ Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "White float: https://www.uqgoptics.com/catalogue/technical-glasses/technical-glasses-technical-glasses/white-float-glass-windows-plates/ ; B270: https://www.uqgoptics.com/catalogue/technical-glasses/technical-glasses-technical-glasses/b270i-windows-plates/ Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.uqgoptics.com/",
+  "product_url": null,
+  "datasheet_url": null,
+  "link_note": "Stored float-glass-windows-plates page not found in two searches; dropped as unconfirmed.",
+  "search_url": "https://www.google.com/search?q=site%3Auqgoptics.com%20float%20glass%20plates%20FGP"
  },
  {
   "offer_id": "schott-ag-advanced-optics-online-shop-sf57htultra-optical-gl",
@@ -606,10 +781,15 @@
   "price": "on request (shop requires account login)",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.schott.com/shop/advanced-optics/en/Optical-Glass/SF57HTULTRA/c/glass-SF57HTULTRA",
+  "url": "https://www.schott.com/",
   "services": "Customized shapes incl. polished parts on request",
   "notes": "SF57HTultra nd = 1.84666, glass code 847238.551 (lead oxide essential). N-SF57HTultra (https://www.schott.com/shop/advanced-optics/en/Optical-Glass/N-SF57HTULTRA/c/glass-N-SF57HTULTRA) is lead-free, not a lead silicate. Re-check price/stock before ordering.",
-  "notes_full": "SF57HTultra nd = 1.84666, glass code 847238.551 (lead oxide essential). N-SF57HTultra (https://www.schott.com/shop/advanced-optics/en/Optical-Glass/N-SF57HTULTRA/c/glass-N-SF57HTULTRA) is lead-free, not a lead silicate. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering."
+  "notes_full": "SF57HTultra nd = 1.84666, glass code 847238.551 (lead oxide essential). N-SF57HTultra (https://www.schott.com/shop/advanced-optics/en/Optical-Glass/N-SF57HTULTRA/c/glass-N-SF57HTULTRA) is lead-free, not a lead silicate. Verified from web-search index snapshot on 2026-10-24; live page fetch was blocked in this session, so the cached page may be older than the date seen. Re-check price/stock before ordering.",
+  "homepage": "https://www.schott.com/",
+  "product_url": null,
+  "datasheet_url": null,
+  "link_note": "Lead-containing SF57HTULTRA shop page not confirmed; only lead-free N-SF57HTULTRA page found (https://www.schott.com/shop/advanced-optics/en/Optical-Glass/N-SF57HTULTRA/c/glass-N-SF57HTULTRA), a different glass.",
+  "search_url": "https://www.google.com/search?q=site%3Aschott.com%20SF57HTultra%20optical%20glass"
  },
  {
   "offer_id": "schott-ag-laser-glasses-and-components-nd-doped-phosphate-la",
@@ -623,10 +803,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.schott.com/products/laser-glasses-and-components/technical-details",
+  "url": "https://www.schott.com/en-gb/products/laser-glasses-and-components-p1000262/technical-details",
   "services": null,
   "notes": "SCHOTT states all three phosphate glasses have a high laser cross-section, low nonlinear index and are available free of metallic platinum particles. LG-680 on the same page is a SILICATE laser glass (high-repetition-rate systems), so it is not an nd-phosphate match. Production site of the laser glass not stated in the results. Re-check before ordering.",
-  "notes_full": "SCHOTT states all three phosphate glasses have a high laser cross-section, low nonlinear index and are available free of metallic platinum particles. LG-680 on the same page is a SILICATE laser glass (high-repetition-rate systems), so it is not an nd-phosphate match. Production site of the laser glass not stated in the results. A search summary also named SCHOTT BLG 80 (Nd:Yb co-doped phosphate, 'cost-effective alternative to Ti:sapphire'), but its source page was not identified - treat as a lead. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "SCHOTT states all three phosphate glasses have a high laser cross-section, low nonlinear index and are available free of metallic platinum particles. LG-680 on the same page is a SILICATE laser glass (high-repetition-rate systems), so it is not an nd-phosphate match. Production site of the laser glass not stated in the results. A search summary also named SCHOTT BLG 80 (Nd:Yb co-doped phosphate, 'cost-effective alternative to Ti:sapphire'), but its source page was not identified - treat as a lead. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.schott.com/",
+  "product_url": "https://www.schott.com/en-gb/products/laser-glasses-and-components-p1000262/technical-details",
+  "datasheet_url": "https://www.schott.com/en-gr/products/laser-materials-and-components/-/media/project/onex/products/l/laser-materials-and-components/downloads/08-schott-lg-750-phosphate-laser-glass-may-2013-eng.pdf?rev=be1a28fd04c244509b5e73a789f76b4a",
+  "link_note": "Stored path without product id not confirmed; replaced with confirmed technical-details page (p1000262). Datasheet is LG-750 (2013); LG-760/770 sheets on the downloads page.",
+  "search_url": "https://www.google.com/search?q=site%3Aschott.com%20LG-770%20laser%20glass"
  },
  {
   "offer_id": "schott-ag-laser-glasses-and-components-er-yb-doped-phosphate",
@@ -640,10 +825,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.schott.com/en-pl/products/laser-materials-and-components/product-variants",
+  "url": "https://www.schott.com/en-us/products/laser-glasses-and-components-p1000262/product-variants",
   "services": null,
   "notes": "LG-9xx are bulk laser glasses for rods/slabs; suitability for fs writing not known. Re-check before ordering.",
-  "notes_full": "IOG-1 / IOG-10 (ion-exchangeable Er/Yb phosphate used in many waveguide papers) were not mentioned in the search excerpts of the SCHOTT product-variants page, and no source on their current availability or discontinuation was found: ask SCHOTT. LG-9xx are bulk laser glasses for rods/slabs; suitability for fs writing not known. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "IOG-1 / IOG-10 (ion-exchangeable Er/Yb phosphate used in many waveguide papers) were not mentioned in the search excerpts of the SCHOTT product-variants page, and no source on their current availability or discontinuation was found: ask SCHOTT. LG-9xx are bulk laser glasses for rods/slabs; suitability for fs writing not known. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.schott.com/",
+  "product_url": "https://www.schott.com/en-us/products/laser-glasses-and-components-p1000262/product-variants",
+  "datasheet_url": null,
+  "link_note": "Stored en-pl laser-materials-and-components path not confirmed; replaced with confirmed product-variants page. Downloads: https://www.schott.com/en-us/products/laser-glasses-and-components-p1000262/downloads",
+  "search_url": "https://www.google.com/search?q=site%3Aschott.com%20LG-960%20Er%20Yb%20laser%20glass"
  },
  {
   "offer_id": "l3harris-kigre-inc-formerly-kigre-inc-now-part-of-l3harris-q",
@@ -657,10 +847,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.l3harris.com/all-capabilities/laser-transmitters-laser-glass",
+  "url": "https://www.l3harris.com/all-capabilities/laser-glass",
   "services": null,
   "notes": "L3Harris page lists QX/Nd, QX/Er and QX/Yb as glasses built to withstand high thermal loading and thermal shock, with chemical durability comparable to silicate glasses. Name change Kigre, Inc. -> L3 Kigre, Inc. -> L3Harris Kigre, Inc. Older Kigre sheet: https://kigre.com/pdfs/library/tb8.pdf . A Southampton paper gives QX/Yb CTE about 8.3e-6 /K and up to ~3x fracture strength after ion exchange (https://eprints.soton.ac.uk/77988/1/1385.pdf). Ordering conditions for a German university (defence-company seller) not known - ask. Re-check before ordering.",
-  "notes_full": "L3Harris page lists QX/Nd, QX/Er and QX/Yb as glasses built to withstand high thermal loading and thermal shock, with chemical durability comparable to silicate glasses. Name change Kigre, Inc. -> L3 Kigre, Inc. -> L3Harris Kigre, Inc. per a patent assignment record seen in results (date/terms not found). Older Kigre sheet: https://kigre.com/pdfs/library/tb8.pdf . A Southampton paper gives QX/Yb CTE about 8.3e-6 /K and up to ~3x fracture strength after ion exchange (https://eprints.soton.ac.uk/77988/1/1385.pdf). Ordering conditions for a German university (defence-company seller) not known - ask. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "L3Harris page lists QX/Nd, QX/Er and QX/Yb as glasses built to withstand high thermal loading and thermal shock, with chemical durability comparable to silicate glasses. Name change Kigre, Inc. -> L3 Kigre, Inc. -> L3Harris Kigre, Inc. per a patent assignment record seen in results (date/terms not found). Older Kigre sheet: https://kigre.com/pdfs/library/tb8.pdf . A Southampton paper gives QX/Yb CTE about 8.3e-6 /K and up to ~3x fracture strength after ion exchange (https://eprints.soton.ac.uk/77988/1/1385.pdf). Ordering conditions for a German university (defence-company seller) not known - ask. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.l3harris.com/",
+  "product_url": "https://www.l3harris.com/all-capabilities/laser-glass",
+  "datasheet_url": null,
+  "link_note": "Stored laser-transmitters-laser-glass path not confirmed; confirmed page 'Laser Transmitters & Laser Glass' is at /all-capabilities/laser-glass (lists QX/Nd, QX/Er, QX/Yb).",
+  "search_url": "https://www.google.com/search?q=site%3Al3harris.com%20QX%20phosphate%20laser%20glass"
  },
  {
   "offer_id": "4lasers-er-yb-phosphate-glass-listed-in-stock-laser-waveleng",
@@ -677,7 +872,12 @@
   "url": "https://4lasers.com/en/components/crystals/laser-crystals/er-yb-co-doped-crystals/er-yb-phosphate-glass",
   "services": "Custom crystals/glass on request",
   "notes": "Stock pieces are small laser elements; a polished block large enough for waveguide writing would be a custom order. Glass maker and company location not shown in the results. Re-check before ordering.",
-  "notes_full": "Stock pieces are small laser elements; a polished block large enough for waveguide writing would be a custom order. Glass maker and company location not shown in the results. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "Stock pieces are small laser elements; a polished block large enough for waveguide writing would be a custom order. Glass maker and company location not shown in the results. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://4lasers.com/en",
+  "product_url": "https://4lasers.com/en/components/crystals/laser-crystals/er-yb-co-doped-crystals/er-yb-phosphate-glass",
+  "datasheet_url": null,
+  "link_note": "Stored URL confirmed.",
+  "search_url": "https://www.google.com/search?q=site%3A4lasers.com%20Er%20Yb%20phosphate%20glass"
  },
  {
   "offer_id": "crylink-via-findlight-marketplace-er3-yb3-phosphate-glass-er",
@@ -691,10 +891,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.findlight.net/optics/crystals/laser-crystals/er-glass-erybglass",
+  "url": "https://www.crylink.com/product/er-yb-glass/",
   "services": null,
   "notes": "Datasheet: https://www.findlight.net/uploads/products/datasheet/Er-Glass-ErYbGlass.pdf . Other FindLight Er:Yb phosphate listings ship from China (https://www.findlight.net/optics/crystals/laser-crystals/er3-yb3-phosphate-glass-erglass-for-1535nm-dpss-laser-transmitters-and-waveguide-amplifiers); EAT14 is also offered by Stanford Advanced Materials (OP8206, density 3.06 g/cm3, price on inquiry: https://www.samaterials.com/item/op8206-er-ybphosphate-glass-eat14.html). Re-check before ordering.",
-  "notes_full": "Datasheet: https://www.findlight.net/uploads/products/datasheet/Er-Glass-ErYbGlass.pdf . Other FindLight Er:Yb phosphate listings ship from China (https://www.findlight.net/optics/crystals/laser-crystals/er3-yb3-phosphate-glass-erglass-for-1535nm-dpss-laser-transmitters-and-waveguide-amplifiers); seller of those not confirmed. EAT14 is also offered by Stanford Advanced Materials (OP8206, density 3.06 g/cm3, price on inquiry: https://www.samaterials.com/item/op8206-er-ybphosphate-glass-eat14.html). URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "Datasheet: https://www.findlight.net/uploads/products/datasheet/Er-Glass-ErYbGlass.pdf . Other FindLight Er:Yb phosphate listings ship from China (https://www.findlight.net/optics/crystals/laser-crystals/er3-yb3-phosphate-glass-erglass-for-1535nm-dpss-laser-transmitters-and-waveguide-amplifiers); seller of those not confirmed. EAT14 is also offered by Stanford Advanced Materials (OP8206, density 3.06 g/cm3, price on inquiry: https://www.samaterials.com/item/op8206-er-ybphosphate-glass-eat14.html). URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.crylink.com/",
+  "product_url": "https://www.crylink.com/product/er-yb-glass/",
+  "datasheet_url": null,
+  "link_note": "Replaced FindLight marketplace listing with Crylink's own Er,Yb:Glass page (EAT14, WM4). Crylink shop: https://shop.crylink.com/products/er-yb-glass",
+  "search_url": "https://www.google.com/search?q=site%3Acrylink.com%20Er%20Yb%20glass%20EAT14"
  },
  {
   "offer_id": "nanjing-metalaser-photonics-co-ltd-via-findlight-marketplace",
@@ -708,10 +913,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://findlight.net/optics/crystals/scintillation-crystals/n31-nd-doped-phosphate-glass",
+  "url": "https://www.meta-laser.com/",
   "services": "Custom doping accepted",
   "notes": "N31 is the Shanghai Institute of Optics and Fine Mechanics large-aperture Nd phosphate glass (emission cross-section 3.8e-20 cm2 at 1053 nm per SIOM paper: https://www.researching.cn/ArticlePdf/m00068/2014/2/1/05-S2095471914000048a-04.pdf). Re-check before ordering.",
-  "notes_full": "N31 is the Shanghai Institute of Optics and Fine Mechanics large-aperture Nd phosphate glass (emission cross-section 3.8e-20 cm2 at 1053 nm per SIOM paper: https://www.researching.cn/ArticlePdf/m00068/2014/2/1/05-S2095471914000048a-04.pdf). URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "N31 is the Shanghai Institute of Optics and Fine Mechanics large-aperture Nd phosphate glass (emission cross-section 3.8e-20 cm2 at 1053 nm per SIOM paper: https://www.researching.cn/ArticlePdf/m00068/2014/2/1/05-S2095471914000048a-04.pdf). URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.meta-laser.com/",
+  "product_url": null,
+  "datasheet_url": null,
+  "link_note": "Dropped FindLight listing; maker's site is meta-laser.com (MetaLaser / Nanjing Metalaser, SIOM spin-off; same company per results, not fully certain). No N31 page found there.",
+  "search_url": "https://www.google.com/search?q=site%3Ameta-laser.com%20N31%20Nd%20phosphate%20glass"
  },
  {
   "offer_id": "le-verre-fluor-lvf-bulk-fluoride-glasses-catalogue-section-a",
@@ -725,10 +935,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://leverrefluore.com/wp-content/uploads/2021/03/CatalogLVF-2021.pdf",
+  "url": "https://leverrefluore.com/products/bulk-fluoride-glasses/",
   "services": "Custom fibres; very large library of ZBLAN compositions (per Wikipedia), so custom bulk compositions likely - ask",
   "notes": "RP Photonics supplier profile says LVF sells doped bulks and bulk fluoride glasses (https://rp-photonics.com/bg/profiles/le_verre_fluore.html). Company founded 1977 as a spin-off of Rennes University fluoride-glass work. ZBLAN is hygroscopic: ask about polishing and dry storage. Also the best lead for the 'modified-fluorozirconate' entry (custom compositions). Re-check before ordering.",
-  "notes_full": "RP Photonics supplier profile says LVF sells doped bulks and bulk fluoride glasses (https://rp-photonics.com/bg/profiles/le_verre_fluore.html). Company founded 1977 as a spin-off of Rennes University fluoride-glass work. ZBLAN is hygroscopic: ask about polishing and dry storage. Also the best lead for the 'modified-fluorozirconate' entry (custom compositions). URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "RP Photonics supplier profile says LVF sells doped bulks and bulk fluoride glasses (https://rp-photonics.com/bg/profiles/le_verre_fluore.html). Company founded 1977 as a spin-off of Rennes University fluoride-glass work. ZBLAN is hygroscopic: ask about polishing and dry storage. Also the best lead for the 'modified-fluorozirconate' entry (custom compositions). URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://leverrefluore.com/",
+  "product_url": "https://leverrefluore.com/products/bulk-fluoride-glasses/",
+  "datasheet_url": "https://leverrefluore.com/wp-content/uploads/2024/01/2024-01-16_CatalogLVF.pdf",
+  "link_note": "Replaced 2021 catalogue PDF with LVF's bulk fluoride glasses page; newer 2024 catalogue as datasheet.",
+  "search_url": "https://www.google.com/search?q=site%3Aleverrefluore.com%20bulk%20fluoride%20glasses"
  },
  {
   "offer_id": "optofab-node-anff-university-of-adelaide-undoped-or-rare-ear",
@@ -742,10 +957,15 @@
   "price": "on request (contact named on the flyer)",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.adelaide.edu.au/optofab/ua/media/177/zblan-glass-flyer.pdf",
+  "url": "https://adelaide.edu.au/research/optofab-adelaide/our-capabilities/",
   "services": "Custom shapes and doping",
   "notes": "Research-facility service, not a catalogue product; flyer is undated, so confirm it is still offered. Re-check before ordering.",
-  "notes_full": "Research-facility service, not a catalogue product; flyer is undated, so confirm it is still offered. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "Research-facility service, not a catalogue product; flyer is undated, so confirm it is still offered. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://adelaide.edu.au/research/optofab-adelaide/",
+  "product_url": "https://adelaide.edu.au/research/optofab-adelaide/our-capabilities/",
+  "datasheet_url": "https://www.adelaide.edu.au/ipas/ua/media/747/ZBLAN%20glass%20fabrication_Optofa%20Adelaide_Aug%202020_0.pdf",
+  "link_note": "Stored optofab/ua/media/177 flyer not confirmed; replaced with confirmed Optofab Adelaide ZBLAN fact sheet (Aug 2020) and capabilities page.",
+  "search_url": "https://www.google.com/search?q=site%3Aadelaide.edu.au%20Optofab%20ZBLAN%20glass"
  },
  {
   "offer_id": "chg-southampton-ltd-novel-family-of-glasses-sold-as-bulk-gla",
@@ -759,10 +979,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.setsquared.co.uk/company/chg-southampton-ltd",
+  "url": "https://www.google.com/search?q=ChG%20Southampton%20chalcogenide%20glass%20ChG%20Southampton%20Ltd",
   "services": null,
   "notes": "The only company page seen (SETsquared incubator profile) does NOT name GLS; the company's own site did not appear in results. Confirm that they sell gallium lanthanum sulphide bulk glass and in what sizes. Re-check before ordering.",
-  "notes_full": "The only company page seen (SETsquared incubator profile) does NOT name GLS; the company's own site did not appear in results. Confirm that they sell gallium lanthanum sulphide bulk glass and in what sizes. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "The only company page seen (SETsquared incubator profile) does NOT name GLS; the company's own site did not appear in results. Confirm that they sell gallium lanthanum sulphide bulk glass and in what sizes. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": null,
+  "product_url": null,
+  "datasheet_url": null,
+  "link_note": "Dropped setsquared.co.uk profile. No own-domain result; chgsouthampton.com is cited only in an old ORC exhibition document and returned nothing, so the company may be inactive.",
+  "search_url": "https://www.google.com/search?q=ChG%20Southampton%20chalcogenide%20glass%20ChG%20Southampton%20Ltd"
  },
  {
   "offer_id": "schott-ag-advanced-optics-ir-materials-irg-22-ge33as12se55-i",
@@ -776,10 +1001,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.schott.com/en-au/products/ir-materials/technical-details",
+  "url": "https://www.schott.com/en-gb/products/infrared-glasses-and-materials-p1000261/technical-details",
   "services": "Polished blanks, moulded/finished parts on request",
   "notes": "IRG 27 transmits from about 0.65 um to >10 um with very small dn/dT (SPIE 10100 paper). IRG 26 is As-Se, IRG 25 is Ge-Sb-Se. Production site not stated in results. Edmund Optics (distributor) warns IRG 27 is toxic and absorbed through skin: gloves required; all IRG glasses are soft and need low humidity. Re-check before ordering.",
-  "notes_full": "IRG 27 transmits from about 0.65 um to >10 um with very small dn/dT (SPIE 10100 paper). IRG 26 is As-Se, IRG 25 is Ge-Sb-Se. Production site not stated in results. Edmund Optics (distributor) warns IRG 27 is toxic and absorbed through skin: gloves required; all IRG glasses are soft and need low humidity. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "IRG 27 transmits from about 0.65 um to >10 um with very small dn/dT (SPIE 10100 paper). IRG 26 is As-Se, IRG 25 is Ge-Sb-Se. Production site not stated in results. Edmund Optics (distributor) warns IRG 27 is toxic and absorbed through skin: gloves required; all IRG glasses are soft and need low humidity. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.schott.com/",
+  "product_url": "https://www.schott.com/en-gb/products/infrared-glasses-and-materials-p1000261/technical-details",
+  "datasheet_url": null,
+  "link_note": "Stored en-au/products/ir-materials path not confirmed; replaced with confirmed infrared glasses technical-details page. Downloads: https://www.schott.com/en-gb/products/infrared-glasses-and-materials-p1000261/downloads",
+  "search_url": "https://www.google.com/search?q=site%3Aschott.com%20IRG%20chalcogenide%20glass"
  },
  {
   "offer_id": "edmund-optics-gmbh-european-shop-uncoated-chalcogenide-glass",
@@ -793,10 +1023,15 @@
   "price": "IRG 27 (As2S3) window 25.4 x 3 mm: EUR 275.00 each (qty 1-10), EUR 220.00 (11+) on edmundoptics.de, 'Neu 3-4 Tage' (VAT status not shown in snippet). Same item: USD 371.00 (US site), GBP 296.80 excl. VAT (UK site)",
   "price_url": "https://edmundoptics.de/p/chalcogenide-glass-window-irg27-254mm-dia-3mm-thick/54862",
   "date_seen": "2026-10-24",
-  "url": "https://edmundoptics.de/f/schott-chalcogenide-window-substrates/40186",
+  "url": "https://www.edmundoptics.eu/c/schott/1311/",
   "services": null,
   "notes": "Stock number reported as #72-864 for the IRG 27 window. Prices for IRG 22/24/25/26 windows not captured (IRG 22: https://www.edmundoptics.com/p/chalcogenide-glass-window-irg22-254mm-dia-3mm-thick/54858/). Also seen: AMTIR-1 (Ge33As12Se55) window 25.4 x 3 mm made by ISP Optics, GBP 290.23 each excl. VAT (shown as discounted from GBP 580.46) at https://www.edmundoptics.co.uk/p/254mm-dia-3mm-thick-uncoated-amtir-1-window/44664 . 3 mm windows are thin but usable for short test waveguides; Re-check before ordering.",
-  "notes_full": "Stock number reported as #72-864 for the IRG 27 window. Prices for IRG 22/24/25/26 windows not captured (IRG 22: https://www.edmundoptics.com/p/chalcogenide-glass-window-irg22-254mm-dia-3mm-thick/54858/). Also seen: AMTIR-1 (Ge33As12Se55) window 25.4 x 3 mm made by ISP Optics, GBP 290.23 each excl. VAT (shown as discounted from GBP 580.46) at https://www.edmundoptics.co.uk/p/254mm-dia-3mm-thick-uncoated-amtir-1-window/44664 . 3 mm windows are thin but usable for short test waveguides; edge polish for end-fire coupling not confirmed. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "Stock number reported as #72-864 for the IRG 27 window. Prices for IRG 22/24/25/26 windows not captured (IRG 22: https://www.edmundoptics.com/p/chalcogenide-glass-window-irg22-254mm-dia-3mm-thick/54858/). Also seen: AMTIR-1 (Ge33As12Se55) window 25.4 x 3 mm made by ISP Optics, GBP 290.23 each excl. VAT (shown as discounted from GBP 580.46) at https://www.edmundoptics.co.uk/p/254mm-dia-3mm-thick-uncoated-amtir-1-window/44664 . 3 mm windows are thin but usable for short test waveguides; edge polish for end-fire coupling not confirmed. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.edmundoptics.de/",
+  "product_url": "https://www.edmundoptics.eu/c/schott/1311/",
+  "datasheet_url": null,
+  "link_note": "Family page /f/schott-chalcogenide-window-substrates/40186 not confirmed; replaced with confirmed SCHOTT category on edmundoptics.eu. Price URL kept: same /p/.../54862 path confirmed on edmundoptics.com.",
+  "search_url": "https://www.google.com/search?q=site%3Aedmundoptics.de%20chalcogenide%20glass%20window%20IRG"
  },
  {
   "offer_id": "vitron-spezialwerkstoffe-gmbh-solcera-group-since-oct-2023-c",
@@ -810,10 +1045,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://refractiveindex.info/download/data/2014/VITRON%20IG-3%20Datenblatt%20Juni%202014.pdf",
+  "url": "https://www.vitron.de/en/ir-glasses/specifications",
   "services": null,
   "notes": "IG-3 is Ge30As13Se32Te25 (contains Te), 2-12 um. LightPath lists IG5 as equivalent to Ge28Sb12Se60, and Umicore lists IG6 as equivalent to GASIR 5 / IRG 26 (As-Se); Company directory: https://www.laserfocusworld.com/directory/company/14046964/vitron-spezialwerkstoffe-gmbh . Vitron's own website did not appear in results. Datasheet is from 2014. Re-check before ordering.",
-  "notes_full": "IG-3 is Ge30As13Se32Te25 (contains Te), 2-12 um. LightPath lists IG5 as equivalent to Ge28Sb12Se60, and Umicore lists IG6 as equivalent to GASIR 5 / IRG 26 (As-Se); compositions of the other IG grades not confirmed. Company directory: https://www.laserfocusworld.com/directory/company/14046964/vitron-spezialwerkstoffe-gmbh . Vitron's own website did not appear in results. Datasheet is from 2014. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "IG-3 is Ge30As13Se32Te25 (contains Te), 2-12 um. LightPath lists IG5 as equivalent to Ge28Sb12Se60, and Umicore lists IG6 as equivalent to GASIR 5 / IRG 26 (As-Se); compositions of the other IG grades not confirmed. Company directory: https://www.laserfocusworld.com/directory/company/14046964/vitron-spezialwerkstoffe-gmbh . Vitron's own website did not appear in results. Datasheet is from 2014. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.vitron.de/en/",
+  "product_url": "https://www.vitron.de/en/ir-glasses/specifications",
+  "datasheet_url": null,
+  "link_note": "Dropped refractiveindex.info PDF (third party); replaced with VITRON's own IR glass specifications page (IG-3 data).",
+  "search_url": "https://www.google.com/search?q=site%3Avitron.de%20IG%20chalcogenide%20glass"
  },
  {
   "offer_id": "umicore-electro-optic-materials-gasir-1-and-gasir-5-chalcoge",
@@ -827,10 +1067,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.umicore.com/en/markets-products/optics/infrared-optics/gasir/",
+  "url": "https://www.umicore.com/en/markets-products/optics/infrared-optics/",
   "services": "Custom thermal-imaging lenses (moulding)",
   "notes": "GASIR 1: density 4.40 g/cm3, Tg 292 C (old datasheet https://eom.umicore.com/storage/eom/gasir1-for-infrared-optics-old.pdf). GASIR 5: density 4.62 g/cm3, Tg 180 C, n ~2.777 near 10 um, stated equivalent to IG6 / IRG 26 (As-Se, no Ge). Exact compositions not stated in results (an article gives about 20% Ge for GASIR). Moulding plant in Quapaw, OK (US) per photonics.com. Re-check before ordering.",
-  "notes_full": "GASIR 1: density 4.40 g/cm3, Tg 292 C (old datasheet https://eom.umicore.com/storage/eom/gasir1-for-infrared-optics-old.pdf). GASIR 5: density 4.62 g/cm3, Tg 180 C, n ~2.777 near 10 um, stated equivalent to IG6 / IRG 26 (As-Se, no Ge). Exact compositions not stated in results (an article gives about 20% Ge for GASIR). Moulding plant in Quapaw, OK (US) per photonics.com. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "GASIR 1: density 4.40 g/cm3, Tg 292 C (old datasheet https://eom.umicore.com/storage/eom/gasir1-for-infrared-optics-old.pdf). GASIR 5: density 4.62 g/cm3, Tg 180 C, n ~2.777 near 10 um, stated equivalent to IG6 / IRG 26 (As-Se, no Ge). Exact compositions not stated in results (an article gives about 20% Ge for GASIR). Moulding plant in Quapaw, OK (US) per photonics.com. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.umicore.com/en/",
+  "product_url": "https://www.umicore.com/en/markets-products/optics/infrared-optics/",
+  "datasheet_url": null,
+  "link_note": "Stored /infrared-optics/gasir/ subpage not confirmed; replaced with confirmed infrared optics page. Only '-old' GASIR PDFs found, not used.",
+  "search_url": "https://www.google.com/search?q=site%3Aumicore.com%20GASIR%20chalcogenide%20glass"
  },
  {
   "offer_id": "amorphous-materials-inc-amtir-1-ge33as12se55-amtir-2-amtir-3",
@@ -844,10 +1089,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://photonics.com/Buyers-Guide/Amorphous-Materials-Inc/ch10/c767",
+  "url": "https://www.amorphousmaterials.com/products/",
   "services": null,
   "notes": "Compositions from a 1998 SPIE paper (https://journals.spiedigitallibrary.org/conference-proceedings-of-spie/3436/0000/Applications-of-infrared-transmitting-chalcogenide-glasses/10.1117/12.328085.full). AMTIR-1 0.75-14 um (Knight Optical page https://knightoptical.com/custom/infrared-optics/amtir). Company website not seen; no manufacturer price found. Re-check before ordering.",
-  "notes_full": "Compositions from a 1998 SPIE paper (https://journals.spiedigitallibrary.org/conference-proceedings-of-spie/3436/0000/Applications-of-infrared-transmitting-chalcogenide-glasses/10.1117/12.328085.full). AMTIR-1 0.75-14 um (Knight Optical page https://knightoptical.com/custom/infrared-optics/amtir). Company website not seen; no manufacturer price found. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "Compositions from a 1998 SPIE paper (https://journals.spiedigitallibrary.org/conference-proceedings-of-spie/3436/0000/Applications-of-infrared-transmitting-chalcogenide-glasses/10.1117/12.328085.full). AMTIR-1 0.75-14 um (Knight Optical page https://knightoptical.com/custom/infrared-optics/amtir). Company website not seen; no manufacturer price found. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.amorphousmaterials.com/",
+  "product_url": "https://www.amorphousmaterials.com/products/",
+  "datasheet_url": "https://www.amorphousmaterials.com/app/download/6552854504/AMTIR-1+Datasheet+CES.pdf",
+  "link_note": "Dropped photonics.com buyers-guide profile; replaced with company products page and AMTIR-1 datasheet. Products page does not list AMTIR-3.",
+  "search_url": "https://www.google.com/search?q=site%3Aamorphousmaterials.com%20AMTIR%20chalcogenide%20glass"
  },
  {
   "offer_id": "lightpath-technologies-inc-bd-2-ge28sb12se60-equivalent-amti",
@@ -861,10 +1111,15 @@
   "price": "on request (sales contact on datasheet)",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://lightpath.com/wp-content/uploads/2024/07/BD-2.pdf",
+  "url": "https://www.lightpath.com/blackdiamond-infrared-chalcogenide-glass",
   "services": "Precision glass moulding, diamond turning",
   "notes": "BD-6 page: https://www.lightpath.com/products/bd6-infrared-chalcogenide-glass/ (As-Se, no Ge, 'Made in the USA'). BD-2 is one of the glasses licensed exclusively from the US Naval Research Laboratory (Nov 2021); Re-check before ordering.",
-  "notes_full": "BD-6 page: https://www.lightpath.com/products/bd6-infrared-chalcogenide-glass/ (As-Se, no Ge, 'Made in the USA'). BD-2 is one of the glasses licensed exclusively from the US Naval Research Laboratory (Nov 2021); whether BD-2 is in full production was not confirmed. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "BD-6 page: https://www.lightpath.com/products/bd6-infrared-chalcogenide-glass/ (As-Se, no Ge, 'Made in the USA'). BD-2 is one of the glasses licensed exclusively from the US Naval Research Laboratory (Nov 2021); whether BD-2 is in full production was not confirmed. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.lightpath.com/",
+  "product_url": "https://www.lightpath.com/blackdiamond-infrared-chalcogenide-glass",
+  "datasheet_url": null,
+  "link_note": "Stored wp-content BD-2.pdf not confirmed (site now on new platform); replaced with BlackDiamond glass page. Resource library: https://www.lightpath.com/blackdiamond-resource-library-lp",
+  "search_url": "https://www.google.com/search?q=site%3Alightpath.com%20BlackDiamond%20BD2%20BD6"
  },
  {
   "offer_id": "schott-ag-advanced-optics-online-shop-n-sf8-optical-glass-ra",
@@ -878,10 +1133,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.schott.com/shop/advanced-optics/en/Optical-Glass/c/optical-materials",
+  "url": "https://us.shop.schott.com/advanced-optics/en/Optical-Glass/N-SF8/c/glass-N-SF8",
   "services": "Cut blanks, pressings, finished components via SCHOTT sales (info.optics@schott.com)",
   "notes": "N-SF8 and N-SF57 are on SCHOTT's Positive List (status January 2025); SCHOTT says listed N-/P-glasses stay available for at least the next five years. A dedicated N-SF8 shop page did not appear in results. SCHOTT sends small orders to its distributor Hellma Materials (separate row). Edmund Optics also lists N-SF8 (glass code 689311) among glasses it uses (2023 document). Re-check before ordering.",
-  "notes_full": "N-SF8 and N-SF57 are on SCHOTT's Positive List (status January 2025); SCHOTT says listed N-/P-glasses stay available for at least the next five years. A dedicated N-SF8 shop page did not appear in results. SCHOTT sends small orders to its distributor Hellma Materials (separate row). Edmund Optics also lists N-SF8 (glass code 689311) among glasses it uses (2023 document). URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "N-SF8 and N-SF57 are on SCHOTT's Positive List (status January 2025); SCHOTT says listed N-/P-glasses stay available for at least the next five years. A dedicated N-SF8 shop page did not appear in results. SCHOTT sends small orders to its distributor Hellma Materials (separate row). Edmund Optics also lists N-SF8 (glass code 689311) among glasses it uses (2023 document). URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.schott.com/",
+  "product_url": "https://us.shop.schott.com/advanced-optics/en/Optical-Glass/N-SF8/c/glass-N-SF8",
+  "datasheet_url": "https://media.schott.com/api/public/content/820eba3413cc4e788433a3751f8edba9?v=97b3ea2b&download=true",
+  "link_note": "Replaced generic optical-materials category with confirmed N-SF8 shop page; datasheet is SCHOTT optical glass datasheet collection.",
+  "search_url": "https://www.google.com/search?q=site%3Aschott.com%20N-SF8%20optical%20glass"
  },
  {
   "offer_id": "hellma-materials-gmbh-schott-optical-glass-distributor-schot",
@@ -895,10 +1155,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.schott.com/shop/advanced-optics/en/Optical-Glass/c/optical-materials",
+  "url": "https://www.hellma-materials.com/en/optical-materials/glass-for-optics-2/optical-glass-in-blocks-or-bars/",
   "services": null,
   "notes": "SCHOTT's shop says its distributor Hellma Materials GmbH 'offers flexible order sizes and fast delivery from their stock'. Hellma's own website did not appear in results. Re-check before ordering.",
-  "notes_full": "SCHOTT's shop says its distributor Hellma Materials GmbH 'offers flexible order sizes and fast delivery from their stock'. Whether Hellma stocks N-SF8, SF57HTultra (lead silicate) or N-SF57 (lead-free) was not confirmed. Hellma's own website did not appear in results. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "SCHOTT's shop says its distributor Hellma Materials GmbH 'offers flexible order sizes and fast delivery from their stock'. Whether Hellma stocks N-SF8, SF57HTultra (lead silicate) or N-SF57 (lead-free) was not confirmed. Hellma's own website did not appear in results. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.hellma-materials.com/en/",
+  "product_url": "https://www.hellma-materials.com/en/optical-materials/glass-for-optics-2/optical-glass-in-blocks-or-bars/",
+  "datasheet_url": null,
+  "link_note": "Replaced SCHOTT shop URL with distributor's own page (stock in Jena, no minimum order). Overview: https://www.hellma-materials.com/en/optical-materials/glass-for-optics-2/ ; SCHOTT N-SF57 shop page: https://shop.schott.com/advanced_optics/en/Optical-Glass/N-SF57/c/optical-glass/glass-N-SF57",
+  "search_url": "https://www.google.com/search?q=site%3Ahellma-materials.com%20SCHOTT%20optical%20glass%20blocks%20bars"
  },
  {
   "offer_id": "valley-design-corp-ultra-thin-sheet-glass-thinned-and-optica",
@@ -915,7 +1180,12 @@
   "url": "https://valleydesign.com/ultra-thin-sheet-glass/",
   "services": "Dicing, thinning, polishing to size",
   "notes": "Gorilla Glass generation (3, 5, Victus...) not stated on the snippet; ask which generation is supplied. Re-check before ordering.",
-  "notes_full": "Gorilla Glass generation (3, 5, Victus...) not stated on the snippet; ask which generation is supplied. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "Gorilla Glass generation (3, 5, Victus...) not stated on the snippet; ask which generation is supplied. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://valleydesign.com/",
+  "product_url": "https://valleydesign.com/ultra-thin-sheet-glass/",
+  "datasheet_url": "https://valleydesign.com/Datasheets/Corning-Gorilla-glass.pdf",
+  "link_note": "Current URL confirmed. Gorilla-specific page: https://valleydesign.com/gorilla-glass/",
+  "search_url": "https://www.google.com/search?q=site%3Avalleydesign.com%20ultra-thin%20Gorilla%20glass"
  },
  {
   "offer_id": "abrisa-technologies-corning-gorilla-glass-3-fabricated-and-c",
@@ -929,10 +1199,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.photonicsonline.com/doc/abrisa-technologies-fabricates-coats-corning-gorilla-glass-0001",
+  "url": "https://abrisatechnologies.com/glass-materials/corning-gorilla-glass/",
   "services": "Cutting, edging, coating",
   "notes": "Evidence is a 2020 press release; check current Gorilla generations and stock. Re-check before ordering.",
-  "notes_full": "Evidence is a 2020 press release; check current Gorilla generations and stock. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "Evidence is a 2020 press release; check current Gorilla generations and stock. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://abrisatechnologies.com/",
+  "product_url": "https://abrisatechnologies.com/glass-materials/corning-gorilla-glass/",
+  "datasheet_url": null,
+  "link_note": "Replaced photonicsonline.com news article with Abrisa's own Gorilla Glass page.",
+  "search_url": "https://www.google.com/search?q=site%3Aabrisatechnologies.com%20Corning%20Gorilla%20Glass"
  },
  {
   "offer_id": "universitywafer-inc-gorilla-glass-standard-item-100-mm-diame",
@@ -946,10 +1221,15 @@
   "price": "on request (no price seen)",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://universitywafer.com/gorilla-glass.html",
+  "url": "https://www.universitywafer.com/gorilla-glass.html",
   "services": "Custom sizes by quote",
   "notes": "Gorilla generation and whether the glass is supplied ion-exchanged (strengthened) or not: ask. Re-check before ordering.",
-  "notes_full": "Gorilla generation and whether the glass is supplied ion-exchanged (strengthened) or not: ask. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "Gorilla generation and whether the glass is supplied ion-exchanged (strengthened) or not: ask. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.universitywafer.com/",
+  "product_url": "https://www.universitywafer.com/gorilla-glass.html",
+  "datasheet_url": null,
+  "link_note": "Current URL confirmed (www host). Shop listing: https://order.universitywafer.com/default.aspx?cat=Gorilla+Glass",
+  "search_url": "https://www.google.com/search?q=site%3Auniversitywafer.com%20Gorilla%20Glass%20wafer"
  },
  {
   "offer_id": "edmund-optics-gmbh-european-shop-eagle-xg-uncoated-windows-r",
@@ -961,12 +1241,17 @@
   "product": "EAGLE XG uncoated windows, round and square, 0.70 mm thick",
   "formats": "Round 50, 75, 100 mm dia; square 50 x 50 and 100 x 100 mm; all 0.70 mm (+/- 0.07 mm)",
   "price": "75 mm dia x 0.70 mm: EUR 41.50 (qty 1-5), EUR 33.25 (6+); 100 mm dia: EUR 46.75 (tier not clear), as seen on edmundoptics.es (VAT status not shown). 50 mm dia x 0.70 mm (#18-294): USD 41.00 (1-5), USD 33.00 (6-25) on the US site",
-  "price_url": "https://edmundoptics.es/f/eagle-xgreg-windows/39778",
+  "price_url": null,
   "date_seen": "2026-10-24",
   "url": "https://www.edmundoptics.com/f/eagle-xgreg-windows/39778/",
   "services": null,
   "notes": "edmundoptics.de page for these windows did not appear in results; German EUR prices may differ from the .es listing. 0.70 mm is thin for DLW but matches the display-glass format. Re-check before ordering.",
-  "notes_full": "edmundoptics.de page for these windows did not appear in results; German EUR prices may differ from the .es listing. 0.70 mm is thin for DLW but matches the display-glass format. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "edmundoptics.de page for these windows did not appear in results; German EUR prices may differ from the .es listing. 0.70 mm is thin for DLW but matches the display-glass format. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.edmundoptics.com/",
+  "product_url": "https://www.edmundoptics.com/f/eagle-xgreg-windows/39778/",
+  "datasheet_url": null,
+  "link_note": "Product family page confirmed (shows prices). edmundoptics.es price URL not seen in any result, dropped; European shop domain not confirmed.",
+  "search_url": "https://www.google.com/search?q=site%3Aedmundoptics.com%20EAGLE%20XG%20window"
  },
  {
   "offer_id": "mti-corporation-mtixtl-com-corning-eagle-xg-wafers-item-code",
@@ -980,10 +1265,15 @@
   "price": "EAGLE XG 100 mm x 0.5 mm: USD 49.95 (another listing USD 57.44); 50.8 mm x 0.5 mm: USD 35.95; 150 mm x 1.1 mm: USD 75.95. Corning 7980 HPFS 1 x 1 inch x 0.5 mm, 2SP: USD 45.95 on one page, USD 29.84 on another",
   "price_url": "https://mtixtl.com/products/corningeagle100d05c2opt",
   "date_seen": "2026-10-24",
-  "url": "https://mtixtl.com/collections/glass-substrates?page=4",
+  "url": "https://mtixtl.com/collections/glass-substrates",
   "services": null,
   "notes": "Prices differ between regional pages of the same shop; confirm in cart. Other EAGLE XG pages: https://mtixtl.com/products/corningeagle150d11c2opt , https://mtixtl.com/products/corningeagle50d05c2opt . Re-check before ordering.",
-  "notes_full": "Prices differ between regional pages of the same shop; confirm in cart. Other EAGLE XG pages: https://mtixtl.com/products/corningeagle150d11c2opt , https://mtixtl.com/products/corningeagle50d05c2opt . URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "Prices differ between regional pages of the same shop; confirm in cart. Other EAGLE XG pages: https://mtixtl.com/products/corningeagle150d11c2opt , https://mtixtl.com/products/corningeagle50d05c2opt . URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://mtixtl.com/",
+  "product_url": "https://mtixtl.com/collections/glass-substrates",
+  "datasheet_url": null,
+  "link_note": "Dropped '?page=4' listing parameter. Price URL confirmed: 100 mm x 0.5 mm, 2 sides polished, 60/40. Corning 7980 substrate page not checked.",
+  "search_url": "https://www.google.com/search?q=site%3Amtixtl.com%20Corning%20EAGLE%20XG%20wafer"
  },
  {
   "offer_id": "schott-ag-af-32-eco-alkali-free-thin-glass-suited-to-large-f",
@@ -997,10 +1287,15 @@
   "price": "on request (quote via SCHOTT contact form)",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.schott.com/products/af-32-eco",
+  "url": "https://www.schott.com/en-us/products/af-32-eco-p1000308",
   "services": "Samples, project advice",
   "notes": "Downloads page has the material and thin-glass datasheets: https://www.schott.com/en-my/products/af-32-eco-p1000308/downloads . Max 0.5 mm per SCHOTT pages seen, so thicker blocks for DLW would need stacking/bonding or a special request. Re-check before ordering.",
-  "notes_full": "Downloads page has the material and thin-glass datasheets: https://www.schott.com/en-my/products/af-32-eco-p1000308/downloads . Max 0.5 mm per SCHOTT pages seen, so thicker blocks for DLW would need stacking/bonding or a special request. No public AF 32 eco price was found at any supplier in this pass. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering."
+  "notes_full": "Downloads page has the material and thin-glass datasheets: https://www.schott.com/en-my/products/af-32-eco-p1000308/downloads . Max 0.5 mm per SCHOTT pages seen, so thicker blocks for DLW would need stacking/bonding or a special request. No public AF 32 eco price was found at any supplier in this pass. URL seen in search results only (WebSearch summary, 2026-10-24); live page fetch was blocked in this session, so the page was not opened and may be older than the date seen. Re-check before ordering.",
+  "homepage": "https://www.schott.com/",
+  "product_url": "https://www.schott.com/en-us/products/af-32-eco-p1000308",
+  "datasheet_url": "https://media.schott.com/api/public/content/0f2d401b01a04fb588f3309bd03d5edf?v=c342ad71&download=true",
+  "link_note": "Old /products/af-32-eco path replaced with current product page; downloads: https://www.schott.com/en-us/products/af-32-eco-p1000308/downloads",
+  "search_url": "https://www.google.com/search?q=site%3Aschott.com%20AF%2032%20eco"
  },
  {
   "offer_id": "schott-ag-foturan-ii-photo-structurable-glass-ceramic-polish",
@@ -1014,10 +1309,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.schott.com/en-ae/products/foturan-2",
+  "url": "https://www.schott.com/en-us/products/foturan-2-p1000321",
   "services": "Customised thicknesses and specifications; structuring by UV lithography, heat treatment, etching, optional ceramization (process described by SCHOTT)",
   "notes": "Manufacturer. City Mainz is SCHOTT's headquarters (not shown in this result). Live page fetch blocked",
-  "notes_full": "Manufacturer. Datasheet PDF on the downloads page (https://www.schott.com/en-sk/products/foturan-2/downloads) not readable in this pass. City Mainz is SCHOTT's headquarters (not shown in this result). Live page fetch blocked; seen via web-search index."
+  "notes_full": "Manufacturer. Datasheet PDF on the downloads page (https://www.schott.com/en-sk/products/foturan-2/downloads) not readable in this pass. City Mainz is SCHOTT's headquarters (not shown in this result). Live page fetch blocked; seen via web-search index.",
+  "homepage": "https://www.schott.com/",
+  "product_url": "https://www.schott.com/en-us/products/foturan-2-p1000321",
+  "datasheet_url": "https://media.schott.com/api/public/content/4b3e859be30047d688f64a11aed326c6?v=167725e2&download=true",
+  "link_note": "Old /en-ae/products/foturan-2 path replaced with current product page.",
+  "search_url": "https://www.google.com/search?q=site%3Aschott.com%20FOTURAN%20II"
  },
  {
   "offer_id": "mgt-mikroglas-technik-ag-mikroglas-chemtech-mainz-micro-manu",
@@ -1031,10 +1331,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.cbinsights.com/compare/mgt-mikroglas-technik-ag-vs-plan-optik",
+  "url": "https://www.mikroglas.com/",
   "services": "Micro-structuring of glass / glass-ceramic (per aggregator profile)",
   "notes": "check the company site directly.",
-  "notes_full": "Unverified lead from a third-party aggregator (CB Insights) describing a Mainz company founded 2004 for micro-manufacturing glass and glass-ceramic products. Whether it sells or processes FOTURAN II was not confirmed; check the company site directly."
+  "notes_full": "Unverified lead from a third-party aggregator (CB Insights) describing a Mainz company founded 2004 for micro-manufacturing glass and glass-ceramic products. Whether it sells or processes FOTURAN II was not confirmed; check the company site directly.",
+  "homepage": "https://www.mikroglas.com/",
+  "product_url": null,
+  "datasheet_url": null,
+  "link_note": "Dropped cbinsights URL. No own-domain page found; mikroglas.com comes only from a 2001 MEMS mailing-list post. Company may now be Invenios (formerly mikroglas chemtech); status unconfirmed.",
+  "search_url": "https://www.google.com/search?q=site%3Amikroglas.com%20photostructurable%20glass"
  },
  {
   "offer_id": "schott-ag-zerodur-glass-ceramic-incl-zerodur-k20-variant",
@@ -1048,10 +1353,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.schott.com/products/zerodur/technical-details",
+  "url": "https://www.schott.com/en-us/products/zerodur-p1000269",
   "services": "not seen",
   "notes": "Manufacturer; technical-details page gives nd 1.5424, density 2.53 g/cm3, internal transmittance 0.95 @ 580 nm / 5 mm. live fetch blocked.",
-  "notes_full": "Manufacturer; technical-details page gives nd 1.5424, density 2.53 g/cm3, internal transmittance 0.95 @ 580 nm / 5 mm. Seen via web-search index; live fetch blocked."
+  "notes_full": "Manufacturer; technical-details page gives nd 1.5424, density 2.53 g/cm3, internal transmittance 0.95 @ 580 nm / 5 mm. Seen via web-search index; live fetch blocked.",
+  "homepage": "https://www.schott.com/",
+  "product_url": "https://www.schott.com/en-us/products/zerodur-p1000269",
+  "datasheet_url": "https://media.schott.com/api/public/content/3395a24104204531be2839378a783e3d?v=bca70f55&download=true",
+  "link_note": "Old /products/zerodur/technical-details path replaced. Variants (incl. K20): https://www.schott.com/en-gb/products/zerodur-p1000269/product-variants",
+  "search_url": "https://www.google.com/search?q=site%3Aschott.com%20ZERODUR%20K20"
  },
  {
   "offer_id": "pgo-gmbh-praezisions-glas-optik-corning-ule-7972-titania-sil",
@@ -1068,7 +1378,12 @@
   "url": "https://www.pgo-online.com/intl/ule.html",
   "services": "not seen",
   "notes": "Reseller page listing ULE properties (density 2.21 g/cm3). Country Germany from company knowledge, city not shown in the result. Formats/prices not seen; ask for polished 1-2 mm pieces.",
-  "notes_full": "Reseller page listing ULE properties (density 2.21 g/cm3). Country Germany from company knowledge, city not shown in the result. Formats/prices not seen; ask for polished 1-2 mm pieces."
+  "notes_full": "Reseller page listing ULE properties (density 2.21 g/cm3). Country Germany from company knowledge, city not shown in the result. Formats/prices not seen; ask for polished 1-2 mm pieces.",
+  "homepage": "https://www.pgo-online.com/",
+  "product_url": "https://www.pgo-online.com/intl/ule.html",
+  "datasheet_url": null,
+  "link_note": "Current URL confirmed.",
+  "search_url": "https://www.google.com/search?q=site%3Apgo-online.com%20ULE%207972"
  },
  {
   "offer_id": "corning-incorporated-ule-7972-ultra-low-expansion-glass",
@@ -1082,10 +1397,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.corning.com/media/worldwide/csm/documents/7972 ULE Product Information Jan 2016.pdf",
+  "url": "https://www.corning.com/worldwide/en/products/advanced-optics/product-materials/semiconductor-laser-optic-components/ultra-low-expansion-glass.html",
   "services": "not seen",
   "notes": "Manufacturer product information sheet (Jan 2016): nD 1.4828, CTE 0 +/- 30 ppb/C (5-35 C), density 2.21 g/cm3.",
-  "notes_full": "Manufacturer product information sheet (Jan 2016): nD 1.4828, CTE 0 +/- 30 ppb/C (5-35 C), density 2.21 g/cm3."
+  "notes_full": "Manufacturer product information sheet (Jan 2016): nD 1.4828, CTE 0 +/- 30 ppb/C (5-35 C), density 2.21 g/cm3.",
+  "homepage": "https://www.corning.com/",
+  "product_url": "https://www.corning.com/worldwide/en/products/advanced-optics/product-materials/semiconductor-laser-optic-components/ultra-low-expansion-glass.html",
+  "datasheet_url": "https://www.corning.com/media/worldwide/csm/documents/7972%20ULE%20Product%20Information%20Jan%202016.pdf",
+  "link_note": "Old URL was the datasheet PDF (spaces now encoded); added the product page.",
+  "search_url": "https://www.google.com/search?q=site%3Acorning.com%20ULE%207972%20glass"
  },
  {
   "offer_id": "moltech-gmbh-lithium-niobate-lnb-and-lithium-tantalate-lta-c",
@@ -1102,7 +1422,12 @@
   "url": "https://www.mt-berlin.com/frames_cryst/descriptions/lnb_lta.htm",
   "services": "not shown in results",
   "notes": "Page states both crystals transmit about 0.4-5 µm and that LiTaO₃ can suit EO modulators better (high optical damage threshold). Doping/cut options not shown; ask for MgO:LN, z-/x-cut and polishing for fs writing.",
-  "notes_full": "Page states both crystals transmit about 0.4-5 µm and that LiTaO₃ can suit EO modulators better (high optical damage threshold). Doping/cut options not shown; ask for MgO:LN, z-/x-cut and polishing for fs writing."
+  "notes_full": "Page states both crystals transmit about 0.4-5 µm and that LiTaO₃ can suit EO modulators better (high optical damage threshold). Doping/cut options not shown; ask for MgO:LN, z-/x-cut and polishing for fs writing.",
+  "homepage": "https://www.mt-berlin.com/",
+  "product_url": "https://www.mt-berlin.com/frames_cryst/descriptions/lnb_lta.htm",
+  "datasheet_url": null,
+  "link_note": "Current URL confirmed. Frame content page of an old frameset site, so it shows without navigation.",
+  "search_url": "https://www.google.com/search?q=site%3Amt-berlin.com%20LiNbO3%20LiTaO3"
  },
  {
   "offer_id": "surfacenet-gmbh-linbo-crystals-substrates-wafers-and-targets",
@@ -1116,10 +1441,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://surfacenet.de/lithium-niobate-221.html",
+  "url": "https://surfacenet.de/crystal_products.html?crystal=116",
   "services": "not shown in results",
   "notes": "Data page: density 4.65 g/cm³, mp 1257 °C, R3c. Contact sales@surfacenet.de, +49 5971 4010179.",
-  "notes_full": "Data page: density 4.65 g/cm³, mp 1257 °C, R3c. Contact sales@surfacenet.de, +49 5971 4010179 (from search result)."
+  "notes_full": "Data page: density 4.65 g/cm³, mp 1257 °C, R3c. Contact sales@surfacenet.de, +49 5971 4010179 (from search result).",
+  "homepage": "https://surfacenet.de/",
+  "product_url": "https://surfacenet.de/crystal_products.html?crystal=116",
+  "datasheet_url": null,
+  "link_note": "lithium-niobate-221.html not seen in any result; replaced with confirmed product page. Data page: https://surfacenet.de/files/kristall_daten.php?crystal=116",
+  "search_url": "https://www.google.com/search?q=site%3Asurfacenet.de%20Lithium%20Niobate%20LiNbO3"
  },
  {
   "offer_id": "raicol-crystals-periodically-poled-linbo-ppln-data-sheet",
@@ -1133,10 +1463,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://raicol.com/wp-content/uploads/2023/09/PPLN__june2026.pdf",
+  "url": "https://raicol.com/product/quantum-components/ppln",
   "services": "not shown in results",
   "notes": "contents not quoted. Useful if poled LN is needed for QPM SHG in written guides.",
-  "notes_full": "Seen only as a PPLN data-sheet PDF in search results; contents not quoted. Useful if poled LN is needed for QPM SHG in written guides."
+  "notes_full": "Seen only as a PPLN data-sheet PDF in search results; contents not quoted. Useful if poled LN is needed for QPM SHG in written guides.",
+  "homepage": "https://raicol.com/",
+  "product_url": "https://raicol.com/product/quantum-components/ppln",
+  "datasheet_url": null,
+  "link_note": "PPLN__june2026.pdf not seen in any result, dropped; replaced with confirmed PPLN product page.",
+  "search_url": "https://www.google.com/search?q=site%3Araicol.com%20PPLN%20crystal"
  },
  {
   "offer_id": "surfacenet-gmbh-litao-crystals-substrates-wafers-and-targets",
@@ -1150,10 +1485,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://surfacenet.de/files/kristall_daten.php?crystal=117",
+  "url": "https://surfacenet.de/crystal_products.html?crystal=117",
   "services": "not shown in results",
   "notes": "Data page: density 7.46 g/cm³, mp 1650 °C, Mohs 5.5. Congruent vs stoichiometric grade not shown.",
-  "notes_full": "Data page: density 7.46 g/cm³, mp 1650 °C, Mohs 5.5. Congruent vs stoichiometric grade not shown."
+  "notes_full": "Data page: density 7.46 g/cm³, mp 1650 °C, Mohs 5.5. Congruent vs stoichiometric grade not shown.",
+  "homepage": "https://surfacenet.de/",
+  "product_url": "https://surfacenet.de/crystal_products.html?crystal=117",
+  "datasheet_url": null,
+  "link_note": "Old URL was the data page (still confirmed: kristall_daten.php?crystal=117); product page added.",
+  "search_url": "https://www.google.com/search?q=site%3Asurfacenet.de%20Lithium%20Tantalate%20LiTaO3"
  },
  {
   "offer_id": "castech-litao-electro-optic-crystals",
@@ -1167,10 +1507,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://castech-us.com/litao3.htm",
+  "url": "https://www.castech.com/product/LiTaO3-89.html",
   "services": "not shown in results",
   "notes": "Page lists r33 = 30.4 pm/V, n_o = 2.176, n_e = 2.180 @ 632.8 nm, Curie 607 °C.",
-  "notes_full": "Page lists r33 = 30.4 pm/V, n_o = 2.176, n_e = 2.180 @ 632.8 nm, Curie 607 °C."
+  "notes_full": "Page lists r33 = 30.4 pm/V, n_o = 2.176, n_e = 2.180 @ 632.8 nm, Curie 607 °C.",
+  "homepage": "https://www.castech.com/",
+  "product_url": "https://www.castech.com/product/LiTaO3-89.html",
+  "datasheet_url": null,
+  "link_note": "castech-us.com belongs to CONEX Inc. (US distributor); replaced with CASTECH's own product page.",
+  "search_url": "https://www.google.com/search?q=site%3Acastech.com%20LiTaO3"
  },
  {
   "offer_id": "laser-components-gmbh-ktp-nonlinear-crystals-data-sheet-ktp-",
@@ -1184,10 +1529,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ktp-crys.pdf",
+  "url": "https://www.lasercomponents.com/",
   "services": "not shown in results",
   "notes": "Data sheet: d33 = 16.9 pm/V, r33 36.3/35.0 pm/V, n_z = 1.8297 @ 1064 nm. Ask whether flux or hydrothermal and gray-track-resistant grade.",
-  "notes_full": "Data sheet: d33 = 16.9 pm/V, r33 36.3/35.0 pm/V, n_z = 1.8297 @ 1064 nm. Ask whether flux or hydrothermal and gray-track-resistant grade."
+  "notes_full": "Data sheet: d33 = 16.9 pm/V, r33 36.3/35.0 pm/V, n_z = 1.8297 @ 1064 nm. Ask whether flux or hydrothermal and gray-track-resistant grade.",
+  "homepage": "https://www.lasercomponents.com/",
+  "product_url": null,
+  "datasheet_url": "https://www.lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ktp-crys.pdf",
+  "link_note": "Datasheet confirmed (dated 08/19); no KTP product page found in results.",
+  "search_url": "https://www.google.com/search?q=site%3Alasercomponents.com%20KTP%20crystals"
  },
  {
   "offer_id": "moltech-gmbh-ktp-ktiopo-crystals",
@@ -1201,10 +1551,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://mt-berlin.com/frames_cryst/descriptions/ktp.htm",
+  "url": "https://www.mt-berlin.com/frames_cryst/descriptions/ktp.htm",
   "services": "not shown in results",
   "notes": "contents not quoted.",
-  "notes_full": "Product description page seen in search results; contents not quoted."
+  "notes_full": "Product description page seen in search results; contents not quoted.",
+  "homepage": "https://www.mt-berlin.com/",
+  "product_url": "https://www.mt-berlin.com/frames_cryst/descriptions/ktp.htm",
+  "datasheet_url": null,
+  "link_note": "Current URL confirmed (www host). Frame content page.",
+  "search_url": "https://www.google.com/search?q=site%3Amt-berlin.com%20KTP%20KTiOPO4"
  },
  {
   "offer_id": "4lasers-ktp-crystals-incl-high-gray-track-resistant-hgtr-ktp",
@@ -1218,10 +1573,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://4lasers.com/en/components/crystals/nonlinear-crystals/ktp-crystals",
+  "url": "https://4lasers.com/en/components-stock/crystals/nonlinear-crystals/ktp-crystals",
   "services": "not shown in results",
   "notes": "Lists n_x 1.7404, n_y 1.7479, n_z 1.8296 @ 1064 nm and density 2.945 g/cm³.",
-  "notes_full": "Lists n_x 1.7404, n_y 1.7479, n_z 1.8296 @ 1064 nm and density 2.945 g/cm³."
+  "notes_full": "Lists n_x 1.7404, n_y 1.7479, n_z 1.8296 @ 1064 nm and density 2.945 g/cm³.",
+  "homepage": "https://4lasers.com/",
+  "product_url": "https://4lasers.com/en/components-stock/crystals/nonlinear-crystals/ktp-crystals",
+  "datasheet_url": "https://4lasers.com/storage/app/media/Catalog%202025/OPTOGAMA_4Lasers_catalog_cw.pdf",
+  "link_note": "Old /components/... KTP path not seen in results; replaced with confirmed KTP page. Datasheet field is the 2025 product catalogue. Category: https://4lasers.com/en/components/crystals/nonlinear-crystals",
+  "search_url": "https://www.google.com/search?q=site%3A4lasers.com%20HGTR%20KTP%20crystals"
  },
  {
   "offer_id": "surfacenet-gmbh-bab-o-bbo-crystals-old-product-page",
@@ -1235,10 +1595,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://ov.surfacenet.de/files/old_version/html/ss-bab2o4__bbo_.html",
+  "url": "https://surfacenet.de/crystal_products.html?crystal=78",
   "services": "not shown in results",
   "notes": "Old-version page; check current availability. No fs-written BBO waveguide paper found, so BBO is a speculative target.",
-  "notes_full": "Old-version page; check current availability. No fs-written BBO waveguide paper found, so BBO is a speculative target."
+  "notes_full": "Old-version page; check current availability. No fs-written BBO waveguide paper found, so BBO is a speculative target.",
+  "homepage": "https://surfacenet.de/",
+  "product_url": "https://surfacenet.de/crystal_products.html?crystal=78",
+  "datasheet_url": null,
+  "link_note": "Dropped archived old_version page. Also: https://surfacenet.de/beta-barium-borate-214.html",
+  "search_url": "https://www.google.com/search?q=site%3Asurfacenet.de%20Beta-Barium%20Borate%20BBO"
  },
  {
   "offer_id": "chengdu-dien-listed-on-findlight-bib-o-bibo-nonlinear-crysta",
@@ -1252,10 +1617,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.findlight.net/uploads/products/datasheet/Nonlinear-crystal---BiB3O6-BIBO.pdf",
+  "url": "https://www.dientech.com/dien-tech-bibo-crystal-product/",
   "services": "not shown in results",
   "notes": "Data sheet: d_eff 3.0 ± 0.1 pm/V, 286-2500 nm, damage > 0.3 GW/cm² (10 ns).",
-  "notes_full": "Data sheet: d_eff 3.0 ± 0.1 pm/V, 286-2500 nm, damage > 0.3 GW/cm² (10 ns). No German BiBO supplier confirmed in this pass."
+  "notes_full": "Data sheet: d_eff 3.0 ± 0.1 pm/V, 286-2500 nm, damage > 0.3 GW/cm² (10 ns). No German BiBO supplier confirmed in this pass.",
+  "homepage": "https://www.dientech.com/",
+  "product_url": "https://www.dientech.com/dien-tech-bibo-crystal-product/",
+  "datasheet_url": null,
+  "link_note": "Replaced FindLight datasheet with manufacturer's (DIEN TECH) own BIBO page.",
+  "search_url": "https://www.google.com/search?q=site%3Adientech.com%20BIBO%20crystal"
  },
  {
   "offer_id": "fee-gmbh-a-division-of-eot-integrated-into-coherent-since-20",
@@ -1269,10 +1639,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://findlight.net/optics/crystals/laser-crystals/ndyag-by-fee",
+  "url": "https://www.coherent.com/",
   "services": "Crystal growth and fabrication to specification (directory listings)",
   "notes": "Product range from FindLight and Laser Focus World directory listings, ownership from LFW news (2018) and a CV (2022 Coherent integration): https://laserfocusworld.com/directory/materials-substrates/nonlinear-photorefractive-materials/company/14047302/fee-gmbh ; https://www.laserfocusworld.com/lasers-sources/article/16571488/electro-optics-technology-acquires-laser-crystal-supplier-fee ; https://www.puls.ruhr-uni-bochum.de/puls/mam/content/dr._christoph_liebald.pdf. City from general knowledge. Ask for blank plates (polished on all faces) for waveguide writing rather than rods.",
-  "notes_full": "Product range from FindLight and Laser Focus World directory listings, ownership from LFW news (2018) and a CV (2022 Coherent integration): https://laserfocusworld.com/directory/materials-substrates/nonlinear-photorefractive-materials/company/14047302/fee-gmbh ; https://www.laserfocusworld.com/lasers-sources/article/16571488/electro-optics-technology-acquires-laser-crystal-supplier-fee ; https://www.puls.ruhr-uni-bochum.de/puls/mam/content/dr._christoph_liebald.pdf. City from general knowledge (not shown in the retrieved snippets). Ask for blank plates (polished on all faces) for waveguide writing rather than rods."
+  "notes_full": "Product range from FindLight and Laser Focus World directory listings, ownership from LFW news (2018) and a CV (2022 Coherent integration): https://laserfocusworld.com/directory/materials-substrates/nonlinear-photorefractive-materials/company/14047302/fee-gmbh ; https://www.laserfocusworld.com/lasers-sources/article/16571488/electro-optics-technology-acquires-laser-crystal-supplier-fee ; https://www.puls.ruhr-uni-bochum.de/puls/mam/content/dr._christoph_liebald.pdf. City from general knowledge (not shown in the retrieved snippets). Ask for blank plates (polished on all faces) for waveguide writing rather than rods.",
+  "homepage": "https://www.coherent.com/",
+  "product_url": null,
+  "datasheet_url": "https://www.coherent.com/resources/datasheet/components-and-accessories/Yb-YAG.pdf",
+  "link_note": "Dropped FindLight listing. FEE is now part of Coherent; Coherent laser-crystal product page not found. Datasheet is the EOT-era Yb:YAG sheet (2019).",
+  "search_url": "https://www.google.com/search?q=site%3Acoherent.com%20Yb%3AYAG%20Nd%3AYAG%20crystals"
  },
  {
   "offer_id": "laser-components-gmbh-laser-rods-and-crystals-yb-yag-ti-sapp",
@@ -1289,7 +1664,12 @@
   "url": "https://www.lasercomponents.com/fr-en/product/laser-rods/",
   "services": "Custom dimensions, end-surface finish and coatings on request",
   "notes": "Datasheets: https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/yb-yag.pdf ; https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ndgdvo4_cry.pdf ; https://www.lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ylf_crystal.pdf ; https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/laser-rods.pdf (2018). Plain Nd:YAG, Tm:YAG, Ho:YAG, Pr:YLF and Cr:ZnSe not seen in the listing. Likely a distributor; grower not stated.",
-  "notes_full": "Datasheets: https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/yb-yag.pdf ; https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ndgdvo4_cry.pdf ; https://www.lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ylf_crystal.pdf ; https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/laser-rods.pdf (2018). Plain Nd:YAG, Tm:YAG, Ho:YAG, Pr:YLF and Cr:ZnSe not seen in the listing. Likely a distributor; grower not stated."
+  "notes_full": "Datasheets: https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/yb-yag.pdf ; https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ndgdvo4_cry.pdf ; https://www.lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/ylf_crystal.pdf ; https://lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/laser-rods.pdf (2018). Plain Nd:YAG, Tm:YAG, Ho:YAG, Pr:YLF and Cr:ZnSe not seen in the listing. Likely a distributor; grower not stated.",
+  "homepage": "https://www.lasercomponents.com/",
+  "product_url": "https://www.lasercomponents.com/fr-en/product/laser-rods/",
+  "datasheet_url": "https://www.lasercomponents.com/fileadmin/user_upload/home/Datasheets/diverse-laser-optics/laser-rods-crystals/yb-yag.pdf",
+  "link_note": "Current URL confirmed; Yb:YAG datasheet added (dated 08/19).",
+  "search_url": "https://www.google.com/search?q=site%3Alasercomponents.com%20laser%20rods%20Yb%3AYAG"
  },
  {
   "offer_id": "molecular-technology-gmbh-moltech-yvo4-and-nd-yvo4-crystals-",
@@ -1303,10 +1683,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://mt-berlin.com/frames_cryst/descriptions/yvo4.htm",
+  "url": "https://www.mt-berlin.com/frames_cryst/descriptions/yvo4.htm",
   "services": "not retrieved",
   "notes": "Gives no = 1.9573, ne = 2.1652 @ 1064 nm and 5.10 W/(m·K) ⊥ c. Ask about Nd:GdVO4 and blank formats.",
-  "notes_full": "Gives no = 1.9573, ne = 2.1652 @ 1064 nm and 5.10 W/(m·K) ⊥ c. Ask about Nd:GdVO4 and blank formats."
+  "notes_full": "Gives no = 1.9573, ne = 2.1652 @ 1064 nm and 5.10 W/(m·K) ⊥ c. Ask about Nd:GdVO4 and blank formats.",
+  "homepage": "https://www.mt-berlin.com/",
+  "product_url": "https://www.mt-berlin.com/frames_cryst/descriptions/yvo4.htm",
+  "datasheet_url": null,
+  "link_note": "Current path confirmed. Frame content page.",
+  "search_url": "https://www.google.com/search?q=site%3Amt-berlin.com%20Nd%3AYVO4%20YVO4"
  },
  {
   "offer_id": "crytur-ti-sapphire-laser-crystals",
@@ -1320,10 +1705,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://crytur.cz/materials/tisapphire",
+  "url": "https://www.crytur.com/materials/ti-sapphire/",
   "services": "not retrieved",
   "notes": "EU grower. Datasheet: n = 1.76 @ 800 nm, 33 W/(m·K).",
-  "notes_full": "EU grower (Czech; US office in Massachusetts per search summary). Datasheet: n = 1.76 @ 800 nm, 33 W/(m·K)."
+  "notes_full": "EU grower (Czech; US office in Massachusetts per search summary). Datasheet: n = 1.76 @ 800 nm, 33 W/(m·K).",
+  "homepage": "https://www.crytur.com/",
+  "product_url": "https://www.crytur.com/materials/ti-sapphire/",
+  "datasheet_url": null,
+  "link_note": "crytur.cz/materials/tisapphire not seen in results; replaced with confirmed crytur.com page.",
+  "search_url": "https://www.google.com/search?q=site%3Acrytur.com%20Ti%3ASapphire"
  },
  {
   "offer_id": "crylink-laser-crystal-catalogue-with-datasheets",
@@ -1337,10 +1727,15 @@
   "price": "on request (shop page exists for Pr:YLF; no price seen)",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://shop.crylink.com/products/pr-ylf",
+  "url": "https://www.laser-crylink.com/laser-products/laser-crystal/",
   "services": "not retrieved",
   "notes": "Datasheets used for properties: https://www.crylink.com/wp-content/uploads/Laser-crystal-Ti-Sapphire-CRYLINK-1.pdf ; https://www.laser-crylink.com/wp-content/uploads/Tm-YAG-Laser-Crystal-Dadasheet-Laser-Crylink.pdf ; https://www.laser-crylink.com/wp-content/uploads/Yb-KGW-Laser-Crystal-Dadasheet-Laser-Crylink.pdf ; https://www.crylink.com/wp-content/uploads/Laser-crystal-Cr-ZnSe-CRYLINK.pdf. Non-EU; customs/lead time.",
-  "notes_full": "Datasheets used for properties: https://www.crylink.com/wp-content/uploads/Laser-crystal-Ti-Sapphire-CRYLINK-1.pdf ; https://www.laser-crylink.com/wp-content/uploads/Tm-YAG-Laser-Crystal-Dadasheet-Laser-Crylink.pdf ; https://www.laser-crylink.com/wp-content/uploads/Yb-KGW-Laser-Crystal-Dadasheet-Laser-Crylink.pdf ; https://www.crylink.com/wp-content/uploads/Laser-crystal-Cr-ZnSe-CRYLINK.pdf. Non-EU; customs/lead time."
+  "notes_full": "Datasheets used for properties: https://www.crylink.com/wp-content/uploads/Laser-crystal-Ti-Sapphire-CRYLINK-1.pdf ; https://www.laser-crylink.com/wp-content/uploads/Tm-YAG-Laser-Crystal-Dadasheet-Laser-Crylink.pdf ; https://www.laser-crylink.com/wp-content/uploads/Yb-KGW-Laser-Crystal-Dadasheet-Laser-Crylink.pdf ; https://www.crylink.com/wp-content/uploads/Laser-crystal-Cr-ZnSe-CRYLINK.pdf. Non-EU; customs/lead time.",
+  "homepage": "https://www.crylink.com/",
+  "product_url": "https://www.laser-crylink.com/laser-products/laser-crystal/",
+  "datasheet_url": null,
+  "link_note": "shop.crylink.com deep link not seen in results; replaced with CRYLINK's laser-crystal category page. Pr:YLF: https://www.crylink.com/product/prylf/",
+  "search_url": "https://www.google.com/search?q=site%3Alaser-crylink.com%20laser%20crystal"
  },
  {
   "offer_id": "eksma-optics-yb-kgw-and-yb-kyw-crystals-femtoline",
@@ -1357,7 +1752,12 @@
   "url": "https://eksmaoptics.com/nonlinear-and-laser-crystals/laser-crystals/yb-kgw-and-yb-kyw-crystals/",
   "services": "not retrieved",
   "notes": "Datasheets: https://eksmaoptics.com/out/media/EKSMA_Optics_Yb-KGW_and_Yb-KYW_Crystals-Femtoline.pdf ; https://eksmaoptics.com/out/media/EKSMA_Optics_Yb-KGW_and_Ib-KYW_Crystal.pdf. City from general knowledge, not from a result.",
-  "notes_full": "Datasheets: https://eksmaoptics.com/out/media/EKSMA_Optics_Yb-KGW_and_Yb-KYW_Crystals-Femtoline.pdf ; https://eksmaoptics.com/out/media/EKSMA_Optics_Yb-KGW_and_Ib-KYW_Crystal.pdf. City from general knowledge, not from a result."
+  "notes_full": "Datasheets: https://eksmaoptics.com/out/media/EKSMA_Optics_Yb-KGW_and_Yb-KYW_Crystals-Femtoline.pdf ; https://eksmaoptics.com/out/media/EKSMA_Optics_Yb-KGW_and_Ib-KYW_Crystal.pdf. City from general knowledge, not from a result.",
+  "homepage": "https://eksmaoptics.com/",
+  "product_url": "https://eksmaoptics.com/nonlinear-and-laser-crystals/laser-crystals/yb-kgw-and-yb-kyw-crystals/",
+  "datasheet_url": "https://eksmaoptics.com/out/media/EKSMA_Optics_Nonlinear_and_Laser_Crystals2022.pdf",
+  "link_note": "Current URL confirmed. Datasheet field is the 2022 crystals catalogue PDF.",
+  "search_url": "https://www.google.com/search?q=site%3Aeksmaoptics.com%20Yb%3AKGW%20Yb%3AKYW"
  },
  {
   "offer_id": "4lasers-yb-kgw-yb-kyw-and-pr-ylf-laser-crystals-some-in-stoc",
@@ -1371,10 +1771,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.4lasers.com/components/crystals/laser-crystals/pr-ylf-crystals",
+  "url": "https://4lasers.com/en/components/crystals/laser-crystals/yb-doped-crystals",
   "services": "not retrieved",
   "notes": "Country not shown in results. Pages: https://4lasers.com/components/yb-kgw-crystals ; https://4lasers.com/components/yb-kyw-crystals",
-  "notes_full": "Country not shown in results. Pages: https://4lasers.com/components/yb-kgw-crystals ; https://4lasers.com/components/yb-kyw-crystals"
+  "notes_full": "Country not shown in results. Pages: https://4lasers.com/components/yb-kgw-crystals ; https://4lasers.com/components/yb-kyw-crystals",
+  "homepage": "https://4lasers.com/",
+  "product_url": "https://4lasers.com/en/components/crystals/laser-crystals/yb-doped-crystals",
+  "datasheet_url": "https://4lasers.com/storage/app/media/Catalog%202025/OPTOGAMA_4Lasers_catalog_cw.pdf",
+  "link_note": "Pr:YLF page not seen in results; replaced with Yb-doped crystals page. Yb:KGW: https://4lasers.com/en/components/yb-kgw-crystals ; Yb:KYW: https://4lasers.com/en/components/yb-kyw-crystals . Datasheet field is the 2025 catalogue.",
+  "search_url": "https://www.google.com/search?q=site%3A4lasers.com%20Yb%3AKGW%20Pr%3AYLF"
  },
  {
   "offer_id": "konoshima-chemical-co-ltd-transparent-y2o3-ceramics-laser-me",
@@ -1388,10 +1793,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://konoshima.co.jp/eng/ceramics/y2o3.html",
+  "url": "https://www.konoshima.co.jp/eng/ceramics/y2o3.html",
   "services": "Doped laser ceramics (page statement)",
   "notes": "Y2O3 page: 14.5 W/(m·K), n = 1.92 @ 532 nm. No Lu2O3 datasheet seen.",
-  "notes_full": "Y2O3 page: 14.5 W/(m·K), n = 1.92 @ 532 nm. No Lu2O3 datasheet seen."
+  "notes_full": "Y2O3 page: 14.5 W/(m·K), n = 1.92 @ 532 nm. No Lu2O3 datasheet seen.",
+  "homepage": "https://www.konoshima.co.jp/eng/index.html",
+  "product_url": "https://www.konoshima.co.jp/eng/ceramics/y2o3.html",
+  "datasheet_url": null,
+  "link_note": "Current path confirmed (www host). Laser ceramics overview: https://www.konoshima.co.jp/eng/ceramics/",
+  "search_url": "https://www.google.com/search?q=site%3Akonoshima.co.jp%20Y2O3%20ceramics"
  },
  {
   "offer_id": "ipg-photonics-mid-ir-crystals-cr2-co2-fe2-diffusion-doped-po",
@@ -1408,7 +1818,12 @@
   "url": "https://www.ipgphotonics.com/en/products/components/mid-ir-crystals",
   "services": "not retrieved",
   "notes": "No ordering page found. IPG has a German subsidiary, but no German Cr:ZnSe offer was seen. Context: https://www.laserfocusworld.com/lasers-sources/article/16551683/mid-ir-lasers-kerr-lens-mode-locking-in-polycrystalline-cr-zns-and-cr-znse-competes-with-tisapphire",
-  "notes_full": "No ordering page found. IPG has a German subsidiary, but no German Cr:ZnSe offer was seen. Context: https://www.laserfocusworld.com/lasers-sources/article/16551683/mid-ir-lasers-kerr-lens-mode-locking-in-polycrystalline-cr-zns-and-cr-znse-competes-with-tisapphire"
+  "notes_full": "No ordering page found. IPG has a German subsidiary, but no German Cr:ZnSe offer was seen. Context: https://www.laserfocusworld.com/lasers-sources/article/16551683/mid-ir-lasers-kerr-lens-mode-locking-in-polycrystalline-cr-zns-and-cr-znse-competes-with-tisapphire",
+  "homepage": "https://www.ipgphotonics.com/",
+  "product_url": "https://www.ipgphotonics.com/en/products/components/mid-ir-crystals",
+  "datasheet_url": null,
+  "link_note": "Current URL confirmed.",
+  "search_url": "https://www.google.com/search?q=site%3Aipgphotonics.com%20mid-IR%20crystals%20ZnSe"
  },
  {
   "offer_id": "crylink-cr-znse-laser-crystal",
@@ -1425,7 +1840,12 @@
   "url": "https://www.laser-crylink.com/laser-products/laser-crystal/crznse/",
   "services": "not retrieved",
   "notes": "Datasheet: https://www.crylink.com/wp-content/uploads/Laser-crystal-Cr-ZnSe-CRYLINK.pdf",
-  "notes_full": "Datasheet: https://www.crylink.com/wp-content/uploads/Laser-crystal-Cr-ZnSe-CRYLINK.pdf"
+  "notes_full": "Datasheet: https://www.crylink.com/wp-content/uploads/Laser-crystal-Cr-ZnSe-CRYLINK.pdf",
+  "homepage": "https://www.crylink.com/",
+  "product_url": "https://www.laser-crylink.com/laser-products/laser-crystal/crznse/",
+  "datasheet_url": null,
+  "link_note": "Current URL confirmed. Also: https://www.crylink.com/product/crznse/",
+  "search_url": "https://www.google.com/search?q=site%3Alaser-crylink.com%20Cr%3AZnSe%20crystal"
  },
  {
   "offer_id": "aog-crystal-tm-yag-and-ho-yag-crystals",
@@ -1442,7 +1862,12 @@
   "url": "https://aogcrystal.com/products/tm-yag-crystal.html",
   "services": "not retrieved",
   "notes": "Country not shown in results. Ho:YAG: https://aogcrystal.com/products/ho-yag-crystal.html",
-  "notes_full": "Country not shown in results. Ho:YAG: https://aogcrystal.com/products/ho-yag-crystal.html"
+  "notes_full": "Country not shown in results. Ho:YAG: https://aogcrystal.com/products/ho-yag-crystal.html",
+  "homepage": "https://aogcrystal.com/",
+  "product_url": "https://aogcrystal.com/products/tm-yag-crystal.html",
+  "datasheet_url": null,
+  "link_note": "Current URL confirmed. Ho:YAG: https://aogcrystal.com/products/ho-yag-crystal.html",
+  "search_url": "https://www.google.com/search?q=site%3Aaogcrystal.com%20Tm%3AYAG%20Ho%3AYAG"
  },
  {
   "offer_id": "korth-kristalle-gmbh-sapphire-windows-plano-optics-lenses-ma",
@@ -1459,7 +1884,12 @@
   "url": "https://www.korth.de/en/materials",
   "services": "Own cutting, grinding and polishing workshops; custom optics",
   "notes": "Sapphire listed on Korth's materials page. Undoped grade/orientation must be specified (c-cut vs a-cut matters for birefringence). live page not fetched.",
-  "notes_full": "Sapphire listed on Korth's materials page. Undoped grade/orientation must be specified (c-cut vs a-cut matters for birefringence). Seen in web-search index; live page not fetched."
+  "notes_full": "Sapphire listed on Korth's materials page. Undoped grade/orientation must be specified (c-cut vs a-cut matters for birefringence). Seen in web-search index; live page not fetched.",
+  "homepage": "https://www.korth.de/",
+  "product_url": "https://www.korth.de/en/materials",
+  "datasheet_url": null,
+  "link_note": "Current URL confirmed (materials overview; no sapphire-specific page in results).",
+  "search_url": "https://www.google.com/search?q=site%3Akorth.de%20sapphire"
  },
  {
   "offer_id": "crystran-ltd-sapphire-optical-components-windows-lenses",
@@ -1473,10 +1903,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://crystran.com/optical-materials/sapphire-al2o3",
+  "url": "https://www.crystran.com/optical-materials/sapphire-al2o3/",
   "services": "Custom optics",
   "notes": "Source of the sapphire data sheet used for properties.",
-  "notes_full": "Source of the sapphire data sheet used for properties. City not retrieved."
+  "notes_full": "Source of the sapphire data sheet used for properties. City not retrieved.",
+  "homepage": "https://www.crystran.com/",
+  "product_url": "https://www.crystran.com/optical-materials/sapphire-al2o3/",
+  "datasheet_url": null,
+  "link_note": "Same path confirmed on www host. Data sheet is a download on the page; direct PDF not seen.",
+  "search_url": "https://www.google.com/search?q=site%3Acrystran.com%20Sapphire%20Al2O3"
  },
  {
   "offer_id": "diamond-materials-gmbh-high-purity-cvd-diamond-disks-and-waf",
@@ -1490,10 +1925,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://diamond-materials.com/en/",
+  "url": "https://www.diamond-materials.com/en/products/",
   "services": "Diamond processing (Fraunhofer IAF spin-off)",
   "notes": "ask for single-crystal CVD before ordering.",
-  "notes_full": "Single-crystal / NV quantum-grade plates from this company were NOT confirmed in the results; ask for single-crystal CVD before ordering. Seen in web-search index."
+  "notes_full": "Single-crystal / NV quantum-grade plates from this company were NOT confirmed in the results; ask for single-crystal CVD before ordering. Seen in web-search index.",
+  "homepage": "https://www.diamond-materials.com/en/",
+  "product_url": "https://www.diamond-materials.com/en/products/",
+  "datasheet_url": "https://www.diamond-materials.com/site/assets/files/1097/diamond_optical_windows.pdf",
+  "link_note": "Old URL was the homepage; products page and optical-windows datasheet added.",
+  "search_url": "https://www.google.com/search?q=site%3Adiamond-materials.com%20CVD%20diamond%20windows"
  },
  {
   "offer_id": "element-six-de-beers-group-dnv-series-quantum-grade-single-c",
@@ -1507,10 +1947,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.harwellcampus.com/harwell-based-element-six-launches-new-grade-of-diamond-for-quantum/",
+  "url": "https://www.e6.com/",
   "services": "Controlled NV / nitrogen content grades",
   "notes": "Product information from the 2021 DNV-B14 launch; check the current catalogue. Milan/Oxford papers use quantum- or electronic-grade single-crystal CVD diamond.",
-  "notes_full": "Product information from the 2021 DNV-B14 launch; check the current catalogue. Milan/Oxford papers use quantum- or electronic-grade single-crystal CVD diamond."
+  "notes_full": "Product information from the 2021 DNV-B14 launch; check the current catalogue. Milan/Oxford papers use quantum- or electronic-grade single-crystal CVD diamond.",
+  "homepage": "https://www.e6.com/",
+  "product_url": null,
+  "datasheet_url": null,
+  "link_note": "Dropped harwellcampus.com article. No product page in results; e6.com launch news: https://www.e6.com/about/news/dnv-b14-launch",
+  "search_url": "https://www.google.com/search?q=site%3Ae6.com%20DNV-B14%20quantum%20diamond"
  },
  {
   "offer_id": "coherent-corp-formerly-ii-vi-single-crystal-diamond-optical-",
@@ -1524,10 +1969,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.coherent.com/content/dam/coherent/site/en/resources/datasheet/optics/single-crystal-diamond-optical-grade.pdf",
+  "url": "https://www.coherent.com/optics/crystals/bulk-optical-materials/cvd-diamond-substrates",
   "services": null,
   "notes": null,
-  "notes_full": "Datasheet excerpt seen only qualitatively. City not retrieved."
+  "notes_full": "Datasheet excerpt seen only qualitatively. City not retrieved.",
+  "homepage": "https://www.coherent.com/",
+  "product_url": "https://www.coherent.com/optics/crystals/bulk-optical-materials/cvd-diamond-substrates",
+  "datasheet_url": "https://www.coherent.com/resources/datasheet/optics/single-crystal-diamond-optical-grade.pdf",
+  "link_note": "Old /content/dam/... datasheet path not seen; replaced with confirmed /resources/datasheet/ path; product page added.",
+  "search_url": "https://www.google.com/search?q=site%3Acoherent.com%20single%20crystal%20diamond"
  },
  {
   "offer_id": "korth-kristalle-gmbh-znse-and-zns-windows-lenses-atr-element",
@@ -1544,7 +1994,12 @@
   "url": "https://www.korth.de/en/materials",
   "services": "Own cutting, grinding and polishing; custom optics",
   "notes": "Undoped material only; Cr²⁺/Fe²⁺-doped ZnSe/ZnS (gain) not offered in the results.",
-  "notes_full": "Undoped material only; Cr²⁺/Fe²⁺-doped ZnSe/ZnS (gain) not offered in the results. Seen in web-search index."
+  "notes_full": "Undoped material only; Cr²⁺/Fe²⁺-doped ZnSe/ZnS (gain) not offered in the results. Seen in web-search index.",
+  "homepage": "https://www.korth.de/",
+  "product_url": "https://www.korth.de/en/materials",
+  "datasheet_url": null,
+  "link_note": "Current URL confirmed (materials overview). See also https://www.korth.de/en/industries/infrared-technology",
+  "search_url": "https://www.google.com/search?q=site%3Akorth.de%20zinc%20selenide%20ZnSe"
  },
  {
   "offer_id": "crystran-ltd-zinc-selenide-windows-and-lenses-e-g-25-4-mm-le",
@@ -1558,10 +2013,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://crystran.com/media/wysiwyg/Materials/zinc-selenide-znse-data-sheet.pdf",
+  "url": "https://www.crystran.com/optical-materials/zinc-selenide-znse/",
   "services": "Custom optics",
   "notes": "Source of the ZnSe data used for properties.",
-  "notes_full": "Source of the ZnSe data used for properties. City not retrieved."
+  "notes_full": "Source of the ZnSe data used for properties. City not retrieved.",
+  "homepage": "https://www.crystran.com/",
+  "product_url": "https://www.crystran.com/optical-materials/zinc-selenide-znse/",
+  "datasheet_url": "https://www.crystran.com/wp-content/uploads/2025/09/zinc-selenide-znse-data-sheet.pdf",
+  "link_note": "Old /media/wysiwyg/ PDF path replaced by the new wp-content data sheet; product page added.",
+  "search_url": "https://www.google.com/search?q=site%3Acrystran.com%20Zinc%20Selenide%20ZnSe"
  },
  {
   "offer_id": "korth-kristalle-gmbh-crystal-growth-of-mgf-caf-srf-baf-lif-n",
@@ -1575,10 +2035,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://exhibitors.world-of-photonics.com/download/1121_1_1_1735_1_1_178/laser-world-of-photonics_kort_flyer_100x148pdf.pdf",
+  "url": "https://www.korth.de/en/materials",
   "services": "Grows the crystals in-house; cutting, grinding, polishing",
   "notes": "Best German source for undoped fluoride crystals; doped (RE) crystals not mentioned.",
-  "notes_full": "Best German source for undoped fluoride crystals; doped (RE) crystals not mentioned. Seen in web-search index (company flyer and korth.de)."
+  "notes_full": "Best German source for undoped fluoride crystals; doped (RE) crystals not mentioned. Seen in web-search index (company flyer and korth.de).",
+  "homepage": "https://www.korth.de/",
+  "product_url": "https://www.korth.de/en/materials",
+  "datasheet_url": null,
+  "link_note": "Dropped world-of-photonics flyer. CaF2 detail page also seen: https://www.korth.de/en/materials/detail/Calcium%20Fluoride%20/%20RAMAN",
+  "search_url": "https://www.google.com/search?q=site%3Akorth.de%20calcium%20fluoride%20CaF2"
  },
  {
   "offer_id": "hellma-materials-gmbh-optical-crystals-caf-baf-and-yb-caf",
@@ -1592,10 +2057,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://clf.stfc.ac.uk/Pages/talk_19.pdf",
+  "url": "https://www.hellma-materials.com/en/optical-materials/crystals-for-optics/",
   "services": "Large lithography-grade blanks",
   "notes": "Information is from an older presentation and patents",
-  "notes_full": "Information is from an older presentation and patents; current product range and small-sample sales not confirmed."
+  "notes_full": "Information is from an older presentation and patents; current product range and small-sample sales not confirmed.",
+  "homepage": "https://www.hellma-materials.com/en/",
+  "product_url": "https://www.hellma-materials.com/en/optical-materials/crystals-for-optics/",
+  "datasheet_url": null,
+  "link_note": "Dropped clf.stfc.ac.uk talk PDF. CaF2: https://www.hellma-materials.com/en/optical-materials/crystals-for-optics/calcium-fluoride/ ; Yb:CaF2: https://www.hellma-materials.com/en/optical-materials/crystals-for-optics/ytterbium-doped-calcium-fluoride/",
+  "search_url": "https://www.google.com/search?q=site%3Ahellma-materials.com%20calcium%20fluoride%20crystals"
  },
  {
   "offer_id": "crystran-ltd-barium-fluoride-and-lithium-fluoride-optics",
@@ -1609,10 +2079,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.crystran.com/media/wysiwyg/Materials/barium-fluoride-baf2-data-sheet.pdf",
+  "url": "https://www.crystran.com/optical-materials/barium-fluoride-baf2/",
   "services": "Custom optics",
   "notes": "Source of BaF₂ and LiF data sheets.",
-  "notes_full": "Source of BaF₂ and LiF data sheets. Doped LiYF₄/LiLuF₄ suppliers not found in this pass."
+  "notes_full": "Source of BaF₂ and LiF data sheets. Doped LiYF₄/LiLuF₄ suppliers not found in this pass.",
+  "homepage": "https://www.crystran.com/",
+  "product_url": "https://www.crystran.com/optical-materials/barium-fluoride-baf2/",
+  "datasheet_url": null,
+  "link_note": "Old /media/wysiwyg/ PDF not seen; replaced with BaF2 product page. LiF page not checked.",
+  "search_url": "https://www.google.com/search?q=site%3Acrystran.com%20Barium%20Fluoride%20BaF2"
  },
  {
   "offer_id": "korth-kristalle-gmbh-silicon-and-germanium-windows-and-lense",
@@ -1629,7 +2104,12 @@
   "url": "https://www.korth.de/en/materials",
   "services": "Own cutting, grinding and polishing",
   "notes": null,
-  "notes_full": "Seen in web-search index."
+  "notes_full": "Seen in web-search index.",
+  "homepage": "https://www.korth.de/",
+  "product_url": "https://www.korth.de/en/materials",
+  "datasheet_url": null,
+  "link_note": "Current URL confirmed (materials overview).",
+  "search_url": "https://www.google.com/search?q=site%3Akorth.de%20silicon%20germanium"
  },
  {
   "offer_id": "microchemicals-gmbh-silicon-wafers-cz-2-side-polished",
@@ -1641,12 +2121,17 @@
   "product": "Silicon wafers (CZ), 2-side polished",
   "formats": "4-inch CZ wafers, double-side polished",
   "price": "≈ EUR 21–27 per wafer (4-inch CZ, 2-side polished) in a March 2025 customer offer, e.g. 10 wafers at EUR 22.40 each; customer-specific quote, not a list price",
-  "price_url": "https://smlouvy.gov.cz/smlouva/soubor/39714868/MicroChemicals_offer_xx.pdf",
+  "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://microchemicals.com/products/wafers/wafer_fused_silica_6_inch_en_details.html",
+  "url": "https://www.microchemicals.com/SHOP/Wafers/Silicon-Wafer/CZ-Wafer-Czochralski/",
   "services": "Stock lists for Si, quartz, glass, fused silica wafers",
   "notes": "CZ silicon contains oxygen (9 µm absorption band); float-zone prices not found. Si cannot be written with our 1025 nm laser (needs >1.1 µm), so this is only for tests with another source.",
-  "notes_full": "CZ silicon contains oxygen (9 µm absorption band); float-zone prices not found. Si cannot be written with our 1025 nm laser (needs >1.1 µm), so this is only for tests with another source."
+  "notes_full": "CZ silicon contains oxygen (9 µm absorption band); float-zone prices not found. Si cannot be written with our 1025 nm laser (needs >1.1 µm), so this is only for tests with another source.",
+  "homepage": "https://www.microchemicals.com/",
+  "product_url": "https://www.microchemicals.com/SHOP/Wafers/Silicon-Wafer/CZ-Wafer-Czochralski/",
+  "datasheet_url": null,
+  "link_note": "Old URL was a fused-silica wafer page (wrong product); replaced with CZ wafer shop category. Dropped smlouvy.gov.cz offer PDF.",
+  "search_url": "https://www.google.com/search?q=site%3Amicrochemicals.com%20CZ%20silicon%20wafer%20DSP"
  },
  {
   "offer_id": "crystran-ltd-silicon-optics-cz-and-fz-grades",
@@ -1660,10 +2145,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://crystran.com/media/wysiwyg/Materials/silicon-si-data-sheet.pdf",
+  "url": "https://www.crystran.com/optical-materials/silicon-si/",
   "services": "Custom optics",
   "notes": "Source of the Si data sheet.",
-  "notes_full": "Source of the Si data sheet. City not retrieved."
+  "notes_full": "Source of the Si data sheet. City not retrieved.",
+  "homepage": "https://www.crystran.com/",
+  "product_url": "https://www.crystran.com/optical-materials/silicon-si/",
+  "datasheet_url": null,
+  "link_note": "Old /media/wysiwyg/ PDF not seen; replaced with silicon product page.",
+  "search_url": "https://www.google.com/search?q=site%3Acrystran.com%20Silicon%20Si"
  },
  {
   "offer_id": "r-hm-gmbh-plexiglas-spun-off-from-evonik-in-2019-plexiglas-g",
@@ -1677,10 +2167,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.roehm.com/en/otto-rohm",
+  "url": "https://www.plexiglas.de/en/products/plexiglas/plexiglas-gs-xt",
   "services": "not stated in results",
   "notes": "Manufacturer of the PLEXIGLAS brand (trademark 1933). Optical-grade / clinical-grade PMMA for writing studies may need a specialist supplier; ask for low-additive, annealed cast blocks. An official online shop lists GS clear 0F00 (plexiglas-shop.com, 92 % light transmission); prices not seen.",
-  "notes_full": "Manufacturer of the PLEXIGLAS brand (trademark 1933). Optical-grade / clinical-grade PMMA for writing studies may need a specialist supplier; ask for low-additive, annealed cast blocks. An official online shop lists GS clear 0F00 (plexiglas-shop.com, 92 % light transmission); prices not seen."
+  "notes_full": "Manufacturer of the PLEXIGLAS brand (trademark 1933). Optical-grade / clinical-grade PMMA for writing studies may need a specialist supplier; ask for low-additive, annealed cast blocks. An official online shop lists GS clear 0F00 (plexiglas-shop.com, 92 % light transmission); prices not seen.",
+  "homepage": "https://www.roehm.com/",
+  "product_url": "https://www.plexiglas.de/en/products/plexiglas/plexiglas-gs-xt",
+  "datasheet_url": "https://www.plexiglas.de/files/plexiglas-content/pdf/technische-informationen/211-1-PLEXIGLAS-GS-XT-EN.pdf",
+  "link_note": "Old URL was an Otto Rohm history page; replaced with Rohm's PLEXIGLAS brand site product page.",
+  "search_url": "https://www.google.com/search?q=site%3Aplexiglas.de%20PLEXIGLAS%20GS%200F00"
  },
  {
   "offer_id": "plexiglas-shop-r-hm-online-shop-plexiglas-gs-clear-0f00-po-s",
@@ -1694,10 +2189,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.plexiglas-shop.com/se/products/sr0f00-po.html?lang=0",
+  "url": "https://www.plexiglas-shop.com/pl/products/sr0f00-po.html",
   "services": "cutting to size not confirmed",
   "notes": "Listing shows 92 % light transmission and ~80 °C service temperature (Röhm datasheet says ~70 °C). Prices not captured in the results.",
-  "notes_full": "Listing shows 92 % light transmission and ~80 °C service temperature (Röhm datasheet says ~70 °C). Prices not captured in the results."
+  "notes_full": "Listing shows 92 % light transmission and ~80 °C service temperature (Röhm datasheet says ~70 °C). Prices not captured in the results.",
+  "homepage": "https://www.plexiglas-shop.com/",
+  "product_url": "https://www.plexiglas-shop.com/pl/products/sr0f00-po.html",
+  "datasheet_url": null,
+  "link_note": "Same product path confirmed under /pl/ locale (not /se/); dropped ?lang=0. English GT variant: https://www.plexiglas-shop.com/gb/products/plexiglas-gs/plexiglas-gs-0f00-gt-clear.html",
+  "search_url": "https://www.google.com/search?q=site%3Aplexiglas-shop.com%20GS%20Clear%200F00"
  },
  {
   "offer_id": "topas-advanced-polymers-gmbh-subsidiary-of-polyplastics-topa",
@@ -1711,10 +2211,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://topas.com/wp-content/uploads/2023/05/TDS-6013M-07_e.pdf",
+  "url": "https://topas.com/tech-center/datasheets/6013m-07-2/",
   "services": "not stated; resin supplier — moulded plates via a moulder or chip foundry",
   "notes": "Material used by the Hellmann group (Aschaffenburg) is planar COC; Injection-moulded plates are birefringent near the surface — write deeper.",
-  "notes_full": "Material used by the Hellmann group (Aschaffenburg) is planar COC; their substrate grade was not retrieved. Injection-moulded plates are birefringent near the surface — write deeper."
+  "notes_full": "Material used by the Hellmann group (Aschaffenburg) is planar COC; their substrate grade was not retrieved. Injection-moulded plates are birefringent near the surface — write deeper.",
+  "homepage": "https://topas.com/",
+  "product_url": "https://topas.com/tech-center/datasheets/6013m-07-2/",
+  "datasheet_url": "https://topas.com/wp-content/uploads/2023/05/TDS_6013M-07_english-units.pdf",
+  "link_note": "TDS-6013M-07_e.pdf not seen; replaced with confirmed English-units TDS and grade page. 5013 grades not checked.",
+  "search_url": "https://www.google.com/search?q=site%3Atopas.com%206013M-07"
  },
  {
   "offer_id": "microfluidic-chipshop-gmbh-polymer-microscopy-slides-75-5-25",
@@ -1728,10 +2233,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://uk.darwin-microfluidics.com/products/polymer-microscopy-slide-thickness-1-5-2-mm-fluidic-347-pack-of-10/",
+  "url": "https://www.microfluidic-chipshop.com/polymer-substrates/197-substrate-in-slide-format-15-2-mm-thickness-fluidic-347.html",
   "services": "microfluidic chip design and moulding (ISO 9001 / ISO 13485 certified per Galway partner page)",
   "notes": "prices not captured. Pages are inconsistent on Zeonex vs Zeonor naming. Convenient moulded blanks for first writing tests (check moulding birefringence).",
-  "notes_full": "Seen via distributor Darwin Microfluidics listings; prices not captured. Pages are inconsistent on Zeonex vs Zeonor naming. Convenient moulded blanks for first writing tests (check moulding birefringence)."
+  "notes_full": "Seen via distributor Darwin Microfluidics listings; prices not captured. Pages are inconsistent on Zeonex vs Zeonor naming. Convenient moulded blanks for first writing tests (check moulding birefringence).",
+  "homepage": "https://www.microfluidic-chipshop.com/",
+  "product_url": "https://www.microfluidic-chipshop.com/polymer-substrates/197-substrate-in-slide-format-15-2-mm-thickness-fluidic-347.html",
+  "datasheet_url": null,
+  "link_note": "Dropped darwin-microfluidics reseller page; same item (Fluidic 347) on ChipShop's own shop.",
+  "search_url": "https://www.google.com/search?q=site%3Amicrofluidic-chipshop.com%20Fluidic%20347%20slide"
  },
  {
   "offer_id": "zeon-corporation-zeonex-480r-optical-cyclo-olefin-polymer-re",
@@ -1745,10 +2255,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.zeon.co.jp/business/enterprise/resin/pdf/200133136.pdf",
+  "url": "https://www.zeon.co.jp/en/",
   "services": "not stated",
   "notes": null,
-  "notes_full": "A European (German) Zeon subsidiary was not verified in this session."
+  "notes_full": "A European (German) Zeon subsidiary was not verified in this session.",
+  "homepage": "https://www.zeon.co.jp/en/",
+  "product_url": null,
+  "datasheet_url": "https://www.zeon.co.jp/en/business/enterprise/resin/pdf/200323391.pdf",
+  "link_note": "Old 480R PDF not seen; replaced with Zeon COP brochure that lists 480R. No 480R product page found.",
+  "search_url": "https://www.google.com/search?q=site%3Azeon.co.jp%20ZEONEX%20480R"
  },
  {
   "offer_id": "sigma-aldrich-distributor-sylgard-184-silicone-elastomer-kit",
@@ -1762,10 +2277,15 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://sigmaaldrich.com/product/aldrich/761036",
+  "url": "https://www.sigmaaldrich.com/US/en/product/aldrich/761036",
   "services": "none (cast your own blocks)",
   "notes": "Listing gives n 1.4118 @ 589 nm, 1.4225 @ 632.8 nm. Price not captured.",
-  "notes_full": "Listing gives n 1.4118 @ 589 nm, 1.4225 @ 632.8 nm. Price not captured. German stock/warehouse not verified."
+  "notes_full": "Listing gives n 1.4118 @ 589 nm, 1.4225 @ 632.8 nm. Price not captured. German stock/warehouse not verified.",
+  "homepage": "https://www.sigmaaldrich.com/",
+  "product_url": "https://www.sigmaaldrich.com/US/en/product/aldrich/761036",
+  "datasheet_url": null,
+  "link_note": "Current product confirmed with /US/en/ locale (761036 = 10 g clip-pack).",
+  "search_url": "https://www.google.com/search?q=site%3Asigmaaldrich.com%20Sylgard%20184"
  },
  {
   "offer_id": "dow-manufacturer-via-distributors-e-g-farnell-sylgard-184-si",
@@ -1779,9 +2299,14 @@
   "price": "on request",
   "price_url": null,
   "date_seen": "2026-10-24",
-  "url": "https://www.farnell.com/datasheets/3154500.pdf",
+  "url": "https://www.dow.com/en-us/pdp.sylgard-184-silicone-elastomer-kit.01064291z.html",
   "services": "none",
   "notes": "Data sheet copies give thermal conductivity 0.2 W/(m·K) (Cornell copy) vs 0.27 (distributor table). A German silicone alternative (e.g.",
-  "notes_full": "Data sheet copies give thermal conductivity 0.2 W/(m·K) (Cornell copy) vs 0.27 (distributor table). A German silicone alternative (e.g. Wacker) was not verified in this session."
+  "notes_full": "Data sheet copies give thermal conductivity 0.2 W/(m·K) (Cornell copy) vs 0.27 (distributor table). A German silicone alternative (e.g. Wacker) was not verified in this session.",
+  "homepage": "https://www.dow.com/",
+  "product_url": "https://www.dow.com/en-us/pdp.sylgard-184-silicone-elastomer-kit.01064291z.html",
+  "datasheet_url": null,
+  "link_note": "Dropped Farnell datasheet; replaced with Dow's own product page.",
+  "search_url": "https://www.google.com/search?q=site%3Adow.com%20SYLGARD%20184"
  }
 ]
