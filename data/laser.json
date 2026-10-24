@@ -1,0 +1,13 @@
+[
+ {
+  "model": "CARBIDE CB5",
+  "wavelength_nm": 1025,
+  "pulse_min_fs": 208,
+  "pulse_max_fs": 7800,
+  "rep_min_kHz": 60,
+  "rep_max_kHz": 1008,
+  "power_max_mW": 5100,
+  "energy_max_nJ": 85000,
+  "source": "lab_devices_control docs/devices/inventory.md"
+ }
+]

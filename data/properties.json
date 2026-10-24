@@ -1,0 +1,1073 @@
+[
+ {
+  "prop_id": "af32-eco-1",
+  "glass_id": "af32-eco",
+  "property": "Coefficient of thermal expansion",
+  "value": "3.2 × 10⁻⁶ /K (close to silicon; distributor listing)",
+  "source": "https://www.pgo-online.com/intl/af32.html",
+  "source_host": "pgo-online.com",
+  "value_short": "3.2 × 10⁻⁶ /K"
+ },
+ {
+  "prop_id": "af32-eco-2",
+  "glass_id": "af32-eco",
+  "property": "Transmission",
+  "value": "Luminous transmittance 91.9 % uncoated, 97–99 % with AR coating; high transmission in the visible and in the IR up to ~2700 nm",
+  "source": "https://www.schott.com/en-ie/products/af-32-eco-p1000308",
+  "source_host": "schott.com",
+  "value_short": "Luminous transmittance 91.9 % uncoated, 97–99 % with AR…"
+ },
+ {
+  "prop_id": "af32-eco-3",
+  "glass_id": "af32-eco",
+  "property": "Maximum use temperature",
+  "value": "~600 °C (high transformation temperature; exact Tg not retrieved)",
+  "source": "https://www.glassonline.com/?p=21874",
+  "source_host": "glassonline.com",
+  "value_short": "~600 °C"
+ },
+ {
+  "prop_id": "af32-eco-4",
+  "glass_id": "af32-eco",
+  "property": "Thickness range",
+  "value": "0.03–0.5 mm (SCHOTT; distributor PGO lists 0.1–0.5 mm); TTV ≤ 5–15 µm",
+  "source": "https://www.schott.com/en-ie/products/af-32-eco-p1000308",
+  "source_host": "schott.com",
+  "value_short": "0.03–0.5 mm"
+ },
+ {
+  "prop_id": "as2s3-1",
+  "glass_id": "as2s3",
+  "property": "Commercial glass / composition",
+  "value": "SCHOTT IRG 27 = As2S3 (germanium-free); German supplier",
+  "source": "https://www.schott.com/shop/advanced-optics/en/IRG-27/c/glass-IRG27",
+  "source_host": "schott.com",
+  "value_short": "SCHOTT IRG 27 = As2S3"
+ },
+ {
+  "prop_id": "as2s3-2",
+  "glass_id": "as2s3",
+  "property": "Refractive index",
+  "value": "2.4841 @ 1.0 µm, 2.4452 @ 1.5 µm, 2.4320 @ 2.0 µm, 2.4129 @ 5.0 µm, 2.3842 @ 10 µm (SCHOTT IRG 27, 22 °C; technical-details table). The SCHOTT shop page gives 2.3873 @ 10 µm: the two SCHOTT pages disagree at 10 µm.",
+  "source": "https://www.schott.com/en-au/products/ir-materials/technical-details ; https://www.schott.com/shop/advanced-optics/en/IRG-27/c/glass-IRG27",
+  "source_host": "schott.com",
+  "value_short": "2.4841 @ 1.0 µm, 2.4452 @ 1.5 µm, 2.4320 @ 2.0 µm, 2.4129 @…"
+ },
+ {
+  "prop_id": "as2s3-3",
+  "glass_id": "as2s3",
+  "property": "Transmission window",
+  "value": "≈0.65 µm to >10 µm (SCHOTT authors, SPIE 10100, 1010016); internal transmission (10 mm) 97.2% @ 1.0 µm, 98.7% @ 1.5 µm, 99.0% @ 2.0 µm, 99.5% @ 5.0 µm (SCHOTT shop page)",
+  "source": "https://spiedigitallibrary.org/conference-proceedings-of-spie/10100/1010016/IRG-27--a-new-glass-type-for-multi-band/10.1117/12.2257225.full ; https://www.schott.com/shop/advanced-optics/en/IRG-27/c/glass-IRG27",
+  "source_host": "spiedigitallibrary.org",
+  "value_short": "≈0.65 µm to >10 µm"
+ },
+ {
+  "prop_id": "as2s3-4",
+  "glass_id": "as2s3",
+  "property": "Glass transition Tg",
+  "value": "197 °C (SCHOTT IRG 27)",
+  "source": "https://www.schott.com/shop/advanced-optics/en/IRG-27/c/glass-IRG27",
+  "source_host": "schott.com",
+  "value_short": "197 °C (SCHOTT IRG 27)"
+ },
+ {
+  "prop_id": "as2s3-5",
+  "glass_id": "as2s3",
+  "property": "Density",
+  "value": "3.20 g/cm³ (SCHOTT IRG 27)",
+  "source": "https://www.schott.com/shop/advanced-optics/en/IRG-27/c/glass-IRG27",
+  "source_host": "schott.com",
+  "value_short": "3.20 g/cm³ (SCHOTT IRG 27)"
+ },
+ {
+  "prop_id": "as2s3-6",
+  "glass_id": "as2s3",
+  "property": "CTE",
+  "value": "22.5 × 10⁻⁶ /K (20–100 °C, SCHOTT IRG 27)",
+  "source": "https://www.schott.com/shop/advanced-optics/en/IRG-27/c/glass-IRG27",
+  "source_host": "schott.com",
+  "value_short": "22.5 × 10⁻⁶ /K"
+ },
+ {
+  "prop_id": "as2s3-7",
+  "glass_id": "as2s3",
+  "property": "dn/dT",
+  "value": "+15.6 × 10⁻⁶ /K @ 1 µm, −3.2 × 10⁻⁶ /K @ 5 µm, −3.7 × 10⁻⁶ /K @ 10 µm (SCHOTT IRG 27; near-zero from 1.5 µm on)",
+  "source": "https://www.schott.com/shop/advanced-optics/en/IRG-27/c/glass-IRG27 ; https://www.schott.com/en-au/products/ir-materials/technical-details",
+  "source_host": "schott.com",
+  "value_short": "+15.6 × 10⁻⁶ /K @ 1 µm, −3.2 × 10⁻⁶ /K @ 5 µm, −3.7 × 10⁻⁶…"
+ },
+ {
+  "prop_id": "as2s3-9",
+  "glass_id": "as2s3",
+  "property": "Two-photon absorption at 1025 nm (remark)",
+  "value": "Calculation, not a measurement: two 1025 nm photons carry 2.42 eV (≈512 nm), above the ≈0.65 µm (≈1.9 eV) short-wave edge, so two-photon absorption is allowed when writing with a CARBIDE.",
+  "source": "calculation from the SCHOTT transmission edge (https://spiedigitallibrary.org/conference-proceedings-of-spie/10100/1010016/IRG-27--a-new-glass-type-for-multi-band/10.1117/12.2257225.full)",
+  "source_host": null,
+  "value_short": "Calculation, not a measurement: two 1025 nm photons carry…"
+ },
+ {
+  "prop_id": "bgg-barium-gallo-germanate-1",
+  "glass_id": "bgg-barium-gallo-germanate",
+  "property": "Transmission window (as used)",
+  "value": "Abstract: robust glass transmitting in the 2.5–5 µm range; couplers characterized 2.1–4.2 µm",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33820299/",
+  "source_host": "pubmed.ncbi.nlm.nih.gov",
+  "value_short": "Abstract: robust glass transmitting in the 2.5–5 µm range"
+ },
+ {
+  "prop_id": "borofloat-33-1",
+  "glass_id": "borofloat-33",
+  "property": "Refractive index",
+  "value": "n_d = 1.471 @ 587.6 nm; n_F − n_C = 71.4 × 10⁻⁴",
+  "source": "https://www.edmundoptics.com/ViewDocument/schott-borofloat-technical-data-sheet-english.pdf",
+  "source_host": "edmundoptics.com",
+  "value_short": "n_d = 1.471 @ 587.6 nm"
+ },
+ {
+  "prop_id": "borofloat-33-2",
+  "glass_id": "borofloat-33",
+  "property": "Density",
+  "value": "2.23 g/cm³ (25 °C)",
+  "source": "https://www.edmundoptics.com/ViewDocument/schott-borofloat-technical-data-sheet-english.pdf",
+  "source_host": "edmundoptics.com",
+  "value_short": "2.23 g/cm³ (25 °C)"
+ },
+ {
+  "prop_id": "borofloat-33-3",
+  "glass_id": "borofloat-33",
+  "property": "Coefficient of thermal expansion",
+  "value": "3.25 × 10⁻⁶ K⁻¹ (20–300 °C, ISO 7991)",
+  "source": "https://www.edmundoptics.com/ViewDocument/schott-borofloat-technical-data-sheet-english.pdf",
+  "source_host": "edmundoptics.com",
+  "value_short": "3.25 × 10⁻⁶ K⁻¹"
+ },
+ {
+  "prop_id": "borofloat-33-4",
+  "glass_id": "borofloat-33",
+  "property": "Transformation temperature Tg",
+  "value": "525 °C",
+  "source": "https://www.edmundoptics.com/ViewDocument/schott-borofloat-technical-data-sheet-english.pdf",
+  "source_host": "edmundoptics.com",
+  "value_short": "525 °C"
+ },
+ {
+  "prop_id": "borofloat-33-5",
+  "glass_id": "borofloat-33",
+  "property": "Annealing point",
+  "value": "560 °C (10^13 dPa·s)",
+  "source": "https://www.edmundoptics.com/ViewDocument/schott-borofloat-technical-data-sheet-english.pdf",
+  "source_host": "edmundoptics.com",
+  "value_short": "560 °C (10^13 dPa·s)"
+ },
+ {
+  "prop_id": "borofloat-33-6",
+  "glass_id": "borofloat-33",
+  "property": "Softening point",
+  "value": "820 °C (Littleton, 10^7.6 dPa·s)",
+  "source": "https://www.edmundoptics.com/ViewDocument/schott-borofloat-technical-data-sheet-english.pdf",
+  "source_host": "edmundoptics.com",
+  "value_short": "820 °C"
+ },
+ {
+  "prop_id": "borofloat-33-8",
+  "glass_id": "borofloat-33",
+  "property": "Thermal conductivity",
+  "value": "1.2 W/(m·K) at 90 °C",
+  "source": "https://www.edmundoptics.com/ViewDocument/schott-borofloat-technical-data-sheet-english.pdf",
+  "source_host": "edmundoptics.com",
+  "value_short": "1.2 W/(m·K) at 90 °C"
+ },
+ {
+  "prop_id": "borofloat-33-9",
+  "glass_id": "borofloat-33",
+  "property": "Specific heat",
+  "value": "0.83 kJ/(kg·K) (20–100 °C)",
+  "source": "https://www.edmundoptics.com/ViewDocument/schott-borofloat-technical-data-sheet-english.pdf",
+  "source_host": "edmundoptics.com",
+  "value_short": "0.83 kJ/(kg·K) (20–100 °C)"
+ },
+ {
+  "prop_id": "borofloat-33-10",
+  "glass_id": "borofloat-33",
+  "property": "Transmission",
+  "value": "SCHOTT states high transparency in UV, visible and near-IR; numeric curve not retrieved",
+  "source": "https://www.schott.com/en-gb/products/borofloat/technical-details",
+  "source_host": "schott.com",
+  "value_short": "SCHOTT states high transparency in UV, visible and near-IR"
+ },
+ {
+  "prop_id": "d263-2",
+  "glass_id": "d263",
+  "property": "Density",
+  "value": "2.51 g/cm³ (UQG-hosted SCHOTT sheet; table headed 'D263 bio' — verify)",
+  "source": "https://uqgoptics.com/wp-content/uploads/2019/06/D263T-1.pdf",
+  "source_host": "uqgoptics.com",
+  "value_short": "2.51 g/cm³"
+ },
+ {
+  "prop_id": "d263-3",
+  "glass_id": "d263",
+  "property": "Coefficient of thermal expansion",
+  "value": "7.2 × 10⁻⁶ K⁻¹ (20–300 °C) (UQG-hosted SCHOTT sheet — verify)",
+  "source": "https://uqgoptics.com/wp-content/uploads/2019/06/D263T-1.pdf",
+  "source_host": "uqgoptics.com",
+  "value_short": "7.2 × 10⁻⁶ K⁻¹"
+ },
+ {
+  "prop_id": "d263-4",
+  "glass_id": "d263",
+  "property": "Transformation temperature Tg",
+  "value": "557 °C (UQG-hosted SCHOTT sheet — verify)",
+  "source": "https://uqgoptics.com/wp-content/uploads/2019/06/D263T-1.pdf",
+  "source_host": "uqgoptics.com",
+  "value_short": "557 °C"
+ },
+ {
+  "prop_id": "d263-5",
+  "glass_id": "d263",
+  "property": "Strain point",
+  "value": "529 °C (UQG-hosted SCHOTT sheet — verify)",
+  "source": "https://uqgoptics.com/wp-content/uploads/2019/06/D263T-1.pdf",
+  "source_host": "uqgoptics.com",
+  "value_short": "529 °C"
+ },
+ {
+  "prop_id": "d263-6",
+  "glass_id": "d263",
+  "property": "Annealing point",
+  "value": "557 °C (10^13 dPa·s) (UQG-hosted SCHOTT sheet — verify)",
+  "source": "https://uqgoptics.com/wp-content/uploads/2019/06/D263T-1.pdf",
+  "source_host": "uqgoptics.com",
+  "value_short": "557 °C"
+ },
+ {
+  "prop_id": "d263-7",
+  "glass_id": "d263",
+  "property": "Softening point",
+  "value": "736 °C (10^7.6 dPa·s) (UQG-hosted SCHOTT sheet — verify)",
+  "source": "https://uqgoptics.com/wp-content/uploads/2019/06/D263T-1.pdf",
+  "source_host": "uqgoptics.com",
+  "value_short": "736 °C"
+ },
+ {
+  "prop_id": "d263-8",
+  "glass_id": "d263",
+  "property": "Thickness range",
+  "value": "0.03–1.1 mm (down-draw)",
+  "source": "https://uqgoptics.com/wp-content/uploads/2019/06/D263T-1.pdf",
+  "source_host": "uqgoptics.com",
+  "value_short": "0.03–1.1 mm (down-draw)"
+ },
+ {
+  "prop_id": "d263-1",
+  "glass_id": "d263",
+  "property": "Refractive index",
+  "value": "n_d = 1.5231, n_D = 1.5230, Abbe number 55, accuracy ± 0.0015 (SCHOTT D 263 page; values listed for D 263 M, assumed same base glass as T eco — not confirmed)",
+  "source": "https://www.schott.com/en-gb/products/d-263/technical-details",
+  "source_host": "schott.com",
+  "value_short": "n_d = 1.5231, n_D = 1.5230, Abbe number 55, accuracy ±…"
+ },
+ {
+  "prop_id": "eagle-xg-3",
+  "glass_id": "eagle-xg",
+  "property": "Refractive index",
+  "value": "1.510 @ 589.3 nm (Corning PI sheet, 2023)",
+  "source": "https://www.corning.com/media/worldwide/cdt/documents/EAGLE_XG_Glass_PI_Sheet.pdf",
+  "source_host": "corning.com",
+  "value_short": "1.510 @ 589.3 nm"
+ },
+ {
+  "prop_id": "eagle-xg-4",
+  "glass_id": "eagle-xg",
+  "property": "Density",
+  "value": "2.38 g/cm³ (20 °C)",
+  "source": "https://www.corning.com/media/worldwide/cdt/documents/EAGLE_XG_Glass_PI_Sheet.pdf",
+  "source_host": "corning.com",
+  "value_short": "2.38 g/cm³ (20 °C)"
+ },
+ {
+  "prop_id": "eagle-xg-5",
+  "glass_id": "eagle-xg",
+  "property": "Coefficient of thermal expansion",
+  "value": "32 × 10⁻⁷ /°C (0–300 °C) per 2023 sheet; 31.7 × 10⁻⁷ /°C in the 2006 MIE 301 and 2021 sheets",
+  "source": "https://www.corning.com/media/worldwide/cdt/documents/EAGLE_XG_Glass_PI_Sheet.pdf ; https://valleydesign.com/wp-content/uploads/2023/11/corning-eagle-xg-glass.pdf",
+  "source_host": "corning.com",
+  "value_short": "32 × 10⁻⁷ /°C"
+ },
+ {
+  "prop_id": "eagle-xg-6",
+  "glass_id": "eagle-xg",
+  "property": "Strain point",
+  "value": "669 °C (10^14.5 P)",
+  "source": "https://www.corning.com/media/worldwide/cdt/documents/EAGLE_XG_Glass_PI_Sheet.pdf",
+  "source_host": "corning.com",
+  "value_short": "669 °C (10^14.5 P)"
+ },
+ {
+  "prop_id": "eagle-xg-7",
+  "glass_id": "eagle-xg",
+  "property": "Annealing point",
+  "value": "722 °C (10^13 P)",
+  "source": "https://www.corning.com/media/worldwide/cdt/documents/EAGLE_XG_Glass_PI_Sheet.pdf",
+  "source_host": "corning.com",
+  "value_short": "722 °C (10^13 P)"
+ },
+ {
+  "prop_id": "eagle-xg-9",
+  "glass_id": "eagle-xg",
+  "property": "Working point",
+  "value": "1293 °C (2006 MIE 301 sheet)",
+  "source": "https://valleydesign.com/wp-content/uploads/2023/11/corning-eagle-xg-glass.pdf",
+  "source_host": "valleydesign.com",
+  "value_short": "1293 °C (2006 MIE 301 sheet)"
+ },
+ {
+  "prop_id": "eagle-xg-10",
+  "glass_id": "eagle-xg",
+  "property": "Young's modulus",
+  "value": "74 GPa (2023 sheet); 73.6 GPa (2006/2021 sheets)",
+  "source": "https://www.corning.com/media/worldwide/cdt/documents/EAGLE_XG_Glass_PI_Sheet.pdf",
+  "source_host": "corning.com",
+  "value_short": "74 GPa (2023 sheet)"
+ },
+ {
+  "prop_id": "eagle-xg-11",
+  "glass_id": "eagle-xg",
+  "property": "Stress optical coefficient",
+  "value": "33.4 nm/cm/MPa",
+  "source": "https://www.corning.com/media/worldwide/cdt/documents/EAGLE_XG_Glass_PI_Sheet.pdf",
+  "source_host": "corning.com",
+  "value_short": "33.4 nm/cm/MPa"
+ },
+ {
+  "prop_id": "eagle-xg-12",
+  "glass_id": "eagle-xg",
+  "property": "Transmission",
+  "value": "> 90 % from 400 to 800 nm (Corning PI sheet; sheet thickness as stated there). Datasheet range beyond 800 nm not retrieved.",
+  "source": "https://www.corning.com/media/worldwide/cdt/documents/EAGLE_XG_Glass_PI_Sheet.pdf",
+  "source_host": "corning.com",
+  "value_short": "> 90 % from 400 to 800 nm"
+ },
+ {
+  "prop_id": "eagle-xg-1",
+  "glass_id": "eagle-xg",
+  "property": "Refractive index",
+  "value": "1.473 @ 1550 nm (EAGLE XG, as stated in arXiv:2006.13242 Appendix D; not cross-checked with a Corning datasheet)",
+  "source": "https://arxiv.org/pdf/2006.13242",
+  "source_host": "arxiv.org",
+  "value_short": "1.473 @ 1550 nm"
+ },
+ {
+  "prop_id": "eagle-xg-2",
+  "glass_id": "eagle-xg",
+  "property": "Softening point",
+  "value": "985 °C (EAGLE2000; value used in the thermal model of Eaton et al. 2008)",
+  "source": "https://opg.optica.org/oe/abstract.cfm?uri=OE-16-13-9443",
+  "source_host": "opg.optica.org",
+  "value_short": "985 °C"
+ },
+ {
+  "prop_id": "eagle-xg-8",
+  "glass_id": "eagle-xg",
+  "property": "Softening point",
+  "value": "972 °C (10^7.6 P) per 2023 sheet; 971 °C in 2006 MIE 301 sheet. (Eaton 2008 used 985 °C for EAGLE2000, the older glass.)",
+  "source": "https://www.corning.com/media/worldwide/cdt/documents/EAGLE_XG_Glass_PI_Sheet.pdf ; https://valleydesign.com/wp-content/uploads/2023/11/corning-eagle-xg-glass.pdf",
+  "source_host": "corning.com",
+  "value_short": "972 °C"
+ },
+ {
+  "prop_id": "er-yb-bismuthate-2",
+  "glass_id": "er-yb-bismuthate",
+  "property": "Rare-earth doping level (Yb:BG, mary2013graphene)",
+  "value": "1.6×10²⁶ m^-3 Yb3+",
+  "source": "https://arxiv.org/abs/1212.3401",
+  "source_host": "arxiv.org",
+  "value_short": "1.6×10²⁶ m^-3 Yb3+"
+ },
+ {
+  "prop_id": "er-yb-bismuthate-3",
+  "glass_id": "er-yb-bismuthate",
+  "property": "Er3+ gain band in laser-inscribed waveguides",
+  "value": "peak internal gain 2.3 dB/cm at 1533 nm (980 nm pump); mode-locked lasing at 1.56 um",
+  "source": "https://doi.org/10.1364/OE.18.013212",
+  "source_host": "doi.org",
+  "value_short": "peak internal gain 2.3 dB/cm at 1533 nm (980 nm pump)"
+ },
+ {
+  "prop_id": "er-yb-bismuthate-4",
+  "glass_id": "er-yb-bismuthate",
+  "property": "Yb3+ laser wavelengths in laser-inscribed waveguides",
+  "value": "~1039 nm (QML, mary2013graphene); 1059 nm CW, 148 mW, 64 % slope at 975 nm pump (ASSP 2012 conference abstract)",
+  "source": "https://opg.optica.org/abstract.cfm?uri=ASSP-2012-AM4A.14",
+  "source_host": "opg.optica.org",
+  "value_short": "~1039 nm"
+ },
+ {
+  "prop_id": "er-yb-bismuthate-6",
+  "glass_id": "er-yb-bismuthate",
+  "property": "Bi2O3-based Er amplifier glass, patent claim ranges (US 6599853 'Optical amplifier glass'; assignee not confirmed in excerpt)",
+  "value": ">= 20 mol% Bi2O3, >= 0.1 mol% Al2O3 and/or Ga2O3, 0.01–10 mass% Er; n >= 1.8 at 1.55 um; Tg >= 360 °C",
+  "source": "https://patents.google.com/patent/US6599853",
+  "source_host": "patents.google.com",
+  "value_short": ">= 20 mol% Bi2O3, >= 0.1 mol% Al2O3 and/or Ga2O3, 0.01–10…"
+ },
+ {
+  "prop_id": "er-yb-bismuthate-7",
+  "glass_id": "er-yb-bismuthate",
+  "property": "Asahi Er-bismuthate waveguide amplifier (not laser-written; 2005 IEICE report)",
+  "value": "propagation loss 0.13 dB/cm; 1 cm EDWA with > 15 dB gain, noise figure < 8 dB",
+  "source": "https://ken.ieice.org/ken/paper/20050819ZAfw/eng/",
+  "source_host": "ken.ieice.org",
+  "value_short": "propagation loss 0.13 dB/cm"
+ },
+ {
+  "prop_id": "er-yb-bismuthate-1",
+  "glass_id": "er-yb-bismuthate",
+  "property": "Refractive index (Yb-doped bismuthate, mary2013graphene)",
+  "value": "2.03 at 1304 nm (stated in the group's ASSL 2015 Yb:BG paper, same glass family; not confirmed for the exact mary2013 sample)",
+  "source": "https://arxiv.org/abs/1212.3401",
+  "source_host": "arxiv.org",
+  "value_short": "2.03 at 1304 nm"
+ },
+ {
+  "prop_id": "er-yb-bismuthate-5",
+  "glass_id": "er-yb-bismuthate",
+  "property": "Refractive index (Yb-doped bismuthate, Asahi/Heriot-Watt)",
+  "value": "2.03 at 1304 nm (stated in the group's ASSL 2015 Yb:BG paper, same glass family; not confirmed for the exact mary2013 sample)",
+  "source": "https://eprints.soton.ac.uk/382836/1/CW_20Modelocked_20YbBG_20Waveguide_20Laser_20ASSL_2015_2012th_20of_20June_20submisson.pdf",
+  "source_host": "eprints.soton.ac.uk",
+  "value_short": "2.03 at 1304 nm"
+ },
+ {
+  "prop_id": "er-yb-phosphate-1",
+  "glass_id": "er-yb-phosphate",
+  "property": "Rare-earth doping level (Kigre QX Er/Yb, as used in marshall2008dfb)",
+  "value": "2 % Er / 4 % Yb (wt% or mol% not stated in retrieved excerpt)",
+  "source": "https://arxiv.org/abs/0802.1127",
+  "source_host": "arxiv.org",
+  "value_short": "2 % Er / 4 % Yb"
+ },
+ {
+  "prop_id": "er-yb-phosphate-2",
+  "glass_id": "er-yb-phosphate",
+  "property": "Gain / emission band in fs-written waveguides (Er3+ 4I13/2 -> 4I15/2)",
+  "value": "internal gain 1.4 dB at 1534 nm (osellame2003astigmatic); lasing at 1533.5 nm (taccheo2004laser) and 1537 nm DFB (marshall2008dfb); laser action across the C-band (osellame2006jstqe)",
+  "source": "https://doi.org/10.1364/OL.29.002626",
+  "source_host": "doi.org",
+  "value_short": "internal gain 1.4 dB at 1534 nm (osellame2003astigmatic)"
+ },
+ {
+  "prop_id": "er-yb-phosphate-3",
+  "glass_id": "er-yb-phosphate",
+  "property": "Pump band (Yb3+ sensitiser)",
+  "value": "~980 nm pumping (marshall2008dfb)",
+  "source": "https://arxiv.org/abs/0802.1127",
+  "source_host": "arxiv.org",
+  "value_short": "~980 nm pumping"
+ },
+ {
+  "prop_id": "er-yb-phosphate-5",
+  "glass_id": "er-yb-phosphate",
+  "property": "Thermo-mechanical character (Kigre QX/Er, QX/Nd, QX/Yb)",
+  "value": "described as high strength, low CTE and optically athermal; QX family can be ion-exchange strengthened (fracture strength up to ~3x)",
+  "source": "https://experts.arizona.edu/en/publications/phosphate-glasses-for-high-average-power-lasers/ ; https://eprints.soton.ac.uk/77988/1/1385.pdf",
+  "source_host": "experts.arizona.edu",
+  "value_short": "described as high strength, low CTE and optically athermal"
+ },
+ {
+  "prop_id": "er-yb-phosphate-6",
+  "glass_id": "er-yb-phosphate",
+  "property": "Rare-earth doping (Schott IOG-1 Er/Yb, as in ion-exchange waveguide-laser patent text)",
+  "value": "1.15 wt% Er2O3 (1.0×10²⁰ ions/cm^3) and 4.73 wt% Yb2O3 (4.0×10²⁰ ions/cm^3); a related patent lists IOG-1 embodiments with ~1–1.5×10²⁰ Er and ~4–8×10²⁰ Yb ions/cm^3. Link of the first figures to IOG-1 taken from the search summary, not seen verbatim.",
+  "source": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6381392",
+  "source_host": "image-ppubs.uspto.gov",
+  "value_short": "1.15 wt% Er2O3"
+ },
+ {
+  "prop_id": "er-yb-phosphate-7",
+  "glass_id": "er-yb-phosphate",
+  "property": "Rare-earth doping (Er:Yb phosphate used by Polimi for fs-written waveguide lasers, dellavalle2006nanotube)",
+  "value": "2 wt% Er2O3, 4 wt% Yb2O3 (maker not stated)",
+  "source": "https://amp.spie.org/news/0711-carbon-nanotubes-mode-lock-a-laser-written-waveguide-laser",
+  "source_host": "amp.spie.org",
+  "value_short": "2 wt% Er2O3, 4 wt% Yb2O3"
+ },
+ {
+  "prop_id": "er-yb-phosphate-4",
+  "glass_id": "er-yb-phosphate",
+  "property": "Thermal expansion coefficient (Kigre QX family; value quoted in a QX/Yb paper)",
+  "value": "8.3×10⁻⁶ /K (25–100 °C), lower than most common phosphate laser glasses; QX/Yb has negative dn/dT (low thermal lensing). Not confirmed for QX/Er.",
+  "source": "https://eprints.soton.ac.uk/77988/1/1385.pdf",
+  "source_host": "eprints.soton.ac.uk",
+  "value_short": "8.3×10⁻⁶ /K"
+ },
+ {
+  "prop_id": "fused-silica-1",
+  "glass_id": "fused-silica",
+  "property": "Refractive index (Corning HPFS 7980)",
+  "value": "1.457016 @ 632.99 nm (22 °C, 1 atm)",
+  "source": "https://www.matweb.com/search/datasheet.aspx?matguid=bce2ed06db914706b33234ed77479652",
+  "source_host": "matweb.com",
+  "value_short": "1.457016 @ 632.99 nm"
+ },
+ {
+  "prop_id": "fused-silica-2",
+  "glass_id": "fused-silica",
+  "property": "Refractive index near 1 µm (Corning HPFS 7980)",
+  "value": "1.450245 @ 1013.98 nm; 1.449681 @ 1060.00 nm (22 °C, dry N2) — Corning datasheet table as extracted by search from a Corning-derived copy (valleydesign.com / uqgoptics.com copies; exact copy not pinned)",
+  "source": "https://valleydesign.com/Datasheets/Corning-Fused-Silica-7980.pdf",
+  "source_host": "valleydesign.com",
+  "value_short": "1.450245 @ 1013.98 nm"
+ },
+ {
+  "prop_id": "fused-silica-3",
+  "glass_id": "fused-silica",
+  "property": "Refractive index near 1 µm (MatWeb, Corning 7980)",
+  "value": "1.450241 @ 1014.26 nm; 1.448866 @ 1128.95 nm (22 °C, 1 atm, N2)",
+  "source": "https://www.matweb.com/search/datasheet.aspx?matguid=bce2ed06db914706b33234ed77479652",
+  "source_host": "matweb.com",
+  "value_short": "1.450241 @ 1014.26 nm"
+ },
+ {
+  "prop_id": "fused-silica-4",
+  "glass_id": "fused-silica",
+  "property": "Refractive index @ 1025 nm (our CARBIDE wavelength)",
+  "value": "≈1.4501 — linear interpolation between the datasheet values at 1013.98 and 1060.00 nm; NOT a datasheet value",
+  "source": "https://valleydesign.com/Datasheets/Corning-Fused-Silica-7980.pdf",
+  "source_host": "valleydesign.com",
+  "value_short": "≈1.4501 — linear interpolation between the datasheet values…"
+ },
+ {
+  "prop_id": "fused-silica-5",
+  "glass_id": "fused-silica",
+  "property": "Refractive index @ 1064 nm (rounded)",
+  "value": "1.450 (UV-grade HPFS 7980, 20 °C)",
+  "source": "https://www.edmundoptics.com/knowledge-center/application-notes/lasers/common-laser-optics-materials/",
+  "source_host": "edmundoptics.com",
+  "value_short": "1.450"
+ },
+ {
+  "prop_id": "fused-silica-6",
+  "glass_id": "fused-silica",
+  "property": "Thermo-optic coefficient dn/dT",
+  "value": "9.6×10⁻⁶ /K @ 1060 nm (Corning datasheet table, as extracted)",
+  "source": "https://valleydesign.com/Datasheets/Corning-Fused-Silica-7980.pdf",
+  "source_host": "valleydesign.com",
+  "value_short": "9.6×10⁻⁶ /K @ 1060 nm"
+ },
+ {
+  "prop_id": "fused-silica-7",
+  "glass_id": "fused-silica",
+  "property": "Abbe number",
+  "value": "Vd 67.8, Ve 67.6",
+  "source": "https://www.matweb.com/search/datasheet.aspx?matguid=bce2ed06db914706b33234ed77479652",
+  "source_host": "matweb.com",
+  "value_short": "Vd 67.8, Ve 67.6"
+ },
+ {
+  "prop_id": "fused-silica-8",
+  "glass_id": "fused-silica",
+  "property": "Softening point (Corning 7980)",
+  "value": "1585 °C (10^7.6 poise); MatWeb lists 1590 °C",
+  "source": "https://valleydesign.com/Datasheets/Corning-Fused-Silica-7980.pdf",
+  "source_host": "valleydesign.com",
+  "value_short": "1585 °C (10^7.6 poise)"
+ },
+ {
+  "prop_id": "fused-silica-9",
+  "glass_id": "fused-silica",
+  "property": "Annealing point (Corning 7980)",
+  "value": "1042 °C (10^13 poise); MatWeb lists 1040 °C",
+  "source": "https://valleydesign.com/Datasheets/Corning-Fused-Silica-7980.pdf",
+  "source_host": "valleydesign.com",
+  "value_short": "1042 °C (10^13 poise)"
+ },
+ {
+  "prop_id": "fused-silica-10",
+  "glass_id": "fused-silica",
+  "property": "Strain point (Corning 7980)",
+  "value": "893 °C (10^14.5 poise)",
+  "source": "https://valleydesign.com/Datasheets/Corning-Fused-Silica-7980.pdf",
+  "source_host": "valleydesign.com",
+  "value_short": "893 °C (10^14.5 poise)"
+ },
+ {
+  "prop_id": "fused-silica-11",
+  "glass_id": "fused-silica",
+  "property": "CTE (Corning 7980)",
+  "value": "0.52 ppm/K (5–35 °C); 0.57 ppm/K (0–200 °C)",
+  "source": "https://valleydesign.com/Datasheets/Corning-Fused-Silica-7980.pdf",
+  "source_host": "valleydesign.com",
+  "value_short": "0.52 ppm/K (5–35 °C)"
+ },
+ {
+  "prop_id": "fused-silica-12",
+  "glass_id": "fused-silica",
+  "property": "Thermal conductivity (Corning 7980)",
+  "value": "1.30 W/(m·K) (Corning-derived datasheet); 1.38 W/(m·K) (MatWeb)",
+  "source": "https://valleydesign.com/Datasheets/Corning-Fused-Silica-7980.pdf",
+  "source_host": "valleydesign.com",
+  "value_short": "1.30 W/(m·K)"
+ },
+ {
+  "prop_id": "fused-silica-13",
+  "glass_id": "fused-silica",
+  "property": "Nonlinear index n2 (bulk fused silica)",
+  "value": "(2.74 ± 0.17)×10⁻²⁰ m²/W @ 1053 nm; (3.0 ± 0.35)×10⁻²⁰ @ 527 nm; (3.6 ± 0.64)×10⁻²⁰ @ 351 nm (Milam review of >30 measurements). Bound-electronic part alone ~2.2×10⁻²⁰ m²/W per a later data-table review (arXiv:2301.06138)",
+  "source": "https://doi.org/10.1364/AO.37.000546",
+  "source_host": "doi.org",
+  "value_short": "(2.74 ± 0.17)×10⁻²⁰ m²/W @ 1053 nm"
+ },
+ {
+  "prop_id": "fused-silica-14",
+  "glass_id": "fused-silica",
+  "property": "OH content — Suprasil 3001/3002/300 (low-OH synthetic)",
+  "value": "< 1 ppm OH; total metal impurities < 1 ppm (Heraeus datasheet)",
+  "source": "https://www.photonicsonline.com/doc/high-purity-synthetic-fused-silica-material-suprasil-datasheet-0001",
+  "source_host": "photonicsonline.com",
+  "value_short": "< 1 ppm OH"
+ },
+ {
+  "prop_id": "fused-silica-15",
+  "glass_id": "fused-silica",
+  "property": "OH content — Suprasil 1/2, 311, 300 (from a paper)",
+  "value": "Suprasil 1 and 2: ~1000 ppm; Suprasil 311: ~200 ppm; Suprasil 300: < 1 ppm",
+  "source": "https://arxiv.org/pdf/cond-mat/0203284",
+  "source_host": "arxiv.org",
+  "value_short": "Suprasil 1 and 2: ~1000 ppm"
+ },
+ {
+  "prop_id": "fused-silica-16",
+  "glass_id": "fused-silica",
+  "property": "OH content — Infrasil 301 (fused natural quartz, 'natural dry')",
+  "value": "≤ 8 ppm (comparison table of silica types; source attribution from search extraction)",
+  "source": "https://arxiv.org/pdf/gr-qc/0404027",
+  "source_host": "arxiv.org",
+  "value_short": "≤ 8 ppm"
+ },
+ {
+  "prop_id": "fused-silica-17",
+  "glass_id": "fused-silica",
+  "property": "Density vs fictive temperature",
+  "value": "anomalous (density increases with fictive temperature); the source names 'silicate glasses with anomalous density behaviour with fictive temperature' in contrast to glasses with normal density behaviour",
+  "source": "https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/198787/1/jace.13482.pdf",
+  "source_host": "repository.kulib.kyoto-u.ac.jp",
+  "value_short": "anomalous"
+ },
+ {
+  "prop_id": "ge-as-se-chalcogenide-1",
+  "glass_id": "ge-as-se-chalcogenide",
+  "property": "Commercial glass / composition (IRG 24)",
+  "value": "SCHOTT IRG 24 = Ge10As40Se50",
+  "source": "https://schott.com/shop/advanced-optics/en/IRG-24/c/glass-IRG24",
+  "source_host": "schott.com",
+  "value_short": "SCHOTT IRG 24 = Ge10As40Se50"
+ },
+ {
+  "prop_id": "ge-as-se-chalcogenide-2",
+  "glass_id": "ge-as-se-chalcogenide",
+  "property": "Refractive index (IRG 24)",
+  "value": "2.7249 @ 1 µm, 2.6192 @ 5 µm, 2.6090 @ 10 µm (SCHOTT; Edmund Optics gives the same). n @ 1.5 µm not retrieved.",
+  "source": "https://schott.com/shop/advanced-optics/en/IRG-24/c/glass-IRG24 ; https://www.edmundoptics.com/p/chalcogenide-glass-window-irg24-254mm-dia-3mm-thick/54859/",
+  "source_host": "schott.com",
+  "value_short": "2.7249 @ 1 µm, 2.6192 @ 5 µm, 2.6090 @ 10 µm"
+ },
+ {
+  "prop_id": "ge-as-se-chalcogenide-3",
+  "glass_id": "ge-as-se-chalcogenide",
+  "property": "Transmission window (IRG 24)",
+  "value": "1.0–14 µm (Edmund Optics wavelength range for IRG 24 windows); SCHOTT: transmits across SWIR, MWIR and LWIR",
+  "source": "https://www.edmundoptics.com/p/chalcogenide-glass-window-irg24-254mm-dia-3mm-thick/54859/",
+  "source_host": "edmundoptics.com",
+  "value_short": "1.0–14 µm"
+ },
+ {
+  "prop_id": "ge-as-se-chalcogenide-4",
+  "glass_id": "ge-as-se-chalcogenide",
+  "property": "Glass transition Tg (IRG 24)",
+  "value": "225 °C",
+  "source": "https://schott.com/shop/advanced-optics/en/IRG-24/c/glass-IRG24",
+  "source_host": "schott.com",
+  "value_short": "225 °C"
+ },
+ {
+  "prop_id": "ge-as-se-chalcogenide-5",
+  "glass_id": "ge-as-se-chalcogenide",
+  "property": "Density / CTE (IRG 24)",
+  "value": "4.47 g/cm³; 20.0 × 10⁻⁶ /K (20–100 °C)",
+  "source": "https://schott.com/shop/advanced-optics/en/IRG-24/c/glass-IRG24",
+  "source_host": "schott.com",
+  "value_short": "4.47 g/cm³"
+ },
+ {
+  "prop_id": "ge-as-se-chalcogenide-6",
+  "glass_id": "ge-as-se-chalcogenide",
+  "property": "dn/dT (IRG 24)",
+  "value": "45.9 × 10⁻⁶ /K @ 1 µm, 21.1 × 10⁻⁶ /K @ 5 µm, 20.3 × 10⁻⁶ /K @ 10 µm (lowest dn/dT of the SCHOTT IRG series per SCHOTT)",
+  "source": "https://schott.com/shop/advanced-optics/en/IRG-24/c/glass-IRG24",
+  "source_host": "schott.com",
+  "value_short": "45.9 × 10⁻⁶ /K @ 1 µm, 21.1 × 10⁻⁶ /K @ 5 µm, 20.3 × 10⁻⁶…"
+ },
+ {
+  "prop_id": "ge-as-se-chalcogenide-7",
+  "glass_id": "ge-as-se-chalcogenide",
+  "property": "IRG 26 (As40Se60, Ge-free) for comparison",
+  "value": "n = 2.7781 @ 10 µm; Tg 185 °C; dn/dT 32.1 × 10⁻⁶ /K @ 10 µm",
+  "source": "https://schott.com/shop/advanced-optics/en/IRG-26/c/glass-IRG26 ; https://www.schott.com/en-au/products/ir-materials/technical-details",
+  "source_host": "schott.com",
+  "value_short": "n = 2.7781 @ 10 µm"
+ },
+ {
+  "prop_id": "ge-as-se-chalcogenide-8",
+  "glass_id": "ge-as-se-chalcogenide",
+  "property": "Compositions used in fs-writing papers",
+  "value": "GASIR-1 = Ge22As20Se58 (Umicore) in morris2018gasir1; IG2 = Ge33As12Se55 in butcher2018ig2",
+  "source": "https://researchportal.hw.ac.uk/en/publications/gesub22subassub20subsesub58sub-glass-ultrafast-laser-inscribed-wa/ ; https://researchportal.hw.ac.uk/en/publications/demonstration-and-characterization-of-ultrafast-laser-inscribed-m/",
+  "source_host": "researchportal.hw.ac.uk",
+  "value_short": "GASIR-1 = Ge22As20Se58"
+ },
+ {
+  "prop_id": "gls-1",
+  "glass_id": "gls",
+  "property": "Refractive index",
+  "value": "2.398 @ 1.014 µm",
+  "source": "https://www.crystran.com/optical-materials/gallium-lanthanum-sulphide-gls",
+  "source_host": "crystran.com",
+  "value_short": "2.398 @ 1.014 µm"
+ },
+ {
+  "prop_id": "gls-2",
+  "glass_id": "gls",
+  "property": "Transmission window",
+  "value": "0.5–10 µm (vendor); long-wave edge 9–15 µm quoted depending on composition",
+  "source": "https://www.crystran.com/optical-materials/gallium-lanthanum-sulphide-gls ; https://arxiv.org/pdf/1411.7156",
+  "source_host": "crystran.com",
+  "value_short": "0.5–10 µm (vendor)"
+ },
+ {
+  "prop_id": "gls-3",
+  "glass_id": "gls",
+  "property": "Glass transition Tg",
+  "value": "≈560 °C (Southampton table); vendor quotes thermal stability up to ~550 °C, melting point 830 °C",
+  "source": "https://eprints.soton.ac.uk/16943/1/2001.pdf ; https://crystran.com/media/wysiwyg/Materials/gallium-lanthanum-sulphide-galas-data-sheet.pdf",
+  "source_host": "eprints.soton.ac.uk",
+  "value_short": "≈560 °C (Southampton table)"
+ },
+ {
+  "prop_id": "gls-4",
+  "glass_id": "gls",
+  "property": "Density",
+  "value": "4.04 g/cm³",
+  "source": "https://crystran.com/media/wysiwyg/Materials/gallium-lanthanum-sulphide-galas-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "4.04 g/cm³"
+ },
+ {
+  "prop_id": "gls-5",
+  "glass_id": "gls",
+  "property": "Thermal conductivity",
+  "value": "0.43 W m⁻¹ K⁻¹ @ 273 K",
+  "source": "https://crystran.com/media/wysiwyg/Materials/gallium-lanthanum-sulphide-galas-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "0.43 W m⁻¹ K⁻¹ @ 273 K"
+ },
+ {
+  "prop_id": "gls-6",
+  "glass_id": "gls",
+  "property": "CTE",
+  "value": "10 × 10⁻⁶ K⁻¹ @ 273 K",
+  "source": "https://crystran.com/media/wysiwyg/Materials/gallium-lanthanum-sulphide-galas-data-sheet.pdf",
+  "source_host": "crystran.com",
+  "value_short": "10 × 10⁻⁶ K⁻¹ @ 273 K"
+ },
+ {
+  "prop_id": "gls-7",
+  "glass_id": "gls",
+  "property": "dn/dT",
+  "value": "+75 × 10⁻⁶ /°C (reseller data sheet)",
+  "source": "https://nonlinearcrystal.alfa-chemistry.com/gallium-lanthanum-sulphide.html",
+  "source_host": "nonlinearcrystal.alfa-chemistry.com",
+  "value_short": "+75 × 10⁻⁶ /°C"
+ },
+ {
+  "prop_id": "gls-8",
+  "glass_id": "gls",
+  "property": "Maximum phonon energy",
+  "value": "≈425 cm⁻¹ (one vendor page: 450 cm⁻¹)",
+  "source": "https://arxiv.org/pdf/1411.7156 ; https://eprints.soton.ac.uk/16943/1/2001.pdf",
+  "source_host": "arxiv.org",
+  "value_short": "≈425 cm⁻¹"
+ },
+ {
+  "prop_id": "gls-9",
+  "glass_id": "gls",
+  "property": "Nonlinear index n2",
+  "value": "Described as almost three orders of magnitude above fused silica; Southampton table gives a χ3-related value of 300 × 10⁻¹³ esu (column labelling unclear). No verified value in m²/W retrieved.",
+  "source": "https://www.researchgate.net/publication/282683228_Properties_of_Gallium_Lanthanum_Sulphide_Glass ; https://eprints.soton.ac.uk/16943/1/2001.pdf",
+  "source_host": "researchgate.net",
+  "value_short": "Described as almost three orders of magnitude above fused…"
+ },
+ {
+  "prop_id": "gls-10",
+  "glass_id": "gls",
+  "property": "Two-photon / nonlinear absorption",
+  "value": "Tunnelling identified as the dominant nonlinear absorption mechanism during fs writing (hughes2007gls). Note: at 1025 nm the two-photon energy (2.42 eV) is close to the ~0.5 µm (2.48 eV) short-wave edge, a calculation from the window above.",
+  "source": "https://arxiv.org/abs/2110.10471",
+  "source_host": "arxiv.org",
+  "value_short": "Tunnelling identified as the dominant nonlinear absorption…"
+ },
+ {
+  "prop_id": "lead-germanate-1",
+  "glass_id": "lead-germanate",
+  "property": "Nonlinear index n2 (qualitative)",
+  "value": "High n2 of the GPGN glass causes strong self-focusing at all writing rep. rates (100 kHz–5 MHz); no number retrieved",
+  "source": "https://journals.spiedigitallibrary.org/conference-proceedings-of-spie/13440/134400E/Optimization-of-femtosecond-laser-written-waveguides-in-germanate-glass-for/10.1117/12.3055269.full",
+  "source_host": "journals.spiedigitallibrary.org",
+  "value_short": "High n2 of the GPGN glass causes strong self-focusing at…"
+ },
+ {
+  "prop_id": "modified-fluorozirconate-1",
+  "glass_id": "modified-fluorozirconate",
+  "property": "Transmission window",
+  "value": "Mid-IR guidance shown at 3.1 µm (exact window not retrieved)",
+  "source": "https://www.nature.com/articles/s41598-022-18701-y",
+  "source_host": "nature.com",
+  "value_short": "Mid-IR guidance shown at 3.1 µm"
+ },
+ {
+  "prop_id": "rare-earth-doped-zblan-1",
+  "glass_id": "rare-earth-doped-zblan",
+  "property": "Host refractive index",
+  "value": "≈1.49 @ 1550 nm",
+  "source": "https://www.adelaide.edu.au/ipas/ua/media/747/ZBLAN%20glass%20fabrication_Optofa%20Adelaide_Aug%202020_0.pdf",
+  "source_host": "adelaide.edu.au",
+  "value_short": "≈1.49 @ 1550 nm"
+ },
+ {
+  "prop_id": "rare-earth-doped-zblan-2",
+  "glass_id": "rare-earth-doped-zblan",
+  "property": "Host transmission window",
+  "value": "0.3–5.0 µm (datasheet)",
+  "source": "https://www.adelaide.edu.au/ipas/ua/media/747/ZBLAN%20glass%20fabrication_Optofa%20Adelaide_Aug%202020_0.pdf",
+  "source_host": "adelaide.edu.au",
+  "value_short": "0.3–5.0 µm (datasheet)"
+ },
+ {
+  "prop_id": "rare-earth-doped-zblan-3",
+  "glass_id": "rare-earth-doped-zblan",
+  "property": "Host Tg",
+  "value": "≈265 °C",
+  "source": "https://www.adelaide.edu.au/ipas/ua/media/747/ZBLAN%20glass%20fabrication_Optofa%20Adelaide_Aug%202020_0.pdf",
+  "source_host": "adelaide.edu.au",
+  "value_short": "≈265 °C"
+ },
+ {
+  "prop_id": "rare-earth-doped-zblan-4",
+  "glass_id": "rare-earth-doped-zblan",
+  "property": "Maximum phonon energy",
+  "value": "≈550–600 cm⁻¹ (low multiphonon decay, so mid-IR transitions such as Ho 2.9 µm can lase)",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13514792/",
+  "source_host": "pmc.ncbi.nlm.nih.gov",
+  "value_short": "≈550–600 cm⁻¹"
+ },
+ {
+  "prop_id": "schott-n-bk7-1",
+  "glass_id": "schott-n-bk7",
+  "property": "Refractive index",
+  "value": "n_d = 1.51680 @ 587.6 nm; 1.50669 @ 1060.0 nm; 1.50091 @ 1529.6 nm (SCHOTT datasheet)",
+  "source": "https://www.uio.no/studier/emner/matnat/fys/FYS2150/v17/kursmateriell/datablader-og-brukermanualer/schott-optical-glass-collection-datasheets-english-17012017.pdf",
+  "source_host": "uio.no",
+  "value_short": "n_d = 1.51680 @ 587.6 nm"
+ },
+ {
+  "prop_id": "schott-n-bk7-2",
+  "glass_id": "schott-n-bk7",
+  "property": "Density",
+  "value": "2.51 g/cm³ (secondary page reproducing SCHOTT data)",
+  "source": "https://www.pgo-online.com/intl/BK7.html ; https://shalomeo.com/N-BK7.html",
+  "source_host": "pgo-online.com",
+  "value_short": "2.51 g/cm³"
+ },
+ {
+  "prop_id": "schott-n-bk7-3",
+  "glass_id": "schott-n-bk7",
+  "property": "Transformation temperature Tg",
+  "value": "557 °C (secondary page reproducing SCHOTT data)",
+  "source": "https://www.pgo-online.com/intl/BK7.html ; https://shalomeo.com/N-BK7.html",
+  "source_host": "pgo-online.com",
+  "value_short": "557 °C"
+ },
+ {
+  "prop_id": "schott-n-bk7-4",
+  "glass_id": "schott-n-bk7",
+  "property": "Coefficient of thermal expansion",
+  "value": "7.1 × 10⁻⁶ /K (−30 to +70 °C); 8.3 × 10⁻⁶ /K (20–300 °C) (secondary page reproducing SCHOTT data)",
+  "source": "https://www.pgo-online.com/intl/BK7.html ; https://shalomeo.com/N-BK7.html",
+  "source_host": "pgo-online.com",
+  "value_short": "7.1 × 10⁻⁶ /K (−30 to +70 °C)"
+ },
+ {
+  "prop_id": "schott-n-bk7-5",
+  "glass_id": "schott-n-bk7",
+  "property": "Thermal conductivity",
+  "value": "1.114 W/(m·K) (secondary page reproducing SCHOTT data)",
+  "source": "https://www.pgo-online.com/intl/BK7.html ; https://shalomeo.com/N-BK7.html",
+  "source_host": "pgo-online.com",
+  "value_short": "1.114 W/(m·K)"
+ },
+ {
+  "prop_id": "schott-n-sf8-1",
+  "glass_id": "schott-n-sf8",
+  "property": "Thermal conductivity",
+  "value": "1.03 W/(m·K)",
+  "source": "https://eprints.soton.ac.uk/413314/1/Optical_Materials_Accepted_manuscript.pdf",
+  "source_host": "eprints.soton.ac.uk",
+  "value_short": "1.03 W/(m·K)"
+ },
+ {
+  "prop_id": "tellurite-tzn-1",
+  "glass_id": "tellurite-tzn",
+  "property": "Glass transition temperature (standard TZN, implied)",
+  "value": "~556 K (~283 °C), implied by Lousteau et al.: TeO2–ZnO–La2O3 Tg = 626 K is '70 K higher than standard TZN'",
+  "source": "https://iris.inrim.it/retrieve/756972c5-e7b2-477c-8f8b-40fe890cf0eb/20_Lousteau_Spie%20Photonics%20Europe.pdf",
+  "source_host": "iris.inrim.it",
+  "value_short": "~556 K"
+ },
+ {
+  "prop_id": "tellurite-tzn-2",
+  "glass_id": "tellurite-tzn",
+  "property": "Thermal stability 75TeO2–20ZnO–5Na2O",
+  "value": "Tx − Tg = 119.2 °C (DSC, 10 °C/min); Tg itself not given in excerpt",
+  "source": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6356387",
+  "source_host": "image-ppubs.uspto.gov",
+  "value_short": "Tx − Tg = 119.2 °C"
+ },
+ {
+  "prop_id": "tellurite-tzn-3",
+  "glass_id": "tellurite-tzn",
+  "property": "Nonlinear index n2 (TeO2–MO–R2O family incl. ZnO/Na2O modifiers; fs Z-scan at 800 nm)",
+  "value": "1.31–2.81×10⁻¹⁵ cm^2/W = 1.31–2.81×10⁻¹⁹ m^2/W (thermo-optic contribution negligible); not the exact 75/20/5 TZN composition",
+  "source": "https://api.creol.ucf.edu/Publications/4949.pdf",
+  "source_host": "api.creol.ucf.edu",
+  "value_short": "1.31–2.81×10⁻¹⁵ cm^2/W = 1.31–2.81×10⁻¹⁹ m^2/W"
+ },
+ {
+  "prop_id": "tellurite-tzn-4",
+  "glass_id": "tellurite-tzn",
+  "property": "IR absorption limiting the transmission window (TeO2–ZnO–Na2O)",
+  "value": "OH bands: free OH ~3.0 um (3300 cm^-1), weakly H-bonded ~3.3 um (3060 cm^-1), strongly H-bonded ~4.8 um (2090 cm^-1); tellurites generally transmit vis–IR up to ~6 um (review statement)",
+  "source": "https://eprints.nottingham.ac.uk/10089",
+  "source_host": "eprints.nottingham.ac.uk",
+  "value_short": "OH bands: free OH ~3.0 um"
+ },
+ {
+  "prop_id": "tellurite-tzn-6",
+  "glass_id": "tellurite-tzn",
+  "property": "Er3+ spectroscopy (Er-doped phospho-tellurite of nandi2006tellurite)",
+  "value": "peak emission cross-section 6×10⁻²¹ cm^2 at 1537 nm; 4I13/2 lifetime 4.1 ms",
+  "source": "https://pesquisa.bvsalud.org/ses/resource/es/mdl-19529641",
+  "source_host": "pesquisa.bvsalud.org",
+  "value_short": "peak emission cross-section 6×10⁻²¹ cm^2 at 1537 nm"
+ },
+ {
+  "prop_id": "tungsten-tellurite-twb-1",
+  "glass_id": "tungsten-tellurite-twb",
+  "property": "Nonlinearity / 2PA (qualitative)",
+  "value": "Authors: high χ(3) coefficient and relatively low two-photon absorption in the near- and mid-IR (no number retrieved)",
+  "source": "https://istina.msu.ru/download/151273840/1meSxH:pB3r-ob7jdtRAvX5kwwAmlTdDQA/",
+  "source_host": "istina.msu.ru",
+  "value_short": "Authors: high χ(3) coefficient and relatively low…"
+ },
+ {
+  "prop_id": "yb-phosphate-1",
+  "glass_id": "yb-phosphate",
+  "property": "Rare-earth doping level (Kigre QX/Yb, ams2009yb100mw)",
+  "value": "9 wt% Yb",
+  "source": "https://arxiv.org/abs/0809.4550",
+  "source_host": "arxiv.org",
+  "value_short": "9 wt% Yb"
+ },
+ {
+  "prop_id": "yb-phosphate-2",
+  "glass_id": "yb-phosphate",
+  "property": "Rare-earth doping level (Schott IOG-1, Southampton ion-exchanged waveguides)",
+  "value": "12 wt% Yb",
+  "source": "https://eprints.soton.ac.uk/367840",
+  "source_host": "eprints.soton.ac.uk",
+  "value_short": "12 wt% Yb"
+ },
+ {
+  "prop_id": "yb-phosphate-3",
+  "glass_id": "yb-phosphate",
+  "property": "Laser / pump wavelengths in fs-written waveguides",
+  "value": "lasing at 1033 nm, pumped at 976 nm (ams2009yb100mw)",
+  "source": "https://opg.optica.org/ol/abstract.cfm?uri=ol-34-3-247",
+  "source_host": "opg.optica.org",
+  "value_short": "lasing at 1033 nm, pumped at 976 nm (ams2009yb100mw)"
+ },
+ {
+  "prop_id": "zblan-1",
+  "glass_id": "zblan",
+  "property": "Refractive index",
+  "value": "≈1.49 @ 1550 nm (datasheet); n_D ≈ 1.498 @ 589 nm (fluoride-glass property table)",
+  "source": "https://www.adelaide.edu.au/ipas/ua/media/747/ZBLAN%20glass%20fabrication_Optofa%20Adelaide_Aug%202020_0.pdf ; https://www.sciencedirect.com/topics/materials-science/fluoride-glasses",
+  "source_host": "adelaide.edu.au",
+  "value_short": "≈1.49 @ 1550 nm (datasheet)"
+ },
+ {
+  "prop_id": "zblan-2",
+  "glass_id": "zblan",
+  "property": "Transmission window",
+  "value": "0.3–5.0 µm (Adelaide datasheet); ~0.2–8 µm quoted for well-synthesised bulk; 0.35–4 µm for fibre",
+  "source": "https://www.adelaide.edu.au/ipas/ua/media/747/ZBLAN%20glass%20fabrication_Optofa%20Adelaide_Aug%202020_0.pdf ; https://pmc.ncbi.nlm.nih.gov/articles/PMC13514792/",
+  "source_host": "adelaide.edu.au",
+  "value_short": "0.3–5.0 µm"
+ },
+ {
+  "prop_id": "zblan-3",
+  "glass_id": "zblan",
+  "property": "Glass transition Tg",
+  "value": "≈265 °C (datasheet); 250–300 °C depending on composition (mainly Na content)",
+  "source": "https://www.adelaide.edu.au/ipas/ua/media/747/ZBLAN%20glass%20fabrication_Optofa%20Adelaide_Aug%202020_0.pdf ; https://pmc.ncbi.nlm.nih.gov/articles/PMC13514792/",
+  "source_host": "adelaide.edu.au",
+  "value_short": "≈265 °C (datasheet)"
+ },
+ {
+  "prop_id": "zblan-4",
+  "glass_id": "zblan",
+  "property": "Density",
+  "value": "≈4.50 g/cm³",
+  "source": "https://www.adelaide.edu.au/ipas/ua/media/747/ZBLAN%20glass%20fabrication_Optofa%20Adelaide_Aug%202020_0.pdf",
+  "source_host": "adelaide.edu.au",
+  "value_short": "≈4.50 g/cm³"
+ },
+ {
+  "prop_id": "zblan-5",
+  "glass_id": "zblan",
+  "property": "CTE",
+  "value": "≈20 × 10⁻⁶ /°C (datasheet); 162–200 × 10⁻⁷ K⁻¹ in a waveguide-laser paper table",
+  "source": "https://www.adelaide.edu.au/ipas/ua/media/747/ZBLAN%20glass%20fabrication_Optofa%20Adelaide_Aug%202020_0.pdf",
+  "source_host": "adelaide.edu.au",
+  "value_short": "≈20 × 10⁻⁶ /°C (datasheet)"
+ },
+ {
+  "prop_id": "zblan-6",
+  "glass_id": "zblan",
+  "property": "Maximum phonon energy",
+  "value": "≈550–600 cm⁻¹ (some sources ~500 cm⁻¹)",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13514792/ ; https://www.sciencedirect.com/topics/materials-science/fluoride-glasses",
+  "source_host": "pmc.ncbi.nlm.nih.gov",
+  "value_short": "≈550–600 cm⁻¹"
+ },
+ {
+  "prop_id": "zblan-7",
+  "glass_id": "zblan",
+  "property": "Nonlinear index n2",
+  "value": "≈1 × 10⁻²⁰ m²/W (one review table; original measurement not checked)",
+  "source": "https://www.sciencedirect.com/topics/materials-science/fluoride-glasses",
+  "source_host": "sciencedirect.com",
+  "value_short": "≈1 × 10⁻²⁰ m²/W"
+ }
+]

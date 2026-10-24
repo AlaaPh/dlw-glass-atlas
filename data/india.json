@@ -1,0 +1,30 @@
+[
+ {
+  "name": "Sebabrata Mukherjee",
+  "affiliation": "Indian Institute of Science (IISc), Bangalore, Department of Physics",
+  "evidence": "PI of the 2022–2024 project 'Development of fs laser written waveguide lattices with synthetic magnetic flux' (Floquet engineering). 2024 IISc + Penn State work with M. Rechtsman: arrays in Corning EAGLE XG written with a 1030 nm fs fiber laser. Flat-band compact-localized-state experiments.",
+  "url": "https://www.indiascienceandtechnology.gov.in/research/development-fs-laser-written-waveguide-lattices-synthetic-magnetic-flux",
+  "url_host": "indiascienceandtechnology.gov.in"
+ },
+ {
+  "name": "Deepak Mathur, J. A. Dharmadhikari, A. K. Dharmadhikari",
+  "affiliation": "Tata Institute of Fundamental Research (TIFR), Mumbai (with SAMEER, IIT Bombay campus)",
+  "evidence": "'Writing low-loss waveguides in borosilicate (BK7) glass with a low-repetition-rate femtosecond laser', Opt. Commun. 284, 630–634 (2011): 1 kHz, 40 fs, 800 nm, 500 µm slit, 100 µm depth, Δn 3e-4, ~0.5 dB/cm at 635 nm, guiding dose window 0.6–1.5 µJ/µm³. Also a 2012 conference paper on a BK7 1×2 splitter (0.3 dB/cm at 1550 nm).",
+  "url": "https://repository.ias.ac.in/77625",
+  "url_host": "repository.ias.ac.in"
+ },
+ {
+  "name": "S. Venugopal Rao (Soma Venugopal Rao)",
+  "affiliation": "University of Hyderabad, ACRHEM",
+  "evidence": "Ultrafast nonlinear optics and fs laser materials processing (2019 plenary talk on this); his older IIT Guwahati page lists 'Femtosecond Laser Direct Writing' among his interests.",
+  "url": "https://www.iitg.ac.in/physics/fac/soma_venu",
+  "url_host": "iitg.ac.in"
+ },
+ {
+  "name": "Mahatma Gandhi University group (Kottayam, Kerala); PI not identified",
+  "affiliation": "Mahatma Gandhi University, Kerala, with a Spanish partner (likely CSIC)",
+  "evidence": "arXiv 1503.01927, 'Optical channel waveguides written by high repetition rate femtosecond laser irradiation in Li-Zn fluoroborate glass' (low-loss channel waveguides).",
+  "url": "https://arxiv.org/abs/1503.01927",
+  "url_host": "arxiv.org"
+ }
+]

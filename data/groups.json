@@ -1,0 +1,134 @@
+[
+ {
+  "group_id": "szameit",
+  "pi": "Alexander Szameit",
+  "affiliation": "Universität Rostock, Institute of Physics (previously Friedrich-Schiller-Universität Jena, IAP, with S. Nolte)",
+  "country": "Germany",
+  "homepage": null,
+  "glasses_used": "fused silica (Corning 7980, high-purity, 10–15 cm long samples)",
+  "laser_systems": "Coherent RegA 9000 regenerative amplifier seeded by Mira Ti:sapphire oscillator; 800 nm, 150 fs, 100 kHz, 450 nJ; sample translated at 100 mm/min in 15 cm Corning 7980\nRegenerative Ti:sapphire amplifier seeded by Mira 900; ~450 nJ at 100 kHz; NA 0.35 objective; 10 cm fused-silica samples",
+  "topics": "Discrete optics and discrete solitons in fs-laser-written waveguide arrays, Photonic Floquet topological insulators (helical waveguides), Anomalous Floquet topological insulators, Supersymmetric optics / mode converters, Non-Hermitian and PT-symmetric photonic lattices",
+  "summary": "Szameit's group writes evanescently coupled waveguide lattices in fused silica with a 100 kHz Ti:sapphire amplifier (RegA 9000) and uses them as a test bed for discrete, topological and non-Hermitian photonics. Key results include the first discrete solitons in fs-written arrays (2005), the photonic Floquet topological insulator (2013, with Segev/Rechtsman) and the anomalous Floquet insulator (2017). Our lab is linked to this group."
+ },
+ {
+  "group_id": "rechtsman",
+  "pi": "Mikael C. Rechtsman",
+  "affiliation": "The Pennsylvania State University, Department of Physics (Professor of Physics, Associate Head for Research)",
+  "country": "USA",
+  "homepage": "https://science.psu.edu/physics/people/mcr22",
+  "glasses_used": "Corning EAGLE XG borosilicate",
+  "laser_systems": "Femtosecond fiber laser, 1030 nm",
+  "topics": "Topological photonics in fs-laser-written waveguide arrays (Floquet topological insulators), Topological solitons and nonlinear topological photonics in laser-written arrays (2021 talk abstract), Topological protection of photonic mid-gap defect modes (Nature Photonics 2018, listed on his profile), Light–structured-matter interaction in the quantum and nonlinear regimes",
+  "summary": "Rechtsman, first author of the photonic Floquet topological insulator paper (Nature 2013, with Szameit and Segev), now runs a Penn State group that writes 'hundreds of waveguides' in glass by femtosecond direct laser writing (Azrieli profile). The group works on topological, nonlinear and quantum photonics in these arrays. According to a secondary source, recent work uses EAGLE XG borosilicate and a 1030 nm fiber laser."
+ },
+ {
+  "group_id": "joerg",
+  "pi": "Christina Jörg",
+  "affiliation": "RPTU Kaiserslautern-Landau, Department of Physics (Juniorprofessorin, W1); formerly Feodor Lynen postdoctoral fellow with M. C. Rechtsman at Penn State (from 01/03/2020)",
+  "country": "Germany",
+  "homepage": "https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1209701/",
+  "glasses_used": null,
+  "laser_systems": null,
+  "topics": "Waveguides and topological photonics (Humboldt profile keywords), Nonlinear photonics: fractional Thouless pumping of solitons (Nature Physics 2023, with Rechtsman), 3D micro-printing (two-photon direct laser writing), Orbital angular momentum modes in waveguides",
+  "summary": "Christina Jörg, a former Penn State postdoc of Rechtsman (Humboldt/Feodor Lynen fellow), is now a junior professor at RPTU Kaiserslautern-Landau. Her listed keywords are waveguides, topological photonics, nonlinear photonics, 3D micro-printing and orbital angular momentum. At Penn State she co-authored the Nature Physics 2023 paper on fractional Thouless pumping of solitons in laser-written arrays."
+ },
+ {
+  "group_id": "kar",
+  "pi": "Ajoy K. Kar",
+  "affiliation": "Heriot-Watt University, School of Engineering and Physical Sciences (Institute of Photonics and Quantum Sciences), Nonlinear Optics group, Edinburgh",
+  "country": "UK",
+  "homepage": "https://www.nlo.hw.ac.uk/akk.html",
+  "glasses_used": "erbium-doped glasses (amplifiers/lasers; HW thesis record https://www.ros.hw.ac.uk/handle/10399/2325), Er-doped bismuthate glass (CW and mode-locked waveguide lasers; HW thesis record), bismuth-ion-doped silicate glass (Opt. Express 2006, Δn up to ~4.3e-3), chalcogenide glasses including GASIR-1 (HW thesis and research-portal records)",
+  "laser_systems": null,
+  "topics": "Ultrafast laser inscription (ULI) of photonic devices, Waveguide amplifiers and lasers in doped glasses (Er, Er-bismuthate, Tm; mode-locked waveguide lasers), Mid-IR waveguides and waveguide lasers (chalcogenide GASIR-1; Tm-doped sesquioxide ceramic), ULI plus selective chemical etching for optofluidics and biophotonics (cell-sorting biochips), Ultrafast nonlinear optics, white-light continuum",
+  "summary": "Kar leads the Nonlinear Optics group at Heriot-Watt and has more than 30 years in nonlinear optics (HW page). He is one of the main developers of ultrafast laser inscription: waveguide amplifiers and lasers in Er-, Er:bismuthate- and Bi-doped glasses, chalcogenide mid-IR waveguides, and ULI-plus-etching optofluidic chips."
+ },
+ {
+  "group_id": "mukherjee",
+  "pi": "Sebabrata Mukherjee",
+  "affiliation": "Indian Institute of Science (IISc), Bangalore, Department of Physics; collaborates with M. C. Rechtsman (Penn State)",
+  "country": "India",
+  "homepage": null,
+  "glasses_used": "Corning EAGLE XG borosilicate",
+  "laser_systems": "Femtosecond fiber laser, 1030 nm (secondary: same 2024 supplementary)",
+  "topics": "fs-laser-written waveguide lattices with synthetic magnetic flux via Floquet engineering (IISc project 2022–2024), Flat-band photonic lattices: excitation of compact localized states, Topological edge states and solitons in driven waveguide lattices (with Rechtsman)",
+  "summary": "Mukherjee is PI of an Indian government-funded project at IISc Bangalore on fs-laser-written waveguide lattices with synthetic magnetic flux. A 2024 IISc/Penn State paper with Rechtsman describes arrays written in EAGLE XG with a 1030 nm fiber laser. He is the India-based fs-written glass-waveguide researcher closest to the Szameit/Rechtsman/Jörg circle."
+ },
+ {
+  "group_id": "osellame",
+  "pi": "Roberto Osellame",
+  "affiliation": "CNR – Istituto di Fotonica e Nanotecnologie (IFN), Milan, with Politecnico di Milano, Dipartimento di Fisica (A. Crespi)",
+  "country": "Italy",
+  "homepage": null,
+  "glasses_used": null,
+  "laser_systems": null,
+  "topics": "Integrated quantum photonics by fs laser writing, Multi-scan waveguides and control of birefringence",
+  "summary": "Osellame's group at CNR-IFN and Politecnico di Milano is a leading fs-laser-writing group for integrated quantum photonics, active in 2026 (multi-scan waveguide birefringence preprint with Crespi)."
+ },
+ {
+  "group_id": "withford-gross",
+  "pi": "Michael J. Withford & Simon Gross",
+  "affiliation": "Macquarie University (MQ Photonics), Sydney",
+  "country": "Australia",
+  "homepage": null,
+  "glasses_used": "fluoride glasses for mid-IR (research focus of co-worker T. T. Fernandez, Adelaide profile)",
+  "laser_systems": null,
+  "topics": "Low-loss, low-bend-loss ULI waveguides for 3D photonic integrated circuits, Waveguides, splitters, interferometers, Bragg gratings, integrated lasers and quantum circuits (MQ publication record), Mid-IR integrated photonics in tailored fluoride glasses",
+  "summary": "The Macquarie group (Withford, Gross) makes fs-laser-written low-loss waveguides, Bragg gratings, waveguide lasers and quantum circuits in bulk glass. Recent work targets high-index, low-bend-loss composite-morphology waveguides and mid-IR fluoride-glass devices."
+ },
+ {
+  "group_id": "herman-eaton",
+  "pi": "Peter R. Herman & Shane M. Eaton",
+  "affiliation": "University of Toronto, Electrical & Computer Engineering (Herman); CNR-IFN Milan (Eaton, formerly in Herman's group).",
+  "country": "Canada / Italy",
+  "homepage": null,
+  "glasses_used": null,
+  "laser_systems": null,
+  "topics": "High-repetition-rate (MHz) writing and heat accumulation vs thermal diffusion",
+  "summary": "Herman (Toronto) and his former student Eaton (now CNR-IFN) did foundational work on cumulative-heating waveguide writing at MHz repetition rates, which matters for our 60–1008 kHz CARBIDE."
+ },
+ {
+  "group_id": "thomson",
+  "pi": "Robert R. Thomson",
+  "affiliation": "Heriot-Watt University, Edinburgh",
+  "country": "UK",
+  "homepage": null,
+  "glasses_used": null,
+  "laser_systems": null,
+  "topics": "Astrophotonics (photonic lanterns, fan-outs), photonic lattices",
+  "summary": "Thomson's Heriot-Watt group is known for ULI astrophotonics and photonic-lattice experiments (Mukherjee's PhD work)."
+ },
+ {
+  "group_id": "solis-fernandez",
+  "pi": "Javier Solis & Toney Teddy Fernandez",
+  "affiliation": "Instituto de Óptica, CSIC, Madrid (Solis; Fernandez's ion-migration work); Fernandez now has a University of Adelaide researcher profile and co-authors with Withford and Gross",
+  "country": "Spain / Australia",
+  "homepage": "https://researchers.adelaide.edu.au/node/94874",
+  "glasses_used": "phosphate glass (ion-migration waveguides, 2013; CSIC repository https://digital.csic.es/bitstream/10261/90514/1/Fernandez.pdf), tellurite glass (Opt. Express 2014: Te migrates to the positive-index zone, Na cross-migrates), Li-Zn fluoroborate glass (with Mahatma Gandhi University, Kerala; arXiv 1503.01927), fluoride glasses for mid-IR (Fernandez, current focus)",
+  "laser_systems": null,
+  "topics": "Ultrafast-laser-driven ion migration for high-index-contrast, low-loss waveguides in multicomponent glasses, Two regimes of migration at high repetition rate: light elements first, then heavy elements, High-index-contrast waveguides in fluoride glasses for mid-IR",
+  "summary": "Solis's CSIC group, with Toney T. Fernandez, showed that high-repetition-rate fs writing in multicomponent glasses (phosphate, tellurite, fluoroborate) drives element-selective ion migration, giving high index contrast. Fernandez now continues this with the Macquarie group on fluoride glasses for the mid-IR."
+ },
+ {
+  "group_id": "bellouard",
+  "pi": "Yves Bellouard",
+  "affiliation": "EPFL, Galatea Lab, Neuchâtel",
+  "country": "Switzerland",
+  "homepage": null,
+  "glasses_used": null,
+  "laser_systems": null,
+  "topics": "fs laser exposure plus chemical etching of fused silica for micro-fluidics and micro-mechanics",
+  "summary": "Bellouard's group works on fs-laser modification and etching of fused silica for 3D micro-devices more than on waveguides."
+ },
+ {
+  "group_id": "nolte",
+  "pi": "Stefan Nolte",
+  "affiliation": "Friedrich-Schiller-Universität Jena, Institute of Applied Physics, and Fraunhofer IOF",
+  "country": "Germany",
+  "homepage": null,
+  "glasses_used": "fused silica (co-author on the Szameit-group papers above)",
+  "laser_systems": "Coherent RegA 9000 + Mira, 800 nm, 150 fs, 100 kHz, 450 nJ, 100 mm/min (shared Jena/Rostock setup in Maczewsky et al. 2017, Nolte co-author; arXiv 1605.03877)",
+  "topics": "fs waveguide writing in fused silica (early Jena work with Tünnermann), Waveguide tapering (Heilmann et al., Appl. Opt. 57, 377 (2018), with Szameit and Walther)",
+  "summary": "Nolte's Jena group (IAP / Fraunhofer IOF) is where the Szameit-style fused-silica waveguide-array platform began. Nolte co-authored the 2005 discrete-soliton, 2014 SUSY and 2017 anomalous-Floquet papers in the Szameit card."
+ }
+]
